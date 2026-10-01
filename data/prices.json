@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-01T17:21:30Z",
+  "updated_at": "2026-10-01T21:11:33Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -191,11 +191,12 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 683.89, "merchant": "Future-X.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T17:21:30Z"},
+      "current": {"price": 683.88, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T21:11:33Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
-        ["2026-10-01T17:21:30Z", 683.89, "geizhals"]
+        ["2026-10-01T17:21:30Z", 683.89, "geizhals"],
+        ["2026-10-01T21:11:33Z", 683.88, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
