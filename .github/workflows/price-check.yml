@@ -29,18 +29,18 @@ jobs:
     outputs:
       deploy: ${{ github.event_name == 'push' || steps.check.outputs.skipped != 'true' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Python einrichten (nicht bei Push – dort wird nur veröffentlicht)
         if: github.event_name != 'push'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Laufzeit-Zustand (Backoff, letzter Lauf) aus dem Cache holen
         if: github.event_name != 'push'
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: .state
           key: state-${{ github.run_id }}
@@ -79,7 +79,7 @@ jobs:
           cp config/targets.json _site/config/
           cp data/*.json _site/data/
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: github.event_name == 'push' || steps.check.outputs.skipped != 'true'
         with:
           path: _site
@@ -93,4 +93,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
