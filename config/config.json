@@ -1,0 +1,42 @@
+{
+  "check_interval_minutes": 30,
+  "sources": ["geizhals", "billiger", "shopify"],
+  "geizhals": {
+    "base_url": "https://preisvergleich.heise.de",
+    "only_german_merchants": true,
+    "require_in_stock": true
+  },
+  "http": {
+    "user_agent": "PCBuildPriceTracker/1.0 (privates Hobbyprojekt; 1 Abruf je Teil alle 30 Min.)",
+    "timeout_s": 20,
+    "delay_s": [3, 8],
+    "retries": 1
+  },
+  "backoff": {
+    "base_minutes": 60,
+    "max_minutes": 720
+  },
+  "history": {
+    "max_points": 500
+  },
+  "alerts": {
+    "deal_threshold_pct": 5,
+    "avg_days": 30,
+    "min_history_days": 3,
+    "min_change_eur": 1.0,
+    "min_change_pct": 0.5,
+    "rearm_rise_pct": 5
+  },
+  "mail": {
+    "enabled": true,
+    "subject_prefix": "[PC-Build]",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465
+  },
+  "paths": {
+    "parts": "data/parts.json",
+    "prices": "data/prices.json",
+    "status": "data/status.json",
+    "runtime": ".state/runtime.json"
+  }
+}

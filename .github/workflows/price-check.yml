@@ -1,0 +1,96 @@
+name: Preise prüfen & Seite veröffentlichen
+
+# Takt: alle 30 Minuten. GitHub kann den Cron nicht aus config/config.json lesen – für kürzere
+# Intervalle diese Zeile ändern, längere stellt check_interval_minutes in config/config.json ein.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Intervall-Prüfung ignorieren"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # prices.json committen
+  pages: write      # Seite veröffentlichen
+  id-token: write
+
+concurrency:
+  group: price-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      deploy: ${{ github.event_name == 'push' || steps.check.outputs.skipped != 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python einrichten (nicht bei Push – dort wird nur veröffentlicht)
+        if: github.event_name != 'push'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Laufzeit-Zustand (Backoff, letzter Lauf) aus dem Cache holen
+        if: github.event_name != 'push'
+        uses: actions/cache@v4
+        with:
+          path: .state
+          key: state-${{ github.run_id }}
+          restore-keys: state-
+
+      - name: Preise abrufen, Alarme senden
+        id: check
+        if: github.event_name != 'push'
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          pip install -r requirements.txt
+          python -m tracker ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '--force' || '' }}
+
+      - name: prices.json nur bei Änderungen committen
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          if git diff --cached --quiet; then
+            echo "Keine Preisänderung – kein Commit."
+          else
+            git commit -m "Preise aktualisiert"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Seite zusammenstellen
+        if: github.event_name == 'push' || steps.check.outputs.skipped != 'true'
+        run: |
+          mkdir -p _site/config _site/data
+          cp -r index.html css js _site/
+          cp config/targets.json _site/config/
+          cp data/*.json _site/data/
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name == 'push' || steps.check.outputs.skipped != 'true'
+        with:
+          path: _site
+
+  deploy:
+    needs: check
+    if: ${{ !cancelled() && needs.check.outputs.deploy == 'true' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

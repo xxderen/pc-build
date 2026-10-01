@@ -1,0 +1,35 @@
+{
+ "id": 10238192058681,
+ "title": "Asiahorse Matrix Pro ARGB Case Fan, 3-Zone Controlled Light，4 side Infinite Mirror Light",
+ "handle": "matrix-pro-360mm-argb-fan-all-in-one",
+ "variants": [
+  {
+   "id": 54327644094777,
+   "sku": "MatrixPro-120-IM-Black-F-DTC",
+   "price": 1899,
+   "available": true,
+   "title": "Black / 120mm - Forward Blade / 1-PACK"
+  },
+  {
+   "id": 54327644127545,
+   "sku": "MatrixPro-120-IM-Black-R-DTC",
+   "price": 1899,
+   "available": true,
+   "title": "Black / 120mm - Reverse Blade / 1-PACK"
+  },
+  {
+   "id": 54327644160313,
+   "sku": "MatrixPro-120-IM-White-F-DTC",
+   "price": 1899,
+   "available": true,
+   "title": "White / 120mm - Forward Blade / 1-PACK"
+  },
+  {
+   "id": 54327644193081,
+   "sku": "MatrixPro-120-IM-White-R-DTC",
+   "price": 1899,
+   "available": true,
+   "title": "White / 120mm - Reverse Blade / 1-PACK"
+  }
+ ]
+}

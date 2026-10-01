@@ -1,0 +1,14 @@
+# Laufzeit-Zustand und Status (werden von Actions per Cache bzw. beim Deploy erzeugt, nie committet)
+.state/
+data/status.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Lokale Geheimnisse (Secrets gehören NUR in GitHub Secrets)
+.env
+*.env

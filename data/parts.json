@@ -1,0 +1,981 @@
+{
+  "schema": 1,
+  "categories": [
+    {
+      "id": "case",
+      "label": "Gehäuse",
+      "kind": "choice",
+      "default": "case-lb600dx-white"
+    },
+    {
+      "id": "cpu",
+      "label": "Prozessor",
+      "kind": "choice",
+      "default": "cpu-9800x3d"
+    },
+    {
+      "id": "board",
+      "label": "Mainboard",
+      "kind": "choice",
+      "default": "board-b850-aorus-elite-wifi7-ice"
+    },
+    {
+      "id": "gpu",
+      "label": "Grafikkarte (RTX 5070 Ti, weiß)",
+      "kind": "choice",
+      "default": "auto"
+    },
+    {
+      "id": "ram",
+      "label": "Arbeitsspeicher 32 GB",
+      "kind": "choice",
+      "default": "ram-vengeance-rgb-white-c30w"
+    },
+    {
+      "id": "aio",
+      "label": "AIO-Wasserkühlung",
+      "kind": "choice",
+      "default": "aio-tryx-panorama-360-white"
+    },
+    {
+      "id": "paste",
+      "label": "Wärmeleitpaste",
+      "kind": "choice",
+      "default": "paste-kryonaut-1g"
+    },
+    {
+      "id": "ssd",
+      "label": "SSD 2 TB (NVMe, PCIe 4.0, TLC)",
+      "kind": "choice",
+      "default": "auto"
+    },
+    {
+      "id": "psu",
+      "label": "Netzteil",
+      "kind": "choice",
+      "default": "psu-rm1000e-white"
+    },
+    {
+      "id": "fan",
+      "label": "Gehäuselüfter (Matrix Pro White)",
+      "kind": "fans",
+      "parts": [
+        "fan-matrix-pro-120-white-reverse",
+        "fan-matrix-pro-120-white-forward"
+      ]
+    },
+    {
+      "id": "hub",
+      "label": "Lüfter-Hub",
+      "kind": "choice",
+      "default": "hub-asiahorse-umbra"
+    },
+    {
+      "id": "cover",
+      "label": "Kabel-Covers (Aurora Learn)",
+      "kind": "fixed",
+      "parts": [
+        {
+          "id": "cover-aurora-learn-24pin-white",
+          "qty": 1
+        },
+        {
+          "id": "cover-aurora-learn-3x8pin-white",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "monitor",
+      "label": "Monitor",
+      "kind": "choice",
+      "default": "mon-msi-mag-272qp-qd-oled-x24",
+      "separate": true
+    }
+  ],
+  "parts": {
+    "case-lb600dx-white": {
+      "id": "case-lb600dx-white",
+      "category": "case",
+      "name": "be quiet! Light Base 600 DX White (BGW66)",
+      "image": "https://gzhls.at/pix/46/0c/460ce41b257ecd34-n.webp",
+      "url": "https://www.bequiet.com/de/case/5297",
+      "sources": {
+        "geizhals": "be-quiet-light-base-600-dx-white-bgw66-a3316851",
+        "billiger": "https://www.billiger.de/products/5070266171-be-quiet-light-base-600-dx-white"
+      },
+      "specs": {
+        "form_factors": [
+          "ATX",
+          "mATX",
+          "mITX"
+        ],
+        "dimensions_mm": "450 × 305 × 435 (T × B × H)",
+        "gpu_max_mm": 400,
+        "psu_max_mm": 180,
+        "psu_max_note": "Datenblatt/Website: < 200 mm, Handbuch: 180 mm – es zählt der strengere Wert.",
+        "cpu_cooler_max_mm": 170,
+        "expansion_slots": 7,
+        "radiators": {
+          "top": [
+            120,
+            140,
+            240,
+            280,
+            360
+          ],
+          "side": [
+            120,
+            240
+          ],
+          "bottom": [
+            120,
+            140,
+            240,
+            280,
+            360
+          ],
+          "rear": [
+            120
+          ]
+        },
+        "top_radiator_max_mm": null,
+        "preinstalled_fans": 0,
+        "max_fans": 10,
+        "hubs": {
+          "count": 2,
+          "connectors": 12,
+          "sata_power": 2
+        },
+        "backside_connector": true,
+        "fan_plan": [
+          {
+            "id": "side",
+            "label": "Seite",
+            "count": 3,
+            "size": 120,
+            "direction": "intake",
+            "blade": "reverse"
+          },
+          {
+            "id": "bottom",
+            "label": "Boden",
+            "count": 3,
+            "size": 120,
+            "direction": "intake",
+            "blade": "reverse"
+          },
+          {
+            "id": "top",
+            "label": "Deckel (AIO-Radiator)",
+            "count": 3,
+            "size": 120,
+            "direction": "exhaust",
+            "blade": "forward",
+            "radiator": true
+          },
+          {
+            "id": "rear",
+            "label": "Heck",
+            "count": 1,
+            "size": 120,
+            "direction": "exhaust",
+            "blade": "forward"
+          }
+        ]
+      },
+      "notes": [
+        "Keine Serienlüfter, maximal 10 Plätze (Seite 3×120, Boden 3×120, Deckel 3×120, Heck 1×120).",
+        "Zwei ARGB-/Lüfter-Hubs mit 12 Anschlüssen und ein 1,33 m langer ARGB-Streifen sind eingebaut.",
+        "Für den Deckel-Radiator nennt be quiet! keine maximale Dicke."
+      ],
+      "facts_sources": [
+        {
+          "name": "be quiet! Produktseite",
+          "url": "https://www.bequiet.com/de/case/5297"
+        },
+        {
+          "name": "Datenblatt (PDF)",
+          "url": "https://www.bequiet.com/admin/ImageServer.php?ID=aa3e3a56651@be-quiet.net&rand=32628d9580bab3dfb786d104ab1040e4&lang=2&force=true&download=true&omitPreview=true"
+        }
+      ]
+    },
+    "cpu-9800x3d": {
+      "id": "cpu-9800x3d",
+      "category": "cpu",
+      "name": "AMD Ryzen 7 9800X3D (boxed, ohne Kühler)",
+      "image": "https://gzhls.at/pix/f1/1b/f11bf7501515a3e7-n.webp",
+      "url": "https://www.amd.com/de/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html",
+      "sources": {
+        "geizhals": "amd-ryzen-7-9800x3d-100-100001084wof-a3336051",
+        "billiger": "https://www.billiger.de/products/5107733300-amd-ryzen-7-9800x3d-4-70-5-20-ghz-boxed-ohne-kuehler-100-100001084wof"
+      },
+      "specs": {
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "tdp_w": 120,
+        "boost_ghz": 5.2
+      }
+    },
+    "board-b850-aorus-elite-wifi7-ice": {
+      "id": "board-b850-aorus-elite-wifi7-ice",
+      "category": "board",
+      "name": "Gigabyte B850 AORUS Elite WIFI7 ICE",
+      "image": "https://gzhls.at/pix/02/ce/02cee261362490ca-n.webp",
+      "sources": {
+        "geizhals": "gigabyte-b850-aorus-elite-wifi7-ice-a3380369"
+      },
+      "specs": {
+        "form_factor": "ATX",
+        "socket": "AM5",
+        "chipset": "B850",
+        "wifi": "Wi-Fi 7 (RTL8922AE) + Bluetooth 5.4",
+        "ram_profiles": [
+          "EXPO",
+          "XMP"
+        ],
+        "backside_connector": false,
+        "usb2_headers": 2,
+        "argb_headers": 3,
+        "eps_8pin": 1,
+        "eps_4pin": 1,
+        "m2_slots": 3,
+        "pcie": "1× PCIe 5.0 x16"
+      },
+      "notes": [
+        "Weiße Platine, 3× M.2 (1× PCIe 5.0, 2× PCIe 4.0), 2,5-GbE-LAN.",
+        "Rev. 1.0 hat Realtek ALC897, Rev. 1.1 ALC1220."
+      ]
+    },
+    "gpu-gigabyte-eagle-oc-ice-sff": {
+      "id": "gpu-gigabyte-eagle-oc-ice-sff",
+      "category": "gpu",
+      "name": "Gigabyte RTX 5070 Ti Eagle OC ICE SFF 16G",
+      "image": "https://gzhls.at/pix/be/85/be850f7608ee7d23-n.webp",
+      "sources": {
+        "geizhals": "gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837"
+      },
+      "specs": {
+        "length_mm": 304,
+        "thickness_mm": 50,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 2,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Kompakte weiße „ICE\"-Karte, SFF-Ready."
+      ]
+    },
+    "gpu-inno3d-x3-oc-white": {
+      "id": "gpu-inno3d-x3-oc-white",
+      "category": "gpu",
+      "name": "Inno3D RTX 5070 Ti X3 OC White",
+      "image": "https://gzhls.at/pix/ad/b8/adb85560da18b26b-n.webp",
+      "sources": {
+        "geizhals": "inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854"
+      },
+      "specs": {
+        "length_mm": 300,
+        "thickness_mm": 41,
+        "slots": 2.0,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 2,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Schlankste Karte (Dual-Slot), schlichtes weißes Design."
+      ]
+    },
+    "gpu-asus-tuf-5070ti-oc-white": {
+      "id": "gpu-asus-tuf-5070ti-oc-white",
+      "category": "gpu",
+      "name": "ASUS TUF Gaming RTX 5070 Ti OC White",
+      "image": "https://gzhls.at/pix/51/be/51beedbb97b205ca-n.webp",
+      "sources": {
+        "geizhals": "asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862"
+      },
+      "specs": {
+        "length_mm": 329,
+        "thickness_mm": 62.5,
+        "slots": 3.125,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Premium-Design, gute Kühlung (TechPowerUp-Test), aber 3,1 Slots dick."
+      ]
+    },
+    "gpu-gigabyte-aero-oc": {
+      "id": "gpu-gigabyte-aero-oc",
+      "category": "gpu",
+      "name": "Gigabyte RTX 5070 Ti Aero OC 16G",
+      "image": "https://gzhls.at/pix/44/b3/44b3dd8e78dbcaa8-n.webp",
+      "sources": {
+        "geizhals": "gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846"
+      },
+      "specs": {
+        "length_mm": 340,
+        "thickness_mm": 70,
+        "slots": 3.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Weiß-silbernes Design, mit 3,5 Slots die dickste Option."
+      ]
+    },
+    "gpu-msi-gaming-trio-oc-white": {
+      "id": "gpu-msi-gaming-trio-oc-white",
+      "category": "gpu",
+      "name": "MSI RTX 5070 Ti Gaming Trio OC White",
+      "image": "https://gzhls.at/pix/0d/27/0d27bf44aa31ba86-n.webp",
+      "sources": {
+        "geizhals": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154"
+      },
+      "specs": {
+        "length_mm": 338,
+        "thickness_mm": 50,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-msi-gaming-trio-white": {
+      "id": "gpu-msi-gaming-trio-white",
+      "category": "gpu",
+      "name": "MSI RTX 5070 Ti Gaming Trio White",
+      "image": "https://gzhls.at/pix/0d/27/0d27bf44aa31ba86-n.webp",
+      "sources": {
+        "geizhals": "msi-geforce-rtx-5070-ti-16g-gaming-trio-white-a3445139"
+      },
+      "specs": {
+        "length_mm": 338,
+        "thickness_mm": 50,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Ohne Werks-OC, zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-zotac-solid-core-oc-white": {
+      "id": "gpu-zotac-solid-core-oc-white",
+      "category": "gpu",
+      "name": "Zotac RTX 5070 Ti Solid Core OC White Edition",
+      "image": "https://gzhls.at/pix/d4/f1/d4f1d418fb646523-n.webp",
+      "sources": {
+        "geizhals": "zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174"
+      },
+      "specs": {
+        "length_mm": 303.5,
+        "thickness_mm": 55.7,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 2,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-kfa2-1click-oc-white": {
+      "id": "gpu-kfa2-1click-oc-white",
+      "category": "gpu",
+      "name": "KFA2 RTX 5070 Ti 1-Click OC White",
+      "image": "https://gzhls.at/pix/59/6c/596ceb454a322b50-n.webp",
+      "sources": {
+        "geizhals": "kfa2-geforce-rtx-5070-ti-1-click-oc-white-a3382949"
+      },
+      "specs": {
+        "length_mm": 315,
+        "thickness_mm": 50.7,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-kfa2-ex-gamer-1click-oc-white": {
+      "id": "gpu-kfa2-ex-gamer-1click-oc-white",
+      "category": "gpu",
+      "name": "KFA2 RTX 5070 Ti EX Gamer 1-Click OC White",
+      "image": "https://gzhls.at/pix/67/04/67049f2f29226760-n.webp",
+      "sources": {
+        "geizhals": "kfa2-geforce-rtx-5070-ti-ex-gamer-1-click-oc-white-a3383003"
+      },
+      "specs": {
+        "length_mm": 334,
+        "thickness_mm": 52,
+        "slots": 2.5,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-kfa2-hof-white": {
+      "id": "gpu-kfa2-hof-white",
+      "category": "gpu",
+      "name": "KFA2 RTX 5070 Ti HOF Gaming White Edition",
+      "image": "https://gzhls.at/pix/10/e3/10e3e17835e8ff85-n.webp",
+      "sources": {
+        "geizhals": "kfa2-geforce-rtx-5070-ti-hof-gaming-white-edition-57izn6mddpwt-a3567634"
+      },
+      "specs": {
+        "length_mm": 341,
+        "thickness_mm": 66.7,
+        "slots": 3.3,
+        "power_connector": "12V-2x6",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": false
+      },
+      "notes": [
+        "Zurzeit ohne Angebote in Deutschland."
+      ]
+    },
+    "gpu-asus-tuf-5070ti-btf-oc-white": {
+      "id": "gpu-asus-tuf-5070ti-btf-oc-white",
+      "category": "gpu",
+      "name": "ASUS TUF RTX 5070 Ti BTF OC White",
+      "image": "https://gzhls.at/pix/37/00/3700e983393d0ab5-n.webp",
+      "sources": {
+        "geizhals": "asus-tuf-gaming-geforce-rtx-5070-ti-btf-white-oc-edition-90yv0n60-m0na00-a3535102"
+      },
+      "specs": {
+        "length_mm": 329,
+        "thickness_mm": 62.5,
+        "slots": 3.125,
+        "power_connector": "GC-HPWR (BTF)",
+        "adapter_8pin": 3,
+        "tdp_w": 300,
+        "recommended_psu_w": 750,
+        "backside": true
+      },
+      "notes": [
+        "BTF-Variante: braucht ein BTF-Mainboard und passt nicht zum Gigabyte-Board."
+      ]
+    },
+    "ram-vengeance-rgb-white-z30w": {
+      "id": "ram-vengeance-rgb-white-z30w",
+      "category": "ram",
+      "name": "Corsair Vengeance RGB White 32 GB DDR5-6000 CL30 (EXPO)",
+      "image": "https://gzhls.at/pix/4f/1d/4f1d0eb889136709-n.webp",
+      "sources": {
+        "geizhals": "corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073"
+      },
+      "specs": {
+        "profiles": [
+          "EXPO",
+          "XMP"
+        ],
+        "height_mm": 44.9,
+        "kit": "2× 16 GB",
+        "timings": "DDR5-6000 CL30-36-36-76",
+        "part_no": "CMH32GX5M2B6000Z30W"
+      },
+      "notes": [
+        "AMD-EXPO- und Intel-XMP-Profil (Artikelnummer endet auf Z30W)."
+      ]
+    },
+    "ram-vengeance-rgb-white-c30w": {
+      "id": "ram-vengeance-rgb-white-c30w",
+      "category": "ram",
+      "name": "Corsair Vengeance RGB White 32 GB DDR5-6000 CL30 (nur XMP)",
+      "image": "https://gzhls.at/pix/87/46/8746f70d1005c594-n.webp",
+      "url": "https://www.corsair.com/de/de/p/memory/cmh32gx5m2b6000c30w/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl30-memory-kit-white-cmh32gx5m2b6000c30w",
+      "sources": {
+        "geizhals": "corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831",
+        "billiger": "https://www.billiger.de/products/4560508961-corsair-vengeance-rgb-ddr5-6000-32gb-kit-2x16gb-cl30-weiss-cmh32gx5m2b6000c30w"
+      },
+      "specs": {
+        "profiles": [
+          "XMP"
+        ],
+        "height_mm": 44.9,
+        "kit": "2× 16 GB",
+        "timings": "DDR5-6000 CL30-36-36-76",
+        "part_no": "CMH32GX5M2B6000C30W"
+      },
+      "notes": [
+        "Nur Intel-XMP-Profil (Artikelnummer endet auf C30W) – auf AM5 ohne offizielles EXPO."
+      ]
+    },
+    "aio-tryx-panorama-360-white": {
+      "id": "aio-tryx-panorama-360-white",
+      "category": "aio",
+      "name": "TRYX Panorama ARGB 360 White (L-P360A-AS3M-G1W)",
+      "image": "https://gzhls.at/pix/74/3e/743ec2f0efa09a91-n.webp",
+      "url": "https://shop.tryx.com/products/tryx-panorama-360-argb-white",
+      "sources": {
+        "geizhals": "tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067"
+      },
+      "specs": {
+        "radiator_mm": 360,
+        "radiator_length_mm": 399.5,
+        "radiator_thickness_mm": 30,
+        "sockets": [
+          "AM5",
+          "AM4",
+          "LGA1851",
+          "LGA1700"
+        ],
+        "stock_fan_thickness_mm": 25,
+        "stock_fans": 3,
+        "needs": {
+          "usb2_header": 1,
+          "sata_power": 2,
+          "argb": 1
+        },
+        "paste_included": true,
+        "paste_extra_g": 2
+      },
+      "notes": [
+        "Nur die Revision G1W hat 25-mm-Lüfter; die ältere G0W hat 28-mm-Lüfter (58 mm gesamt).",
+        "Wärmeleitpaste ist vorab aufgetragen, zusätzlich liegt eine 2-g-Tube bei (Tom's Hardware, igorsLAB).",
+        "Display am Pumpenkopf: braucht einen internen USB-2.0-Header und laut igorsLAB 2× SATA-Strom."
+      ]
+    },
+    "paste-kryonaut-1g": {
+      "id": "paste-kryonaut-1g",
+      "category": "paste",
+      "name": "Thermal Grizzly Kryonaut 1 g",
+      "image": "https://gzhls.at/pix/b2/d9/b2d9008e960ef572-n.webp",
+      "sources": {
+        "geizhals": "thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196"
+      },
+      "specs": {
+        "grams": 1
+      }
+    },
+    "paste-mx6-2g": {
+      "id": "paste-mx6-2g",
+      "category": "paste",
+      "name": "ARCTIC MX-6 2 g",
+      "image": "https://gzhls.at/pix/c4/98/c4984a1b18984bcf-n.webp",
+      "url": "https://www.arctic.de/de/MX-6/ACTCP00079A",
+      "sources": {
+        "geizhals": "arctic-mx-6-actcp00079a-a2841235"
+      },
+      "specs": {
+        "grams": 2
+      },
+      "notes": [
+        "Günstiger, in Tests fast so gut wie Kryonaut."
+      ]
+    },
+    "paste-none": {
+      "id": "paste-none",
+      "category": "paste",
+      "name": "Keine – mitgelieferte Tryx-Paste verwenden",
+      "notes": [
+        "Der Tryx Panorama bringt Paste (vorab aufgetragen + 2-g-Tube) mit."
+      ],
+      "fixed_price": 0.0
+    },
+    "ssd-wd-black-sn7100-2tb": {
+      "id": "ssd-wd-black-sn7100-2tb",
+      "category": "ssd",
+      "name": "WD_BLACK SN7100 2 TB",
+      "image": "https://gzhls.at/pix/9c/c6/9cc6e353fcf655a4-n.webp",
+      "sources": {
+        "geizhals": "western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712",
+        "billiger": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC, DRAM-los (HMB), 7.250 MB/s."
+      ]
+    },
+    "ssd-samsung-990-evo-plus-2tb": {
+      "id": "ssd-samsung-990-evo-plus-2tb",
+      "category": "ssd",
+      "name": "Samsung 990 EVO Plus 2 TB",
+      "image": "https://gzhls.at/pix/83/67/8367ed6ecbf50001-n.webp",
+      "sources": {
+        "geizhals": "samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC, DRAM-los (HMB), 7.250 MB/s."
+      ]
+    },
+    "ssd-lexar-nm790-2tb": {
+      "id": "ssd-lexar-nm790-2tb",
+      "category": "ssd",
+      "name": "Lexar NM790 2 TB",
+      "image": "https://gzhls.at/pix/1c/8b/1c8beb0a99905d6d-n.webp",
+      "sources": {
+        "geizhals": "lexar-nm690-2tb-lnm790x002t-rnnn-a2956595",
+        "billiger": "https://www.billiger.de/products/4450496120-lexar-nm790-2-tb-m-2"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC, DRAM-los (HMB), 7.400 MB/s."
+      ]
+    },
+    "ssd-kingston-kc3000-2tb": {
+      "id": "ssd-kingston-kc3000-2tb",
+      "category": "ssd",
+      "name": "Kingston KC3000 2 TB",
+      "image": "https://gzhls.at/pix/74/8a/748a0079c2f1f6e8-n.webp",
+      "sources": {
+        "geizhals": "kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC mit DRAM-Cache, 7.000 MB/s."
+      ]
+    },
+    "ssd-wd-black-sn850x-2tb": {
+      "id": "ssd-wd-black-sn850x-2tb",
+      "category": "ssd",
+      "name": "WD_BLACK SN850X 2 TB",
+      "image": "https://gzhls.at/pix/b5/28/b528a967228ab701-n.webp",
+      "sources": {
+        "geizhals": "western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC mit DRAM-Cache, 7.300 MB/s."
+      ]
+    },
+    "ssd-acer-predator-gm7-2tb": {
+      "id": "ssd-acer-predator-gm7-2tb",
+      "category": "ssd",
+      "name": "Acer Predator GM7 2 TB",
+      "image": "https://gzhls.at/pix/aa/15/aa1508aa2725ba1b-n.webp",
+      "sources": {
+        "geizhals": "acer-predator-gm7-ssd-2tb-bl-9bwwr-119-a3438312"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC, DRAM-los (HMB), 7.200 MB/s."
+      ]
+    },
+    "ssd-crucial-t500-2tb": {
+      "id": "ssd-crucial-t500-2tb",
+      "category": "ssd",
+      "name": "Crucial T500 2 TB (mit Kühlkörper)",
+      "image": "https://gzhls.at/pix/e5/a9/e5a977a2bf18f906-n.webp",
+      "sources": {
+        "geizhals": "crucial-t500-ssd-2tb-ct2000t500ssd8-a3053884"
+      },
+      "specs": {
+        "capacity_gb": 2000,
+        "interface": "PCIe 4.0 x4",
+        "nand": "TLC"
+      },
+      "notes": [
+        "TLC mit DRAM-Cache, 7.400 MB/s."
+      ]
+    },
+    "psu-rm1000e-white": {
+      "id": "psu-rm1000e-white",
+      "category": "psu",
+      "name": "Corsair RM1000e White (2025) 1000 W, ATX 3.1",
+      "image": "https://gzhls.at/pix/9f/a8/9fa8dce7b31d5a96-n.webp",
+      "url": "https://www.corsair.com/de/de/p/psu/cp-9020294-eu/rme-series-rm1000e-fully-modular-low-noise-atx-power-supply-white-eu-cp-9020294-eu",
+      "sources": {
+        "geizhals": "corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021"
+      },
+      "specs": {
+        "watt": 1000,
+        "length_mm": 140,
+        "native_12v2x6": true,
+        "eps_8pin": 2,
+        "pcie_8pin": 4,
+        "sata": 6,
+        "atx_version": "ATX 3.1"
+      },
+      "notes": [
+        "Vollmodular, 80 PLUS Gold, natives 12V-2x6-Kabel (600 W), 7 Jahre Garantie.",
+        "Hinweis von Corsair: mögliche Klickgeräusche bei der RMe-Serie 2025, betroffene Netzteile werden kostenlos getauscht.",
+        "Die RM1000x SHIFT White hat in Deutschland aktuell keine Angebote."
+      ]
+    },
+    "fan-matrix-pro-120-white-reverse": {
+      "id": "fan-matrix-pro-120-white-reverse",
+      "category": "fan",
+      "name": "Asiahorse Matrix Pro 120 mm White – Reverse Blade (Intake)",
+      "image": "https://cdn.shopify.com/s/files/1/0672/7126/2521/files/20260814-114539.png?v=1786680450&width=600",
+      "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one",
+      "sources": {
+        "shopify": {
+          "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one",
+          "sku": "MatrixPro-120-IM-White-R-DTC",
+          "currency": "USD",
+          "vat_pct": 19
+        }
+      },
+      "specs": {
+        "size_mm": 120,
+        "thickness_mm": 26,
+        "blade": "reverse",
+        "ports": {
+          "pwm": 1,
+          "argb": 1
+        }
+      },
+      "notes": [
+        "Preis: Hersteller-Shop in USD, umgerechnet und mit 19 % MwSt. geschätzt (kein deutscher Händler im Preisvergleich)."
+      ]
+    },
+    "fan-matrix-pro-120-white-forward": {
+      "id": "fan-matrix-pro-120-white-forward",
+      "category": "fan",
+      "name": "Asiahorse Matrix Pro 120 mm White – Standard Blade (Exhaust)",
+      "image": "https://cdn.shopify.com/s/files/1/0672/7126/2521/files/20260814-114539.png?v=1786680450&width=600",
+      "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one",
+      "sources": {
+        "shopify": {
+          "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one",
+          "sku": "MatrixPro-120-IM-White-F-DTC",
+          "currency": "USD",
+          "vat_pct": 19
+        }
+      },
+      "specs": {
+        "size_mm": 120,
+        "thickness_mm": 26,
+        "blade": "forward",
+        "ports": {
+          "pwm": 1,
+          "argb": 1
+        }
+      },
+      "notes": [
+        "Preis: Hersteller-Shop in USD, umgerechnet und mit 19 % MwSt. geschätzt (kein deutscher Händler im Preisvergleich)."
+      ]
+    },
+    "hub-asiahorse-umbra": {
+      "id": "hub-asiahorse-umbra",
+      "category": "hub",
+      "name": "Asiahorse UMBRA ARGB/PWM Fan Hub (10 Ports)",
+      "image": "https://gzhls.at/pix/db/1f/db1f4907d90492d2-n.webp",
+      "url": "https://asiahorse.store/products/umbra-argb-pwm-hub",
+      "sources": {
+        "geizhals": "asiahorse-umbra-cl-o051-pl00bl-a-a3795797"
+      },
+      "specs": {
+        "pwm_ports": 10,
+        "argb_ports": 10,
+        "needs": {
+          "sata_power": 1,
+          "usb2_header": 1,
+          "argb_in": 1
+        }
+      },
+      "notes": [
+        "10× PWM + 10× ARGB, SATA-Strom, Steuerung per USB (Asiahorse-Software) und 3-Pin-ARGB-Sync."
+      ]
+    },
+    "cover-aurora-learn-24pin-white": {
+      "id": "cover-aurora-learn-24pin-white",
+      "category": "cover",
+      "name": "Asiahorse Aurora Learn ARGB Cover – 24-Pin (205 mm), White",
+      "image": "https://cdn.shopify.com/s/files/1/0672/7126/2521/files/001_1_88142a8e-b6c7-46d6-baae-2749917276cd.jpg?v=1763460467&width=600",
+      "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover",
+      "sources": {
+        "shopify": {
+          "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover",
+          "sku": "AURORA-LEARN-108LEDs-24pin-white",
+          "currency": "USD",
+          "vat_pct": 19
+        }
+      },
+      "specs": {
+        "fits": "24pin",
+        "leds": 108
+      },
+      "notes": [
+        "Preis: Hersteller-Shop in USD, umgerechnet und mit 19 % MwSt. geschätzt."
+      ]
+    },
+    "cover-aurora-learn-3x8pin-white": {
+      "id": "cover-aurora-learn-3x8pin-white",
+      "category": "cover",
+      "name": "Asiahorse Aurora Learn ARGB Cover – 3×8-Pin (260 mm), White",
+      "image": "https://cdn.shopify.com/s/files/1/0672/7126/2521/files/001_2_586d98c4-4a3d-41e9-8cac-8a3d92bf503a.jpg?v=1763460543&width=600",
+      "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover",
+      "sources": {
+        "shopify": {
+          "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover",
+          "sku": "AURORA-LEARN-108LEDs-3x8pin-white",
+          "currency": "USD",
+          "vat_pct": 19
+        }
+      },
+      "specs": {
+        "fits": "3x8pin",
+        "leds": 108
+      },
+      "notes": [
+        "Preis: Hersteller-Shop in USD, umgerechnet und mit 19 % MwSt. geschätzt."
+      ]
+    },
+    "mon-msi-mag-272qp-qd-oled-x24": {
+      "id": "mon-msi-mag-272qp-qd-oled-x24",
+      "category": "monitor",
+      "name": "MSI MAG 272QP QD-OLED X24",
+      "image": "https://gzhls.at/pix/cb/14/cb14bff9aba6eb99-n.webp",
+      "sources": {
+        "geizhals": "msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816"
+      },
+      "specs": {
+        "refresh_hz": 240,
+        "size_in": 26.5,
+        "resolution": "2560 × 1440",
+        "panel": "QD-OLED (Samsung), SDR 200 cd/m², HDR 400",
+        "hdmi": "2× HDMI 2.1 (240 Hz)"
+      },
+      "notes": [
+        "Aktuell der günstigste Eintrag der Auswahl.",
+        "QD-OLED: kräftige Farben, aber nur 200 cd/m² SDR-Helligkeit.",
+        "Für den X24 gibt es kaum Fachtests (nur HomeTech Reviews). Getestet sind die Geschwister X28 (280 Hz, ab ca. 389 €) und X50 (500 Hz)."
+      ],
+      "reviews": [
+        {
+          "name": "HomeTech Reviews (X24)",
+          "url": "https://hometechreviews.com/msi-mag-272qp-qd-oled-x24-review/"
+        },
+        {
+          "name": "Club386 (Geschwister X28)",
+          "url": "https://www.club386.com/msi-mag-272qpw-qd-oled-x28-review/"
+        }
+      ]
+    },
+    "mon-gigabyte-mo27q28gr": {
+      "id": "mon-gigabyte-mo27q28gr",
+      "category": "monitor",
+      "name": "Gigabyte MO27Q28GR (280 Hz)",
+      "image": "https://gzhls.at/pix/20/96/209630728a94a6a2-n.webp",
+      "sources": {
+        "geizhals": "gigabyte-mo27q28gr-a3779801"
+      },
+      "specs": {
+        "refresh_hz": 280,
+        "size_in": 27,
+        "resolution": "2560 × 1440",
+        "panel": "RGB-Tandem-WOLED (LG), SDR 335 cd/m², HDR 1500",
+        "hdmi": "2× HDMI 2.1 (280 Hz)"
+      },
+      "notes": [
+        "Höchste Bildwiederholrate und hellstes Panel (Tandem-WOLED), aber ~135 € teurer.",
+        "Gloss-Beschichtung („RealBlack Glossy\") mit wenig Spiegelung laut Test."
+      ],
+      "reviews": [
+        {
+          "name": "TechPowerUp",
+          "url": "https://www.techpowerup.com/review/gigabyte-mo27q28gr/"
+        }
+      ]
+    },
+    "mon-asus-rog-strix-xg27aqdmg": {
+      "id": "mon-asus-rog-strix-xg27aqdmg",
+      "category": "monitor",
+      "name": "ASUS ROG Strix OLED XG27AQDMG",
+      "image": "https://gzhls.at/pix/1e/35/1e350093c819681f-n.webp",
+      "sources": {
+        "geizhals": "asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268"
+      },
+      "specs": {
+        "refresh_hz": 240,
+        "size_in": 26.5,
+        "resolution": "2560 × 1440",
+        "panel": "WOLED (LG), SDR 275 cd/m², HDR True Black 400",
+        "hdmi": "2× HDMI 2.0 (nur 144 Hz) – 240 Hz nur über DisplayPort"
+      },
+      "notes": [
+        "Gen-1-Modell von 2024; Textkanten (Fringing) typisch für WOLED der 3. Generation."
+      ],
+      "reviews": [
+        {
+          "name": "PCWorld",
+          "url": "https://www.pcworld.com/article/2351497/asus-rog-strix-xg27aqdmg-review.html"
+        },
+        {
+          "name": "TweakTown",
+          "url": "https://www.tweaktown.com/reviews/10831/asus-rog-strix-oled-xg27aqdmg-monitor-27-inch-1440p-240hz-sweet-spot-gaming/index.html"
+        }
+      ]
+    },
+    "mon-asus-rog-strix-xg27aqdmgr-gen2": {
+      "id": "mon-asus-rog-strix-xg27aqdmgr-gen2",
+      "category": "monitor",
+      "name": "ASUS ROG Strix OLED XG27AQDMGR (Gen2)",
+      "image": "https://gzhls.at/pix/27/a3/27a3b35ea9bba299-n.webp",
+      "sources": {
+        "geizhals": "asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427"
+      },
+      "specs": {
+        "refresh_hz": 240,
+        "size_in": 26.5,
+        "resolution": "2560 × 1440",
+        "panel": "WOLED (LG), HDR True Black 400, Spitze 1300 cd/m²",
+        "hdmi": "2× HDMI 2.1 (240 Hz)"
+      },
+      "notes": [
+        "Tipp: Nachfolger des XG27AQDMG, mit HDMI 2.1 (240 Hz) und aktuell sogar günstiger."
+      ],
+      "reviews": []
+    }
+  }
+}

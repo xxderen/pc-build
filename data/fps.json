@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "resolution": "2560 × 1440",
+    "system": "Ryzen 7 9800X3D + GeForce RTX 5070 Ti (16 GB)",
+    "updated": "2026-10-01",
+    "hinweis": "Werte aus öffentlichen Tests mit Ryzen 7 9800X3D und RTX 5070 Ti, jeweils mit Quelle. „gemessen“ = aus dem Test-Diagramm abgelesen, „Schätzung“ = abgeleitet (siehe estimate_factors). Alles hier ist leicht editierbar: fps, kind (measured | estimate), source und note je Wert. Kein Wert = nicht unterstützt oder nicht sinnvoll (na).",
+    "estimate_factors": {
+      "dlss_q": "Nativwert × 1,40 (ab 150 nativen FPS × 1,25, weil dann CPU/Engine bremsen)",
+      "frame_generation": "DLSS-Quality-Wert × 1,70 (Frame Generation 2×)",
+      "begruendung": "TechPowerUp misst bei Battlefield 6 in 1440p DLSS Quality ×1,30 und Frame Generation 2× ×1,60 (CPU/Engine-limitiert); in 4K (GPU-limitiert) sind es ×1,66–1,88 bzw. ×1,7–1,9. Die Schätzfaktoren liegen bewusst dazwischen."
+    },
+    "sources": {
+      "hub": {
+        "name": "TechSpot / Hardware Unboxed – RTX 5070 Ti vs. RX 9070 XT, 52 Spiele (Mai 2026)",
+        "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/",
+        "system": "Ryzen 7 9800X3D, DDR5-6000 CL30, Windows 11 25H2, Treiber 596.49"
+      },
+      "tpu": {
+        "name": "TechPowerUp – Galax RTX 5070 Ti 1-Click OC White (Feb. 2025)",
+        "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/",
+        "system": "Ryzen 7 9800X3D, DDR5-6200 CL28, Windows 11 24H2, höchste Details, ohne Upscaling, RT aus"
+      },
+      "tpu_bf6": {
+        "name": "TechPowerUp – Battlefield 6 Performance Benchmark (Okt. 2025)",
+        "url": "https://www.techpowerup.com/review/battlefield-6-performance-benchmark/6.html",
+        "system": "Ryzen 7 9800X3D, Overkill-Preset, eigene Szene"
+      }
+    }
+  },
+  "modes": [
+    { "id": "native", "label": "Nativ", "short": "nativ" },
+    { "id": "dlss_q", "label": "DLSS Quality", "short": "DLSS Q" },
+    { "id": "dlss_q_fg", "label": "DLSS Quality + Frame Generation", "short": "DLSS Q + FG" }
+  ],
+  "groups": [
+    {
+      "id": "story",
+      "label": "Story-Games",
+      "games": [
+        {
+          "id": "cyberpunk-2077",
+          "name": "Cyberpunk 2077",
+          "settings": "Ultra, Raytracing aus (Phantom Liberty, Benchmark)",
+          "values": {
+            "native": { "fps": 129, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "TechPowerUp misst 124,6 FPS (eigene Szene). Mit RT Ultra: 61 FPS (HUB)." },
+            "dlss_q": { "fps": 181, "kind": "estimate", "source": { "name": "129 × 1,40 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Schätzfaktor DLSS Quality ×1,40." },
+            "dlss_q_fg": { "fps": 308, "kind": "estimate", "source": { "name": "181 × 1,70 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Schätzfaktor Frame Generation 2× ×1,70." }
+          }
+        },
+        {
+          "id": "alan-wake-2",
+          "name": "Alan Wake 2",
+          "settings": "Maximale Details, Raytracing aus",
+          "values": {
+            "native": { "fps": 93, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/7.html" }, "note": "93,1 FPS im Diagramm. Mit Path Tracing in 4K sind es nur 24 FPS." },
+            "dlss_q": { "fps": 130, "kind": "estimate", "source": { "name": "93,1 × 1,40 (TechPowerUp)", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/7.html" }, "note": "Schätzfaktor DLSS Quality ×1,40." },
+            "dlss_q_fg": { "fps": 222, "kind": "estimate", "source": { "name": "130 × 1,70 (TechPowerUp)", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/38.html" }, "note": "Schätzfaktor Frame Generation 2× ×1,70; die TPU-DLSS-4-Seite zeigt in 4K mit Path Tracing ×1,9 für FG 2×." }
+          }
+        },
+        {
+          "id": "black-myth-wukong",
+          "name": "Black Myth: Wukong",
+          "settings": "Maximale Details, Raytracing aus",
+          "values": {
+            "native": { "fps": 54, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/10.html" }, "note": "54,2 FPS im Diagramm – das anspruchsvollste Spiel der Liste." },
+            "dlss_q": { "fps": 76, "kind": "estimate", "source": { "name": "54,2 × 1,40 (TechPowerUp)", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/10.html" }, "note": "Schätzfaktor DLSS Quality ×1,40." },
+            "dlss_q_fg": { "fps": 129, "kind": "estimate", "source": { "name": "76 × 1,70 (TechPowerUp)", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/10.html" }, "note": "Schätzfaktor Frame Generation 2× ×1,70." }
+          }
+        },
+        {
+          "id": "red-dead-redemption-2",
+          "name": "Red Dead Redemption 2",
+          "settings": "Ultra (Built-in-Benchmark)",
+          "values": {
+            "native": { "fps": 149, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Mit High statt Ultra: 204 FPS." },
+            "dlss_q": { "fps": 186, "kind": "estimate", "source": { "name": "149 × 1,25 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Schätzfaktor ×1,25, weil das Spiel ab ca. 150 FPS stark an der CPU hängt." },
+            "dlss_q_fg": { "na": "RDR2 unterstützt keine DLSS Frame Generation." }
+          }
+        },
+        {
+          "id": "elden-ring",
+          "name": "Elden Ring",
+          "settings": "Maximale Details, Raytracing aus",
+          "cap_fps": 60,
+          "values": {
+            "native": { "fps": 180, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/galax-geforce-rtx-5070-ti-1-click-oc-white/15.html" }, "note": "179,7 FPS mit aufgehobenem Limit. Ohne Mod ist das Spiel auf 60 FPS begrenzt." },
+            "dlss_q": { "na": "Elden Ring unterstützt weder DLSS noch Frame Generation." },
+            "dlss_q_fg": { "na": "Elden Ring unterstützt weder DLSS noch Frame Generation." }
+          }
+        },
+        {
+          "id": "indiana-jones",
+          "name": "Indiana Jones und der Große Kreis",
+          "settings": "Supreme (Built-in-Benchmark), Raytracing ist fest eingebaut",
+          "values": {
+            "native": { "fps": 167, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Mit „Ray Tracing High“: 64 FPS." },
+            "dlss_q": { "fps": 209, "kind": "estimate", "source": { "name": "167 × 1,25 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Schätzfaktor ×1,25 (ab 150 nativen FPS)." },
+            "dlss_q_fg": { "fps": 355, "kind": "estimate", "source": { "name": "209 × 1,70 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Schätzfaktor Frame Generation 2× ×1,70." }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shooter",
+      "label": "Shooter",
+      "games": [
+        {
+          "id": "cs2",
+          "name": "Counter-Strike 2",
+          "settings": "Sehr hohe Details (Benchmark)",
+          "values": {
+            "native": { "fps": 318, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Mittlere Details: 637 FPS. TechPowerUp misst 363,7 FPS (eigene Szene)." },
+            "dlss_q": { "na": "CS2 hat kein DLSS." },
+            "dlss_q_fg": { "na": "CS2 hat kein DLSS." }
+          }
+        },
+        {
+          "id": "valorant",
+          "name": "Valorant",
+          "settings": "Hohe Details, MSAA 4× (Benchmark)",
+          "values": {
+            "native": { "fps": 694, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Mittlere Details: 697 FPS – das Spiel hängt an der CPU." },
+            "dlss_q": { "na": "Valorant hat kein DLSS." },
+            "dlss_q_fg": { "na": "Valorant hat kein DLSS." }
+          }
+        },
+        {
+          "id": "fortnite",
+          "name": "Fortnite",
+          "settings": "Performance-Modus (Benchmark)",
+          "values": {
+            "native": { "fps": 733, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Mit Epic-Details und Raytracing sind es 87 FPS." },
+            "dlss_q": { "na": "Bei über 700 FPS ist Upscaling nicht sinnvoll." },
+            "dlss_q_fg": { "na": "Bei über 700 FPS ist Frame Generation nicht sinnvoll." }
+          }
+        },
+        {
+          "id": "warzone",
+          "name": "Call of Duty: Warzone",
+          "settings": "Niedrige Details – Näherung über Black Ops 7",
+          "values": {
+            "native": { "fps": 252, "kind": "estimate", "source": { "name": "Black Ops 7 (TechSpot/HUB)", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Warzone wurde nicht direkt gemessen; HUB testet Black Ops 7 (Basic Quality) auf derselben Engine. Warzone kann etwas niedriger liegen." },
+            "dlss_q": { "na": "Bei diesen Frameraten bremst die CPU, Upscaling bringt wenig." },
+            "dlss_q_fg": { "na": "Frame Generation ist für Warzone nicht sinnvoll." }
+          }
+        },
+        {
+          "id": "battlefield-6",
+          "name": "Battlefield 6",
+          "settings": "Overkill-Preset (TechPowerUp-Szene)",
+          "values": {
+            "native": { "fps": 96, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/battlefield-6-performance-benchmark/5.html" }, "note": "96,3 FPS. HUB misst im Benchmark 108 FPS (Overkill) bzw. 141 FPS (High)." },
+            "dlss_q": { "fps": 125, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/battlefield-6-performance-benchmark/6.html" }, "note": "1440p, DLSS Quality." },
+            "dlss_q_fg": { "fps": 200, "kind": "measured", "source": { "name": "TechPowerUp", "url": "https://www.techpowerup.com/review/battlefield-6-performance-benchmark/6.html" }, "note": "DLSS Quality + FG 2×. Mit Multi Frame Generation: 273 FPS (3×) bzw. 337 FPS (4×)." }
+          }
+        },
+        {
+          "id": "apex-legends",
+          "name": "Apex Legends",
+          "settings": "Maximale Details (Benchmark, Engine-Limit 300 FPS)",
+          "cap_fps": 300,
+          "values": {
+            "native": { "fps": 300, "kind": "measured", "source": { "name": "TechSpot/HUB", "url": "https://www.techspot.com/review/3130-geforce-rtx-5070-ti-vs-radeon-rx-9070-xt/" }, "note": "Die Karte erreicht das Engine-Limit von 300 FPS (1 % Low: 260)." },
+            "dlss_q": { "na": "Apex Legends hat kein DLSS." },
+            "dlss_q_fg": { "na": "Apex Legends hat kein DLSS." }
+          }
+        }
+      ]
+    }
+  ]
+}
