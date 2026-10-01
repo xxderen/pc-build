@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-01T10:26:36Z",
+  "updated_at": "2026-10-01T17:21:30Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -24,17 +24,19 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 40.86, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 41.07, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 40.86, "shopify"]
+        ["2026-10-01T10:26:36Z", 40.86, "shopify"],
+        ["2026-10-01T17:21:30Z", 41.07, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 40.86, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 41.07, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 40.86, "shopify"]
+        ["2026-10-01T10:26:36Z", 40.86, "shopify"],
+        ["2026-10-01T17:21:30Z", 41.07, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -45,17 +47,19 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 19.9, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 20.0, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 19.9, "shopify"]
+        ["2026-10-01T10:26:36Z", 19.9, "shopify"],
+        ["2026-10-01T17:21:30Z", 20.0, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 19.9, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 20.0, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 19.9, "shopify"]
+        ["2026-10-01T10:26:36Z", 19.9, "shopify"],
+        ["2026-10-01T17:21:30Z", 20.0, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -187,10 +191,11 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 683.88, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 683.89, "merchant": "Future-X.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 683.88, "geizhals"]
+        ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
+        ["2026-10-01T17:21:30Z", 683.89, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
@@ -229,10 +234,11 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 271.9, "merchant": "Coolblue", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-01T17:21:30Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 271.9, "geizhals"]
+        ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
+        ["2026-10-01T17:21:30Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
