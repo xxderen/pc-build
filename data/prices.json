@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-02T22:52:17Z",
+  "updated_at": "2026-10-03T01:42:47Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -76,11 +76,12 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1410.67, "merchant": "Amazon UK", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-02T00:59:28Z"},
+      "current": {"price": 1413.01, "merchant": "Amazon UK", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-03T01:42:47Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
-        ["2026-10-02T00:59:28Z", 1410.67, "geizhals"]
+        ["2026-10-02T00:59:28Z", 1410.67, "geizhals"],
+        ["2026-10-03T01:42:47Z", 1413.01, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
