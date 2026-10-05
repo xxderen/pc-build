@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-05T16:17:44Z",
+  "updated_at": "2026-10-05T22:49:57Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -206,19 +206,21 @@
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
-      "current": {"price": 599.0, "merchant": "PC-KING", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
-      "notified": null,
+      "current": {"price": 429.99, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-05T22:49:57Z"},
+      "notified": {"price": 429.99, "at": "2026-10-05T22:49:57Z", "kinds": ["drop", "target", "deal"]},
       "history": [
-        ["2026-10-01T10:26:36Z", 599.0, "geizhals"]
+        ["2026-10-01T10:26:36Z", 599.0, "geizhals"],
+        ["2026-10-05T22:49:57Z", 429.99, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 683.88, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T21:11:33Z"},
+      "current": {"price": 683.9, "merchant": "25now", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-05T22:49:57Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
         ["2026-10-01T17:21:30Z", 683.89, "geizhals"],
-        ["2026-10-01T21:11:33Z", 683.88, "geizhals"]
+        ["2026-10-01T21:11:33Z", 683.88, "geizhals"],
+        ["2026-10-05T22:49:57Z", 683.9, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
