@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-07T06:50:42Z",
+  "updated_at": "2026-10-07T14:12:18Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -18,33 +18,36 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 99.88, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-06T16:29:33Z"},
+      "current": {"price": 99.89, "merchant": "playox.de", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
-        ["2026-10-06T16:29:33Z", 99.88, "geizhals"]
+        ["2026-10-06T16:29:33Z", 99.88, "geizhals"],
+        ["2026-10-07T14:12:18Z", 99.89, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-06T16:29:33Z"},
+      "current": {"price": 41.51, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
         ["2026-10-01T17:21:30Z", 41.07, "shopify"],
         ["2026-10-02T18:57:57Z", 41.33, "shopify"],
         ["2026-10-05T16:17:44Z", 41.41, "shopify"],
-        ["2026-10-06T16:29:33Z", 41.17, "shopify"]
+        ["2026-10-06T16:29:33Z", 41.17, "shopify"],
+        ["2026-10-07T14:12:18Z", 41.51, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-06T16:29:33Z"},
+      "current": {"price": 41.51, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
         ["2026-10-01T17:21:30Z", 41.07, "shopify"],
         ["2026-10-02T18:57:57Z", 41.33, "shopify"],
         ["2026-10-05T16:17:44Z", 41.41, "shopify"],
-        ["2026-10-06T16:29:33Z", 41.17, "shopify"]
+        ["2026-10-06T16:29:33Z", 41.17, "shopify"],
+        ["2026-10-07T14:12:18Z", 41.51, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -61,29 +64,31 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.05, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-06T16:29:33Z"},
+      "current": {"price": 20.22, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
         ["2026-10-01T17:21:30Z", 20.0, "shopify"],
         ["2026-10-02T18:57:57Z", 20.13, "shopify"],
         ["2026-10-05T16:17:44Z", 20.17, "shopify"],
-        ["2026-10-06T16:29:33Z", 20.05, "shopify"]
+        ["2026-10-06T16:29:33Z", 20.05, "shopify"],
+        ["2026-10-07T14:12:18Z", 20.22, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.05, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-06T16:29:33Z"},
+      "current": {"price": 20.22, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
         ["2026-10-01T17:21:30Z", 20.0, "shopify"],
         ["2026-10-02T18:57:57Z", 20.13, "shopify"],
         ["2026-10-05T16:17:44Z", 20.17, "shopify"],
-        ["2026-10-06T16:29:33Z", 20.05, "shopify"]
+        ["2026-10-06T16:29:33Z", 20.05, "shopify"],
+        ["2026-10-07T14:12:18Z", 20.22, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
-      "current": null,
+      "current": {"price": 1760.81, "merchant": "MemoryC", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-btf-white-oc-edition-90yv0n60-m0na00-a3535102.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1749.99, "geizhals"]
@@ -114,10 +119,11 @@
       ]
     },
     "gpu-inno3d-x3-oc-white": {
-      "current": {"price": 1279.0, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 1307.35, "merchant": "Caseking", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 1279.0, "geizhals"]
+        ["2026-10-01T10:26:36Z", 1279.0, "geizhals"],
+        ["2026-10-07T14:12:18Z", 1307.35, "geizhals"]
       ]
     },
     "gpu-kfa2-1click-oc-white": {
