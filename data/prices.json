@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-07T14:12:18Z",
+  "updated_at": "2026-10-07T20:03:38Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -51,7 +51,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 367.99, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
+      "current": {"price": 369.99, "merchant": "Amazon.de", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
       "notified": {"price": 367.99, "at": "2026-10-07T06:50:42Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -60,7 +60,8 @@
         ["2026-10-03T13:01:57Z", 383.0, "geizhals"],
         ["2026-10-03T23:14:44Z", 389.86, "geizhals"],
         ["2026-10-04T09:20:23Z", 369.99, "geizhals"],
-        ["2026-10-07T06:50:42Z", 367.99, "geizhals"]
+        ["2026-10-07T06:50:42Z", 367.99, "geizhals"],
+        ["2026-10-07T20:03:38Z", 369.99, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -88,20 +89,22 @@
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
-      "current": {"price": 1760.81, "merchant": "MemoryC", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-btf-white-oc-edition-90yv0n60-m0na00-a3535102.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-10-07T14:12:18Z"},
+      "current": {"price": 1847.71, "merchant": "edigitech", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-btf-white-oc-edition-90yv0n60-m0na00-a3535102.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-07T20:03:38Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 1749.99, "geizhals"]
+        ["2026-10-01T10:26:36Z", 1749.99, "geizhals"],
+        ["2026-10-07T20:03:38Z", 1847.71, "geizhals"]
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1967.14, "merchant": "edigitech", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-06T21:10:36Z"},
+      "current": {"price": 2015.99, "merchant": "edigitech", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-07T20:03:38Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
         ["2026-10-02T00:59:28Z", 1410.67, "geizhals"],
         ["2026-10-03T01:42:47Z", 1413.01, "geizhals"],
-        ["2026-10-06T21:10:36Z", 1967.14, "geizhals"]
+        ["2026-10-06T21:10:36Z", 1967.14, "geizhals"],
+        ["2026-10-07T20:03:38Z", 2015.99, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -159,7 +162,7 @@
       ]
     },
     "hub-asiahorse-umbra": {
-      "current": {"price": 29.99, "merchant": "ASIAHORSE", "url": "https://geizhals.de/asiahorse-umbra-cl-o051-pl00bl-a-a3795797.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": null,
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 29.99, "geizhals"]
@@ -174,18 +177,20 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 436.99, "merchant": "x-kom", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 449.0, "merchant": "Coolblue", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 436.99, "geizhals"]
+        ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
+        ["2026-10-07T20:03:38Z", 449.0, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 507.69, "merchant": "computeruniverse", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-02T13:34:13Z"},
+      "current": {"price": 509.8, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
       "notified": {"price": 507.69, "at": "2026-10-02T13:34:13Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
-        ["2026-10-02T13:34:13Z", 507.69, "geizhals"]
+        ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
+        ["2026-10-07T20:03:38Z", 509.8, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
@@ -199,11 +204,12 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 6.37, "merchant": "procooling", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-06T02:41:07Z"},
-      "notified": {"price": 6.37, "at": "2026-10-06T02:41:07Z", "kinds": ["deal"]},
+      "current": {"price": 6.88, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
-        ["2026-10-06T02:41:07Z", 6.37, "geizhals"]
+        ["2026-10-06T02:41:07Z", 6.37, "geizhals"],
+        ["2026-10-07T20:03:38Z", 6.88, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
@@ -221,12 +227,13 @@
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
-      "current": {"price": 575.99, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-06T02:41:07Z"},
+      "current": {"price": 599.0, "merchant": "PC-KING", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 599.0, "geizhals"],
         ["2026-10-05T22:49:57Z", 429.99, "geizhals"],
-        ["2026-10-06T02:41:07Z", 575.99, "geizhals"]
+        ["2026-10-06T02:41:07Z", 575.99, "geizhals"],
+        ["2026-10-07T20:03:38Z", 599.0, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
