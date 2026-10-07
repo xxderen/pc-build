@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-06T21:10:36Z",
+  "updated_at": "2026-10-07T06:50:42Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -48,15 +48,16 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 369.99, "merchant": "Amazon.de", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-04T09:20:23Z"},
-      "notified": {"price": 369.99, "at": "2026-10-04T09:20:23Z", "kinds": ["drop"]},
+      "current": {"price": 367.99, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
+      "notified": {"price": 367.99, "at": "2026-10-07T06:50:42Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
         ["2026-10-02T13:34:13Z", 383.0, "geizhals"],
         ["2026-10-02T18:57:57Z", 389.86, "geizhals"],
         ["2026-10-03T13:01:57Z", 383.0, "geizhals"],
         ["2026-10-03T23:14:44Z", 389.86, "geizhals"],
-        ["2026-10-04T09:20:23Z", 369.99, "geizhals"]
+        ["2026-10-04T09:20:23Z", 369.99, "geizhals"],
+        ["2026-10-07T06:50:42Z", 367.99, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -256,23 +257,25 @@
       ]
     },
     "ssd-lexar-nm790-2tb": {
-      "current": {"price": 279.99, "merchant": "Joybuy", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-03T13:01:57Z"},
+      "current": {"price": 289.0, "merchant": "Mindfactory", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
       "notified": {"price": 279.99, "at": "2026-10-03T13:01:57Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 279.99, "geizhals"],
         ["2026-10-02T13:34:13Z", 289.0, "geizhals"],
-        ["2026-10-03T13:01:57Z", 279.99, "geizhals"]
+        ["2026-10-03T13:01:57Z", 279.99, "geizhals"],
+        ["2026-10-07T06:50:42Z", 289.0, "geizhals"]
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 299.0, "merchant": "galaxus", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 307.99, "merchant": "Mindfactory", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 299.0, "geizhals"]
+        ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
+        ["2026-10-07T06:50:42Z", 307.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-05T16:17:44Z"},
+      "current": {"price": 279.0, "merchant": "Mindfactory", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -285,16 +288,18 @@
         ["2026-10-04T02:48:42Z", 279.0, "geizhals"],
         ["2026-10-04T22:11:33Z", 269.9, "billiger"],
         ["2026-10-05T07:25:30Z", 279.0, "geizhals"],
-        ["2026-10-05T16:17:44Z", 269.9, "billiger"]
+        ["2026-10-05T16:17:44Z", 269.9, "billiger"],
+        ["2026-10-07T06:50:42Z", 279.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
-      "current": {"price": 338.61, "merchant": "Mindfactory", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-04T02:48:42Z"},
+      "current": {"price": 349.0, "merchant": "galaxus", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T06:50:42Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 339.0, "geizhals"],
         ["2026-10-03T13:01:57Z", 339.94, "geizhals"],
-        ["2026-10-04T02:48:42Z", 338.61, "geizhals"]
+        ["2026-10-04T02:48:42Z", 338.61, "geizhals"],
+        ["2026-10-07T06:50:42Z", 349.0, "geizhals"]
       ]
     }
   }
