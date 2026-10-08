@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-08T00:18:30Z",
+  "updated_at": "2026-10-08T06:27:19Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -10,7 +10,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 187.4, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T00:18:30Z"},
+      "current": {"price": 187.4, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T06:27:19Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -116,10 +116,11 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1219.0, "merchant": "Mediarado", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 1235.99, "merchant": "Joybuy", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-08T06:27:19Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 1219.0, "geizhals"]
+        ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
+        ["2026-10-08T06:27:19Z", 1235.99, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
