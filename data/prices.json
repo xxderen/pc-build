@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T19:15:10Z",
+  "updated_at": "2026-10-09T23:23:54Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -108,7 +108,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1413.01, "merchant": "Amazon UK", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T06:28:23Z"},
+      "current": {"price": 1455.4, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-10-09T23:23:54Z"},
       "notified": {"price": 1413.01, "at": "2026-10-09T06:28:23Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -202,14 +202,15 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 486.8, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-09T13:38:50Z"},
+      "current": {"price": 493.79, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-09T23:23:54Z"},
       "notified": {"price": 486.8, "at": "2026-10-09T13:38:50Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
         ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
         ["2026-10-07T20:03:38Z", 509.8, "geizhals"],
         ["2026-10-08T19:39:40Z", 532.29, "geizhals"],
-        ["2026-10-09T13:38:50Z", 486.8, "geizhals"]
+        ["2026-10-09T13:38:50Z", 486.8, "geizhals"],
+        ["2026-10-09T23:23:54Z", 493.79, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
@@ -313,7 +314,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T23:23:54Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -332,7 +333,8 @@
         ["2026-10-08T19:39:40Z", 279.85, "geizhals"],
         ["2026-10-09T00:08:18Z", 269.9, "billiger"],
         ["2026-10-09T13:38:50Z", 279.99, "geizhals"],
-        ["2026-10-09T19:15:10Z", 269.9, "billiger"]
+        ["2026-10-09T19:15:10Z", 269.9, "billiger"],
+        ["2026-10-09T23:23:54Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
