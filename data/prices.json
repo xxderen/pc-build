@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T13:38:50Z",
+  "updated_at": "2026-10-09T19:15:10Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -29,7 +29,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.48, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 41.4, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -38,11 +38,12 @@
         ["2026-10-05T16:17:44Z", 41.41, "shopify"],
         ["2026-10-06T16:29:33Z", 41.17, "shopify"],
         ["2026-10-07T14:12:18Z", 41.51, "shopify"],
-        ["2026-10-08T19:39:40Z", 41.48, "shopify"]
+        ["2026-10-08T19:39:40Z", 41.48, "shopify"],
+        ["2026-10-09T19:15:10Z", 41.4, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.48, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 41.4, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -51,7 +52,8 @@
         ["2026-10-05T16:17:44Z", 41.41, "shopify"],
         ["2026-10-06T16:29:33Z", 41.17, "shopify"],
         ["2026-10-07T14:12:18Z", 41.51, "shopify"],
-        ["2026-10-08T19:39:40Z", 41.48, "shopify"]
+        ["2026-10-08T19:39:40Z", 41.48, "shopify"],
+        ["2026-10-09T19:15:10Z", 41.4, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -70,7 +72,7 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.2, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 20.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -79,11 +81,12 @@
         ["2026-10-05T16:17:44Z", 20.17, "shopify"],
         ["2026-10-06T16:29:33Z", 20.05, "shopify"],
         ["2026-10-07T14:12:18Z", 20.22, "shopify"],
-        ["2026-10-08T19:39:40Z", 20.2, "shopify"]
+        ["2026-10-08T19:39:40Z", 20.2, "shopify"],
+        ["2026-10-09T19:15:10Z", 20.17, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.2, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 20.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -92,7 +95,8 @@
         ["2026-10-05T16:17:44Z", 20.17, "shopify"],
         ["2026-10-06T16:29:33Z", 20.05, "shopify"],
         ["2026-10-07T14:12:18Z", 20.22, "shopify"],
-        ["2026-10-08T19:39:40Z", 20.2, "shopify"]
+        ["2026-10-08T19:39:40Z", 20.2, "shopify"],
+        ["2026-10-09T19:15:10Z", 20.17, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -220,13 +224,14 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 6.84, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
+      "current": {"price": 7.37, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
         ["2026-10-06T02:41:07Z", 6.37, "geizhals"],
         ["2026-10-07T20:03:38Z", 6.88, "geizhals"],
-        ["2026-10-09T13:38:50Z", 6.84, "geizhals"]
+        ["2026-10-09T13:38:50Z", 6.84, "geizhals"],
+        ["2026-10-09T19:15:10Z", 7.37, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
@@ -308,7 +313,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-09T19:15:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -326,7 +331,8 @@
         ["2026-10-08T00:18:30Z", 269.9, "billiger"],
         ["2026-10-08T19:39:40Z", 279.85, "geizhals"],
         ["2026-10-09T00:08:18Z", 269.9, "billiger"],
-        ["2026-10-09T13:38:50Z", 279.99, "geizhals"]
+        ["2026-10-09T13:38:50Z", 279.99, "geizhals"],
+        ["2026-10-09T19:15:10Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
