@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T06:28:23Z",
+  "updated_at": "2026-10-09T13:38:50Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -19,12 +19,13 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 99.89, "merchant": "playox.de", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T14:12:18Z"},
+      "current": {"price": 99.88, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
         ["2026-10-06T16:29:33Z", 99.88, "geizhals"],
-        ["2026-10-07T14:12:18Z", 99.89, "geizhals"]
+        ["2026-10-07T14:12:18Z", 99.89, "geizhals"],
+        ["2026-10-09T13:38:50Z", 99.88, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -172,7 +173,7 @@
       ]
     },
     "hub-asiahorse-umbra": {
-      "current": null,
+      "current": {"price": 29.99, "merchant": "ASIAHORSE", "url": "https://geizhals.de/asiahorse-umbra-cl-o051-pl00bl-a-a3795797.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 29.99, "geizhals"]
@@ -197,13 +198,14 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 532.29, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
-      "notified": {"price": 507.69, "at": "2026-10-02T13:34:13Z", "kinds": ["drop"]},
+      "current": {"price": 486.8, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-09T13:38:50Z"},
+      "notified": {"price": 486.8, "at": "2026-10-09T13:38:50Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
         ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
         ["2026-10-07T20:03:38Z", 509.8, "geizhals"],
-        ["2026-10-08T19:39:40Z", 532.29, "geizhals"]
+        ["2026-10-08T19:39:40Z", 532.29, "geizhals"],
+        ["2026-10-09T13:38:50Z", 486.8, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
@@ -218,12 +220,13 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 6.88, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
+      "current": {"price": 6.84, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
         ["2026-10-06T02:41:07Z", 6.37, "geizhals"],
-        ["2026-10-07T20:03:38Z", 6.88, "geizhals"]
+        ["2026-10-07T20:03:38Z", 6.88, "geizhals"],
+        ["2026-10-09T13:38:50Z", 6.84, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
@@ -305,7 +308,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-09T00:08:18Z"},
+      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -322,7 +325,8 @@
         ["2026-10-07T06:50:42Z", 279.0, "geizhals"],
         ["2026-10-08T00:18:30Z", 269.9, "billiger"],
         ["2026-10-08T19:39:40Z", 279.85, "geizhals"],
-        ["2026-10-09T00:08:18Z", 269.9, "billiger"]
+        ["2026-10-09T00:08:18Z", 269.9, "billiger"],
+        ["2026-10-09T13:38:50Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
