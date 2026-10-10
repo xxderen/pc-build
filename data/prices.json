@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-10T02:32:56Z",
+  "updated_at": "2026-10-10T09:23:36Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -57,8 +57,8 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 378.95, "merchant": "Amazon.de", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
-      "notified": {"price": 367.99, "at": "2026-10-07T06:50:42Z", "kinds": ["drop"]},
+      "current": {"price": 389.86, "merchant": "Caseking", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T09:23:36Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
         ["2026-10-02T13:34:13Z", 383.0, "geizhals"],
@@ -68,7 +68,8 @@
         ["2026-10-04T09:20:23Z", 369.99, "geizhals"],
         ["2026-10-07T06:50:42Z", 367.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 369.99, "geizhals"],
-        ["2026-10-08T19:39:40Z", 378.95, "geizhals"]
+        ["2026-10-08T19:39:40Z", 378.95, "geizhals"],
+        ["2026-10-10T09:23:36Z", 389.86, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -316,7 +317,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T23:23:54Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-10T09:23:36Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -336,7 +337,8 @@
         ["2026-10-09T00:08:18Z", 269.9, "billiger"],
         ["2026-10-09T13:38:50Z", 279.99, "geizhals"],
         ["2026-10-09T19:15:10Z", 269.9, "billiger"],
-        ["2026-10-09T23:23:54Z", 279.99, "geizhals"]
+        ["2026-10-09T23:23:54Z", 279.99, "geizhals"],
+        ["2026-10-10T09:23:36Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
