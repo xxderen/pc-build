@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-09T23:23:54Z",
+  "updated_at": "2026-10-10T02:32:56Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -193,12 +193,13 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 436.99, "merchant": "x-kom", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 449.0, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T02:32:56Z"},
       "notified": {"price": 436.99, "at": "2026-10-08T19:39:40Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
-        ["2026-10-08T19:39:40Z", 436.99, "geizhals"]
+        ["2026-10-08T19:39:40Z", 436.99, "geizhals"],
+        ["2026-10-10T02:32:56Z", 449.0, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
@@ -295,14 +296,15 @@
       ]
     },
     "ssd-lexar-nm790-2tb": {
-      "current": {"price": 308.98, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 309.0, "merchant": "Mindfactory", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T02:32:56Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 279.99, "geizhals"],
         ["2026-10-02T13:34:13Z", 289.0, "geizhals"],
         ["2026-10-03T13:01:57Z", 279.99, "geizhals"],
         ["2026-10-07T06:50:42Z", 289.0, "geizhals"],
-        ["2026-10-08T19:39:40Z", 308.98, "geizhals"]
+        ["2026-10-08T19:39:40Z", 308.98, "geizhals"],
+        ["2026-10-10T02:32:56Z", 309.0, "geizhals"]
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
