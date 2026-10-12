@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-11T23:26:35Z",
+  "updated_at": "2026-10-12T10:13:12Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -57,8 +57,8 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 399.0, "merchant": "rejsell", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-11T23:26:35Z"},
-      "notified": {"price": 399.0, "at": "2026-10-11T23:26:35Z", "kinds": ["drop"]},
+      "current": {"price": 389.86, "merchant": "Caseking", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-12T10:13:12Z"},
+      "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
         ["2026-10-02T13:34:13Z", 383.0, "geizhals"],
@@ -71,7 +71,8 @@
         ["2026-10-08T19:39:40Z", 378.95, "geizhals"],
         ["2026-10-10T09:23:36Z", 389.86, "geizhals"],
         ["2026-10-11T19:54:24Z", 409.0, "geizhals"],
-        ["2026-10-11T23:26:35Z", 399.0, "geizhals"]
+        ["2026-10-11T23:26:35Z", 399.0, "geizhals"],
+        ["2026-10-12T10:13:12Z", 389.86, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -111,15 +112,16 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1455.4, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-10-09T23:23:54Z"},
-      "notified": {"price": 1413.01, "at": "2026-10-09T06:28:23Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 1557.03, "merchant": "electronis.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-12T10:13:12Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
         ["2026-10-02T00:59:28Z", 1410.67, "geizhals"],
         ["2026-10-03T01:42:47Z", 1413.01, "geizhals"],
         ["2026-10-06T21:10:36Z", 1967.14, "geizhals"],
         ["2026-10-07T20:03:38Z", 2015.99, "geizhals"],
-        ["2026-10-09T06:28:23Z", 1413.01, "geizhals"]
+        ["2026-10-09T06:28:23Z", 1413.01, "geizhals"],
+        ["2026-10-12T10:13:12Z", 1557.03, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -231,14 +233,15 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 7.37, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 7.42, "merchant": "NEXOC Store", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-12T10:13:12Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
         ["2026-10-06T02:41:07Z", 6.37, "geizhals"],
         ["2026-10-07T20:03:38Z", 6.88, "geizhals"],
         ["2026-10-09T13:38:50Z", 6.84, "geizhals"],
-        ["2026-10-09T19:15:10Z", 7.37, "geizhals"]
+        ["2026-10-09T19:15:10Z", 7.37, "geizhals"],
+        ["2026-10-12T10:13:12Z", 7.42, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
