@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-12T10:13:12Z",
+  "updated_at": "2026-10-12T19:55:25Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -29,7 +29,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.4, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 41.5, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -39,11 +39,12 @@
         ["2026-10-06T16:29:33Z", 41.17, "shopify"],
         ["2026-10-07T14:12:18Z", 41.51, "shopify"],
         ["2026-10-08T19:39:40Z", 41.48, "shopify"],
-        ["2026-10-09T19:15:10Z", 41.4, "shopify"]
+        ["2026-10-09T19:15:10Z", 41.4, "shopify"],
+        ["2026-10-12T19:55:25Z", 41.5, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.4, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 41.5, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -53,7 +54,8 @@
         ["2026-10-06T16:29:33Z", 41.17, "shopify"],
         ["2026-10-07T14:12:18Z", 41.51, "shopify"],
         ["2026-10-08T19:39:40Z", 41.48, "shopify"],
-        ["2026-10-09T19:15:10Z", 41.4, "shopify"]
+        ["2026-10-09T19:15:10Z", 41.4, "shopify"],
+        ["2026-10-12T19:55:25Z", 41.5, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -76,7 +78,7 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 20.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -86,11 +88,12 @@
         ["2026-10-06T16:29:33Z", 20.05, "shopify"],
         ["2026-10-07T14:12:18Z", 20.22, "shopify"],
         ["2026-10-08T19:39:40Z", 20.2, "shopify"],
-        ["2026-10-09T19:15:10Z", 20.17, "shopify"]
+        ["2026-10-09T19:15:10Z", 20.17, "shopify"],
+        ["2026-10-12T19:55:25Z", 20.21, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.17, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-09T19:15:10Z"},
+      "current": {"price": 20.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -100,7 +103,8 @@
         ["2026-10-06T16:29:33Z", 20.05, "shopify"],
         ["2026-10-07T14:12:18Z", 20.22, "shopify"],
         ["2026-10-08T19:39:40Z", 20.2, "shopify"],
-        ["2026-10-09T19:15:10Z", 20.17, "shopify"]
+        ["2026-10-09T19:15:10Z", 20.17, "shopify"],
+        ["2026-10-12T19:55:25Z", 20.21, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -112,7 +116,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1557.03, "merchant": "electronis.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-12T10:13:12Z"},
+      "current": {"price": 1566.38, "merchant": "electronis.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -121,11 +125,12 @@
         ["2026-10-06T21:10:36Z", 1967.14, "geizhals"],
         ["2026-10-07T20:03:38Z", 2015.99, "geizhals"],
         ["2026-10-09T06:28:23Z", 1413.01, "geizhals"],
-        ["2026-10-12T10:13:12Z", 1557.03, "geizhals"]
+        ["2026-10-12T10:13:12Z", 1557.03, "geizhals"],
+        ["2026-10-12T19:55:25Z", 1566.38, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1344.0, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-05T07:25:30Z"},
+      "current": {"price": 1344.0, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"]
