@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-13T01:49:04Z",
+  "updated_at": "2026-10-13T08:56:08Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -10,7 +10,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 187.4, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-08T06:27:19Z"},
+      "current": {"price": 187.4, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T08:56:08Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -59,7 +59,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 389.86, "merchant": "Caseking", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-12T10:13:12Z"},
+      "current": {"price": 406.86, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T08:56:08Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -74,7 +74,8 @@
         ["2026-10-10T09:23:36Z", 389.86, "geizhals"],
         ["2026-10-11T19:54:24Z", 409.0, "geizhals"],
         ["2026-10-11T23:26:35Z", 399.0, "geizhals"],
-        ["2026-10-12T10:13:12Z", 389.86, "geizhals"]
+        ["2026-10-12T10:13:12Z", 389.86, "geizhals"],
+        ["2026-10-13T08:56:08Z", 406.86, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -130,10 +131,11 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1344.0, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-12T19:55:25Z"},
+      "current": {"price": 1353.0, "merchant": "Alternate", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T08:56:08Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 1344.0, "geizhals"]
+        ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
+        ["2026-10-13T08:56:08Z", 1353.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -195,28 +197,30 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 489.88, "merchant": "Mindfactory", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
-      "notified": null,
+      "current": {"price": 439.99, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T08:56:08Z"},
+      "notified": {"price": 439.99, "at": "2026-10-13T08:56:08Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
         ["2026-10-02T13:34:13Z", 489.9, "geizhals"],
         ["2026-10-08T19:39:40Z", 489.89, "geizhals"],
-        ["2026-10-13T01:49:04Z", 489.88, "geizhals"]
+        ["2026-10-13T01:49:04Z", 489.88, "geizhals"],
+        ["2026-10-13T08:56:08Z", 439.99, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 447.5, "merchant": "CollectraX", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
+      "current": {"price": 447.44, "merchant": "Online-Shop Weber", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T08:56:08Z"},
       "notified": {"price": 436.99, "at": "2026-10-08T19:39:40Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
         ["2026-10-08T19:39:40Z", 436.99, "geizhals"],
         ["2026-10-10T02:32:56Z", 449.0, "geizhals"],
-        ["2026-10-13T01:49:04Z", 447.5, "geizhals"]
+        ["2026-10-13T01:49:04Z", 447.5, "geizhals"],
+        ["2026-10-13T08:56:08Z", 447.44, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 449.0, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T01:49:04Z"},
+      "current": {"price": 449.0, "merchant": "Cyberport Stores Deutschland", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T08:56:08Z"},
       "notified": {"price": 449.0, "at": "2026-10-13T01:49:04Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
@@ -287,7 +291,7 @@
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
-      "current": {"price": 279.99, "merchant": "BIWIN Tech", "url": "https://geizhals.de/acer-predator-gm7-ssd-2tb-bl-9bwwr-119-a3438312.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
+      "current": null,
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 259.99, "geizhals"],
