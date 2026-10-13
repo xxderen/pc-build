@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-12T19:55:25Z",
+  "updated_at": "2026-10-13T01:49:04Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -195,27 +195,29 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 489.89, "merchant": "Mindfactory", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 489.88, "merchant": "Mindfactory", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
         ["2026-10-02T13:34:13Z", 489.9, "geizhals"],
-        ["2026-10-08T19:39:40Z", 489.89, "geizhals"]
+        ["2026-10-08T19:39:40Z", 489.89, "geizhals"],
+        ["2026-10-13T01:49:04Z", 489.88, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 449.0, "merchant": "nullprozentshop.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T02:32:56Z"},
+      "current": {"price": 447.5, "merchant": "CollectraX", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
       "notified": {"price": 436.99, "at": "2026-10-08T19:39:40Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
         ["2026-10-08T19:39:40Z", 436.99, "geizhals"],
-        ["2026-10-10T02:32:56Z", 449.0, "geizhals"]
+        ["2026-10-10T02:32:56Z", 449.0, "geizhals"],
+        ["2026-10-13T01:49:04Z", 447.5, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 509.8, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T23:13:16Z"},
-      "notified": {"price": 486.8, "at": "2026-10-09T13:38:50Z", "kinds": ["drop"]},
+      "current": {"price": 449.0, "merchant": "Cyberport.de", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T01:49:04Z"},
+      "notified": {"price": 449.0, "at": "2026-10-13T01:49:04Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
         ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
@@ -223,7 +225,8 @@
         ["2026-10-08T19:39:40Z", 532.29, "geizhals"],
         ["2026-10-09T13:38:50Z", 486.8, "geizhals"],
         ["2026-10-09T23:23:54Z", 493.79, "geizhals"],
-        ["2026-10-10T23:13:16Z", 509.8, "geizhals"]
+        ["2026-10-10T23:13:16Z", 509.8, "geizhals"],
+        ["2026-10-13T01:49:04Z", 449.0, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
@@ -284,20 +287,22 @@
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
-      "current": {"price": 259.99, "merchant": "BIWIN Tech", "url": "https://geizhals.de/acer-predator-gm7-ssd-2tb-bl-9bwwr-119-a3438312.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 279.99, "merchant": "BIWIN Tech", "url": "https://geizhals.de/acer-predator-gm7-ssd-2tb-bl-9bwwr-119-a3438312.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 259.99, "geizhals"]
+        ["2026-10-01T10:26:36Z", 259.99, "geizhals"],
+        ["2026-10-13T01:49:04Z", 279.99, "geizhals"]
       ]
     },
     "ssd-crucial-t500-2tb": {
-      "current": {"price": 428.99, "merchant": "playox.de", "url": "https://geizhals.de/crucial-t500-ssd-2tb-ct2000t500ssd8-a3053884.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-10T23:13:16Z"},
-      "notified": null,
+      "current": {"price": 390.82, "merchant": "MAGIKA SERVICE", "url": "https://geizhals.de/crucial-t500-ssd-2tb-ct2000t500ssd8-a3053884.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-13T01:49:04Z"},
+      "notified": {"price": 390.82, "at": "2026-10-13T01:49:04Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 429.89, "geizhals"],
         ["2026-10-02T13:34:13Z", 428.99, "geizhals"],
         ["2026-10-08T19:39:40Z", 390.82, "geizhals"],
-        ["2026-10-10T23:13:16Z", 428.99, "geizhals"]
+        ["2026-10-10T23:13:16Z", 428.99, "geizhals"],
+        ["2026-10-13T01:49:04Z", 390.82, "geizhals"]
       ]
     },
     "ssd-kingston-kc3000-2tb": {
@@ -331,7 +336,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-11T15:52:14Z"},
+      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T01:49:04Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -356,7 +361,8 @@
         ["2026-10-10T23:13:16Z", 279.99, "geizhals"],
         ["2026-10-11T02:03:00Z", 269.9, "billiger"],
         ["2026-10-11T09:09:15Z", 279.99, "geizhals"],
-        ["2026-10-11T15:52:14Z", 269.9, "billiger"]
+        ["2026-10-11T15:52:14Z", 269.9, "billiger"],
+        ["2026-10-13T01:49:04Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
