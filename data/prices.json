@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T19:58:20Z",
+  "updated_at": "2026-10-14T23:05:52Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -130,7 +130,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1566.39, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-14T19:58:20Z"},
+      "current": {"price": 1569.0, "merchant": "PC-KING", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-14T23:05:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -141,7 +141,8 @@
         ["2026-10-09T06:28:23Z", 1413.01, "geizhals"],
         ["2026-10-12T10:13:12Z", 1557.03, "geizhals"],
         ["2026-10-12T19:55:25Z", 1566.38, "geizhals"],
-        ["2026-10-14T19:58:20Z", 1566.39, "geizhals"]
+        ["2026-10-14T19:58:20Z", 1566.39, "geizhals"],
+        ["2026-10-14T23:05:52Z", 1569.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -359,7 +360,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-14T19:58:20Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-14T23:05:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -387,7 +388,8 @@
         ["2026-10-11T15:52:14Z", 269.9, "billiger"],
         ["2026-10-13T01:49:04Z", 279.99, "geizhals"],
         ["2026-10-13T21:43:06Z", 269.9, "billiger"],
-        ["2026-10-14T19:58:20Z", 279.99, "geizhals"]
+        ["2026-10-14T19:58:20Z", 279.99, "geizhals"],
+        ["2026-10-14T23:05:52Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
