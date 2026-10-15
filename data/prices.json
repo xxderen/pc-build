@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-15T06:57:02Z",
+  "updated_at": "2026-10-15T12:30:58Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -66,7 +66,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 407.25, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
+      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T12:30:58Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -86,7 +86,8 @@
         ["2026-10-14T05:48:06Z", 407.29, "geizhals"],
         ["2026-10-14T11:11:01Z", 407.3, "geizhals"],
         ["2026-10-14T15:53:58Z", 399.0, "geizhals"],
-        ["2026-10-15T06:57:02Z", 407.25, "geizhals"]
+        ["2026-10-15T06:57:02Z", 407.25, "geizhals"],
+        ["2026-10-15T12:30:58Z", 399.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -132,7 +133,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1569.0, "merchant": "PC-KING", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-14T23:05:52Z"},
+      "current": {"price": 1658.0, "merchant": "Alternate", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T12:30:58Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -144,7 +145,8 @@
         ["2026-10-12T10:13:12Z", 1557.03, "geizhals"],
         ["2026-10-12T19:55:25Z", 1566.38, "geizhals"],
         ["2026-10-14T19:58:20Z", 1566.39, "geizhals"],
-        ["2026-10-14T23:05:52Z", 1569.0, "geizhals"]
+        ["2026-10-14T23:05:52Z", 1569.0, "geizhals"],
+        ["2026-10-15T12:30:58Z", 1658.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -209,10 +211,11 @@
       ]
     },
     "hub-asiahorse-umbra": {
-      "current": {"price": 29.99, "merchant": "ASIAHORSE", "url": "https://geizhals.de/asiahorse-umbra-cl-o051-pl00bl-a-a3795797.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-09T13:38:50Z"},
-      "notified": null,
+      "current": {"price": 25.49, "merchant": "ASIAHORSE", "url": "https://geizhals.de/asiahorse-umbra-cl-o051-pl00bl-a-a3795797.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-15T12:30:58Z"},
+      "notified": {"price": 25.49, "at": "2026-10-15T12:30:58Z", "kinds": ["drop", "deal"]},
       "history": [
-        ["2026-10-01T10:26:36Z", 29.99, "geizhals"]
+        ["2026-10-01T10:26:36Z", 29.99, "geizhals"],
+        ["2026-10-15T12:30:58Z", 25.49, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
