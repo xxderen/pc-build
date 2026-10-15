@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T23:05:52Z",
+  "updated_at": "2026-10-15T06:57:02Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
@@ -10,14 +10,15 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 190.95, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-13T21:43:06Z"},
-      "notified": null,
+      "current": {"price": 188.31, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
+      "notified": {"price": 188.31, "at": "2026-10-15T06:57:02Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
         ["2026-10-06T02:41:07Z", 162.0, "geizhals"],
         ["2026-10-08T00:18:30Z", 187.4, "geizhals"],
         ["2026-10-13T16:45:09Z", 187.69, "geizhals"],
-        ["2026-10-13T21:43:06Z", 190.95, "geizhals"]
+        ["2026-10-13T21:43:06Z", 190.95, "geizhals"],
+        ["2026-10-15T06:57:02Z", 188.31, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
@@ -65,7 +66,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-14T15:53:58Z"},
+      "current": {"price": 407.25, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -84,7 +85,8 @@
         ["2026-10-13T08:56:08Z", 406.86, "geizhals"],
         ["2026-10-14T05:48:06Z", 407.29, "geizhals"],
         ["2026-10-14T11:11:01Z", 407.3, "geizhals"],
-        ["2026-10-14T15:53:58Z", 399.0, "geizhals"]
+        ["2026-10-14T15:53:58Z", 399.0, "geizhals"],
+        ["2026-10-15T06:57:02Z", 407.25, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -277,10 +279,11 @@
       ]
     },
     "paste-mx6-2g": {
-      "current": {"price": 3.11, "merchant": "Aquatuning", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 7.79, "merchant": "powerstun", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 3.11, "geizhals"]
+        ["2026-10-01T10:26:36Z", 3.11, "geizhals"],
+        ["2026-10-15T06:57:02Z", 7.79, "geizhals"]
       ]
     },
     "psu-rm1000e-white": {
@@ -360,7 +363,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-14T23:05:52Z"},
+      "current": {"price": 279.99, "merchant": "Mediamarkt.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -389,7 +392,8 @@
         ["2026-10-13T01:49:04Z", 279.99, "geizhals"],
         ["2026-10-13T21:43:06Z", 269.9, "billiger"],
         ["2026-10-14T19:58:20Z", 279.99, "geizhals"],
-        ["2026-10-14T23:05:52Z", 269.9, "billiger"]
+        ["2026-10-14T23:05:52Z", 269.9, "billiger"],
+        ["2026-10-15T06:57:02Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
