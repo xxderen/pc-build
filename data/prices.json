@@ -1,12 +1,13 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T17:35:39Z",
+  "updated_at": "2026-10-16T20:29:58Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
-      "current": {"price": 367.65, "merchant": "x-kom", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-01T10:26:36Z"},
+      "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
       "notified": null,
       "history": [
-        ["2026-10-01T10:26:36Z", 367.65, "geizhals"]
+        ["2026-10-01T10:26:36Z", 367.65, "geizhals"],
+        ["2026-10-16T20:29:58Z", 378.88, "geizhals"]
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
@@ -170,13 +171,14 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1329.0, "merchant": "reichelt.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T08:23:35Z"},
-      "notified": null,
+      "current": {"price": 1249.0, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
+      "notified": {"price": 1249.0, "at": "2026-10-16T20:29:58Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
         ["2026-10-08T06:27:19Z", 1235.99, "geizhals"],
         ["2026-10-15T23:33:00Z", 1249.0, "geizhals"],
-        ["2026-10-16T08:23:35Z", 1329.0, "geizhals"]
+        ["2026-10-16T08:23:35Z", 1329.0, "geizhals"],
+        ["2026-10-16T20:29:58Z", 1249.0, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
