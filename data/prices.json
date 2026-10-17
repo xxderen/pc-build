@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T22:58:32Z",
+  "updated_at": "2026-10-17T05:52:55Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -384,7 +384,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-16T22:58:32Z"},
+      "current": {"price": 279.99, "merchant": "saturn", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-17T05:52:55Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -419,7 +419,8 @@
         ["2026-10-16T03:07:41Z", 279.99, "geizhals"],
         ["2026-10-16T08:23:35Z", 269.9, "billiger"],
         ["2026-10-16T13:25:02Z", 279.99, "geizhals"],
-        ["2026-10-16T22:58:32Z", 269.9, "billiger"]
+        ["2026-10-16T22:58:32Z", 269.9, "billiger"],
+        ["2026-10-17T05:52:55Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
