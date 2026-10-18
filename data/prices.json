@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-17T21:35:11Z",
+  "updated_at": "2026-10-18T03:01:08Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -146,8 +146,8 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1658.0, "merchant": "Alternate", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T12:30:58Z"},
-      "notified": null,
+      "current": {"price": 1497.79, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-18T03:01:08Z"},
+      "notified": {"price": 1497.79, "at": "2026-10-18T03:01:08Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
         ["2026-10-02T00:59:28Z", 1410.67, "geizhals"],
@@ -159,7 +159,8 @@
         ["2026-10-12T19:55:25Z", 1566.38, "geizhals"],
         ["2026-10-14T19:58:20Z", 1566.39, "geizhals"],
         ["2026-10-14T23:05:52Z", 1569.0, "geizhals"],
-        ["2026-10-15T12:30:58Z", 1658.0, "geizhals"]
+        ["2026-10-15T12:30:58Z", 1658.0, "geizhals"],
+        ["2026-10-18T03:01:08Z", 1497.79, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -386,7 +387,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 268.0, "merchant": "aygo-4", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-17T21:35:11Z"},
+      "current": {"price": 268.0, "merchant": "aygo-4", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-18T03:01:08Z"},
       "notified": {"price": 268.0, "at": "2026-10-17T16:50:04Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -426,7 +427,8 @@
         ["2026-10-17T10:08:47Z", 269.9, "billiger"],
         ["2026-10-17T16:50:04Z", 268.0, "billiger"],
         ["2026-10-17T19:01:13Z", 268.0, "geizhals"],
-        ["2026-10-17T21:35:11Z", 268.0, "billiger"]
+        ["2026-10-17T21:35:11Z", 268.0, "billiger"],
+        ["2026-10-18T03:01:08Z", 268.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
