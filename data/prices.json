@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T14:51:00Z",
+  "updated_at": "2026-10-19T20:21:33Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -287,7 +287,7 @@
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 368.64, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-19T14:51:00Z"},
+      "current": {"price": 373.9, "merchant": "Coolblue", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-19T20:21:33Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -297,7 +297,8 @@
         ["2026-10-08T19:39:40Z", 368.99, "geizhals"],
         ["2026-10-18T08:13:55Z", 368.88, "geizhals"],
         ["2026-10-19T07:18:34Z", 359.0, "geizhals"],
-        ["2026-10-19T14:51:00Z", 368.64, "geizhals"]
+        ["2026-10-19T14:51:00Z", 368.64, "geizhals"],
+        ["2026-10-19T20:21:33Z", 373.9, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
