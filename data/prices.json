@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T18:36:03Z",
+  "updated_at": "2026-10-20T22:05:45Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -250,7 +250,7 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 479.01, "merchant": "TechnikDirekt", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-19T14:51:00Z"},
+      "current": {"price": 480.56, "merchant": "Easynotebooks.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
@@ -259,11 +259,12 @@
         ["2026-10-13T01:49:04Z", 489.88, "geizhals"],
         ["2026-10-13T08:56:08Z", 439.99, "geizhals"],
         ["2026-10-19T07:18:34Z", 458.33, "geizhals"],
-        ["2026-10-19T14:51:00Z", 479.01, "geizhals"]
+        ["2026-10-19T14:51:00Z", 479.01, "geizhals"],
+        ["2026-10-20T22:05:45Z", 480.56, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 429.0, "merchant": "galaxus", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T14:06:07Z"},
+      "current": {"price": 429.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
       "notified": {"price": 419.0, "at": "2026-10-14T19:58:20Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
@@ -295,7 +296,7 @@
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 373.9, "merchant": "Coolblue", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-19T20:21:33Z"},
+      "current": {"price": 369.0, "merchant": "Amazon.de", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -306,7 +307,8 @@
         ["2026-10-18T08:13:55Z", 368.88, "geizhals"],
         ["2026-10-19T07:18:34Z", 359.0, "geizhals"],
         ["2026-10-19T14:51:00Z", 368.64, "geizhals"],
-        ["2026-10-19T20:21:33Z", 373.9, "geizhals"]
+        ["2026-10-19T20:21:33Z", 373.9, "geizhals"],
+        ["2026-10-20T22:05:45Z", 369.0, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
@@ -331,11 +333,12 @@
       ]
     },
     "psu-rm1000e-white": {
-      "current": {"price": 141.4, "merchant": "Mindfactory", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-16T03:07:41Z"},
+      "current": {"price": 141.41, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 141.39, "geizhals"],
-        ["2026-10-16T03:07:41Z", 141.4, "geizhals"]
+        ["2026-10-16T03:07:41Z", 141.4, "geizhals"],
+        ["2026-10-20T22:05:45Z", 141.41, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
