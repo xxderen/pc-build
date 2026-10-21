@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T05:43:02Z",
+  "updated_at": "2026-10-21T11:09:44Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -187,14 +187,15 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1249.0, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
-      "notified": {"price": 1249.0, "at": "2026-10-16T20:29:58Z", "kinds": ["drop"]},
+      "current": {"price": 1329.0, "merchant": "reichelt.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
         ["2026-10-08T06:27:19Z", 1235.99, "geizhals"],
         ["2026-10-15T23:33:00Z", 1249.0, "geizhals"],
         ["2026-10-16T08:23:35Z", 1329.0, "geizhals"],
-        ["2026-10-16T20:29:58Z", 1249.0, "geizhals"]
+        ["2026-10-16T20:29:58Z", 1249.0, "geizhals"],
+        ["2026-10-21T11:09:44Z", 1329.0, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -251,7 +252,7 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 480.56, "merchant": "Easynotebooks.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
+      "current": {"price": 485.55, "merchant": "TechnikDirekt", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
@@ -261,7 +262,8 @@
         ["2026-10-13T08:56:08Z", 439.99, "geizhals"],
         ["2026-10-19T07:18:34Z", 458.33, "geizhals"],
         ["2026-10-19T14:51:00Z", 479.01, "geizhals"],
-        ["2026-10-20T22:05:45Z", 480.56, "geizhals"]
+        ["2026-10-20T22:05:45Z", 480.56, "geizhals"],
+        ["2026-10-21T11:09:44Z", 485.55, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
@@ -297,7 +299,7 @@
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 369.0, "merchant": "Amazon.de", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
+      "current": {"price": 373.9, "merchant": "Coolblue", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -309,7 +311,8 @@
         ["2026-10-19T07:18:34Z", 359.0, "geizhals"],
         ["2026-10-19T14:51:00Z", 368.64, "geizhals"],
         ["2026-10-19T20:21:33Z", 373.9, "geizhals"],
-        ["2026-10-20T22:05:45Z", 369.0, "geizhals"]
+        ["2026-10-20T22:05:45Z", 369.0, "geizhals"],
+        ["2026-10-21T11:09:44Z", 373.9, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
@@ -343,13 +346,14 @@
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
-      "current": {"price": 599.0, "merchant": "PC-KING", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-07T20:03:38Z"},
+      "current": {"price": 621.19, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 599.0, "geizhals"],
         ["2026-10-05T22:49:57Z", 429.99, "geizhals"],
         ["2026-10-06T02:41:07Z", 575.99, "geizhals"],
-        ["2026-10-07T20:03:38Z", 599.0, "geizhals"]
+        ["2026-10-07T20:03:38Z", 599.0, "geizhals"],
+        ["2026-10-21T11:09:44Z", 621.19, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
@@ -385,12 +389,13 @@
       ]
     },
     "ssd-kingston-kc3000-2tb": {
-      "current": {"price": 325.99, "merchant": "x-kom", "url": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-08T19:39:40Z"},
+      "current": {"price": 348.73, "merchant": "computeruniverse", "url": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 319.98, "geizhals"],
         ["2026-10-03T13:01:57Z", 319.99, "geizhals"],
-        ["2026-10-08T19:39:40Z", 325.99, "geizhals"]
+        ["2026-10-08T19:39:40Z", 325.99, "geizhals"],
+        ["2026-10-21T11:09:44Z", 348.73, "geizhals"]
       ]
     },
     "ssd-lexar-nm790-2tb": {
@@ -407,18 +412,19 @@
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 299.99, "merchant": "mz.commerce", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-18T18:46:11Z"},
+      "current": {"price": 299.0, "merchant": "galaxus", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
       "notified": {"price": 299.9, "at": "2026-10-10T23:13:16Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
         ["2026-10-07T06:50:42Z", 307.99, "geizhals"],
         ["2026-10-10T23:13:16Z", 299.9, "geizhals"],
         ["2026-10-16T13:25:02Z", 307.99, "geizhals"],
-        ["2026-10-18T18:46:11Z", 299.99, "geizhals"]
+        ["2026-10-18T18:46:11Z", 299.99, "geizhals"],
+        ["2026-10-21T11:09:44Z", 299.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-21T00:45:11Z"},
+      "current": {"price": 279.99, "merchant": "1fodiscount", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-21T11:09:44Z"},
       "notified": {"price": 268.0, "at": "2026-10-17T16:50:04Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -467,7 +473,8 @@
         ["2026-10-19T14:51:00Z", 279.99, "geizhals"],
         ["2026-10-19T23:51:33Z", 269.9, "billiger"],
         ["2026-10-20T14:06:07Z", 279.99, "geizhals"],
-        ["2026-10-21T00:45:11Z", 269.9, "billiger"]
+        ["2026-10-21T00:45:11Z", 269.9, "billiger"],
+        ["2026-10-21T11:09:44Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
