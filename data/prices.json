@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T14:20:16Z",
+  "updated_at": "2026-10-22T18:42:05Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -301,7 +301,7 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 492.06, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T20:17:19Z"},
+      "current": {"price": 499.99, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T18:42:05Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
@@ -313,7 +313,8 @@
         ["2026-10-10T23:13:16Z", 509.8, "geizhals"],
         ["2026-10-13T01:49:04Z", 449.0, "geizhals"],
         ["2026-10-20T14:06:07Z", 472.85, "geizhals"],
-        ["2026-10-21T20:17:19Z", 492.06, "geizhals"]
+        ["2026-10-21T20:17:19Z", 492.06, "geizhals"],
+        ["2026-10-22T18:42:05Z", 499.99, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
@@ -358,12 +359,13 @@
       ]
     },
     "psu-rm1000e-white": {
-      "current": {"price": 141.41, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T22:05:45Z"},
+      "current": {"price": 144.9, "merchant": "Alternate", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T18:42:05Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 141.39, "geizhals"],
         ["2026-10-16T03:07:41Z", 141.4, "geizhals"],
-        ["2026-10-20T22:05:45Z", 141.41, "geizhals"]
+        ["2026-10-20T22:05:45Z", 141.41, "geizhals"],
+        ["2026-10-22T18:42:05Z", 144.9, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
@@ -380,8 +382,8 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 704.99, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
-      "notified": null,
+      "current": {"price": 683.9, "merchant": "25now", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T18:42:05Z"},
+      "notified": {"price": 683.9, "at": "2026-10-22T18:42:05Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
         ["2026-10-01T17:21:30Z", 683.89, "geizhals"],
@@ -389,7 +391,8 @@
         ["2026-10-05T22:49:57Z", 683.9, "geizhals"],
         ["2026-10-19T07:18:34Z", 685.0, "geizhals"],
         ["2026-10-19T14:51:00Z", 683.9, "geizhals"],
-        ["2026-10-22T08:49:29Z", 704.99, "geizhals"]
+        ["2026-10-22T08:49:29Z", 704.99, "geizhals"],
+        ["2026-10-22T18:42:05Z", 683.9, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
@@ -413,14 +416,15 @@
       ]
     },
     "ssd-kingston-kc3000-2tb": {
-      "current": {"price": 334.0, "merchant": "Alternate", "url": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T20:17:19Z"},
-      "notified": {"price": 334.0, "at": "2026-10-21T20:17:19Z", "kinds": ["drop"]},
+      "current": {"price": 324.99, "merchant": "x-kom", "url": "https://geizhals.de/kingston-kc3000-pcie-4-0-nvme-ssd-2tb-skc3000s-2048g-a2621457.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T18:42:05Z"},
+      "notified": {"price": 324.99, "at": "2026-10-22T18:42:05Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 319.98, "geizhals"],
         ["2026-10-03T13:01:57Z", 319.99, "geizhals"],
         ["2026-10-08T19:39:40Z", 325.99, "geizhals"],
         ["2026-10-21T11:09:44Z", 348.73, "geizhals"],
-        ["2026-10-21T20:17:19Z", 334.0, "geizhals"]
+        ["2026-10-21T20:17:19Z", 334.0, "geizhals"],
+        ["2026-10-22T18:42:05Z", 324.99, "geizhals"]
       ]
     },
     "ssd-lexar-nm790-2tb": {
@@ -449,7 +453,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 274.9, "merchant": "kukevyra95", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T14:20:16Z"},
+      "current": {"price": 279.99, "merchant": "1fodiscount", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T18:42:05Z"},
       "notified": {"price": 268.0, "at": "2026-10-17T16:50:04Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -505,7 +509,8 @@
         ["2026-10-21T23:30:57Z", 269.9, "billiger"],
         ["2026-10-22T03:17:10Z", 274.9, "geizhals"],
         ["2026-10-22T08:49:29Z", 269.9, "billiger"],
-        ["2026-10-22T14:20:16Z", 274.9, "geizhals"]
+        ["2026-10-22T14:20:16Z", 274.9, "geizhals"],
+        ["2026-10-22T18:42:05Z", 279.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
