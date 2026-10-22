@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-22T03:17:10Z",
+  "updated_at": "2026-10-22T08:49:29Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -27,7 +27,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 99.88, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-21T16:02:05Z"},
+      "current": {"price": 99.89, "merchant": "playox.de", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -35,7 +35,8 @@
         ["2026-10-07T14:12:18Z", 99.89, "geizhals"],
         ["2026-10-09T13:38:50Z", 99.88, "geizhals"],
         ["2026-10-16T08:23:35Z", 99.89, "geizhals"],
-        ["2026-10-21T16:02:05Z", 99.88, "geizhals"]
+        ["2026-10-21T16:02:05Z", 99.88, "geizhals"],
+        ["2026-10-22T08:49:29Z", 99.89, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -163,7 +164,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1514.88, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T20:17:19Z"},
+      "current": {"price": 1551.5, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
       "notified": {"price": 1497.79, "at": "2026-10-18T03:01:08Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -182,7 +183,8 @@
         ["2026-10-20T18:36:03Z", 1529.9, "geizhals"],
         ["2026-10-21T05:43:02Z", 1505.89, "geizhals"],
         ["2026-10-21T16:02:05Z", 1529.9, "geizhals"],
-        ["2026-10-21T20:17:19Z", 1514.88, "geizhals"]
+        ["2026-10-21T20:17:19Z", 1514.88, "geizhals"],
+        ["2026-10-22T08:49:29Z", 1551.5, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -195,7 +197,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1329.0, "merchant": "reichelt.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T11:09:44Z"},
+      "current": {"price": 1328.9, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T08:49:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -203,7 +205,8 @@
         ["2026-10-15T23:33:00Z", 1249.0, "geizhals"],
         ["2026-10-16T08:23:35Z", 1329.0, "geizhals"],
         ["2026-10-16T20:29:58Z", 1249.0, "geizhals"],
-        ["2026-10-21T11:09:44Z", 1329.0, "geizhals"]
+        ["2026-10-21T11:09:44Z", 1329.0, "geizhals"],
+        ["2026-10-22T08:49:29Z", 1328.9, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -326,7 +329,7 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 7.88, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T20:17:19Z"},
+      "current": {"price": 7.41, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
@@ -336,7 +339,8 @@
         ["2026-10-09T19:15:10Z", 7.37, "geizhals"],
         ["2026-10-12T10:13:12Z", 7.42, "geizhals"],
         ["2026-10-13T16:45:09Z", 7.41, "geizhals"],
-        ["2026-10-21T20:17:19Z", 7.88, "geizhals"]
+        ["2026-10-21T20:17:19Z", 7.88, "geizhals"],
+        ["2026-10-22T08:49:29Z", 7.41, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
@@ -357,19 +361,20 @@
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
-      "current": {"price": 621.2, "merchant": "galaxus", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-21T20:17:19Z"},
-      "notified": null,
+      "current": {"price": 599.0, "merchant": "PC-KING", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
+      "notified": {"price": 599.0, "at": "2026-10-22T08:49:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 599.0, "geizhals"],
         ["2026-10-05T22:49:57Z", 429.99, "geizhals"],
         ["2026-10-06T02:41:07Z", 575.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 599.0, "geizhals"],
         ["2026-10-21T11:09:44Z", 621.19, "geizhals"],
-        ["2026-10-21T20:17:19Z", 621.2, "geizhals"]
+        ["2026-10-21T20:17:19Z", 621.2, "geizhals"],
+        ["2026-10-22T08:49:29Z", 599.0, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 683.9, "merchant": "25now", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-19T14:51:00Z"},
+      "current": {"price": 704.99, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-22T08:49:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
@@ -377,7 +382,8 @@
         ["2026-10-01T21:11:33Z", 683.88, "geizhals"],
         ["2026-10-05T22:49:57Z", 683.9, "geizhals"],
         ["2026-10-19T07:18:34Z", 685.0, "geizhals"],
-        ["2026-10-19T14:51:00Z", 683.9, "geizhals"]
+        ["2026-10-19T14:51:00Z", 683.9, "geizhals"],
+        ["2026-10-22T08:49:29Z", 704.99, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
@@ -437,7 +443,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 274.9, "merchant": "kukevyra95", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-22T03:17:10Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-22T08:49:29Z"},
       "notified": {"price": 268.0, "at": "2026-10-17T16:50:04Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -491,7 +497,8 @@
         ["2026-10-21T16:02:05Z", 269.9, "billiger"],
         ["2026-10-21T20:17:19Z", 274.9, "geizhals"],
         ["2026-10-21T23:30:57Z", 269.9, "billiger"],
-        ["2026-10-22T03:17:10Z", 274.9, "geizhals"]
+        ["2026-10-22T03:17:10Z", 274.9, "geizhals"],
+        ["2026-10-22T08:49:29Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
