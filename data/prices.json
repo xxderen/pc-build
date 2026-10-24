@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T11:24:09Z",
+  "updated_at": "2026-10-24T14:44:25Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -28,7 +28,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.88, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T11:24:09Z"},
+      "current": {"price": 103.85, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T14:44:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -43,7 +43,8 @@
         ["2026-10-23T22:53:12Z", 103.28, "geizhals"],
         ["2026-10-24T01:21:07Z", 103.91, "geizhals"],
         ["2026-10-24T06:11:51Z", 103.9, "geizhals"],
-        ["2026-10-24T11:24:09Z", 103.88, "geizhals"]
+        ["2026-10-24T11:24:09Z", 103.88, "geizhals"],
+        ["2026-10-24T14:44:25Z", 103.85, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -474,7 +475,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 299.0, "merchant": "galaxus", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T11:24:09Z"},
+      "current": {"price": 297.99, "merchant": "Morelenet", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-24T14:44:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -535,7 +536,8 @@
         ["2026-10-22T22:04:53Z", 269.9, "billiger"],
         ["2026-10-23T19:46:23Z", 251.99, "billiger"],
         ["2026-10-23T22:53:12Z", 269.9, "billiger"],
-        ["2026-10-24T11:24:09Z", 299.0, "geizhals"]
+        ["2026-10-24T11:24:09Z", 299.0, "geizhals"],
+        ["2026-10-24T14:44:25Z", 297.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
