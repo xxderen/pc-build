@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-24T01:21:07Z",
+  "updated_at": "2026-10-24T06:11:51Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -28,7 +28,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.91, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T01:21:07Z"},
+      "current": {"price": 103.9, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T06:11:51Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -41,7 +41,8 @@
         ["2026-10-23T11:00:13Z", 103.28, "geizhals"],
         ["2026-10-23T15:49:05Z", 103.27, "geizhals"],
         ["2026-10-23T22:53:12Z", 103.28, "geizhals"],
-        ["2026-10-24T01:21:07Z", 103.91, "geizhals"]
+        ["2026-10-24T01:21:07Z", 103.91, "geizhals"],
+        ["2026-10-24T06:11:51Z", 103.9, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
