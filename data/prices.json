@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-25T23:26:19Z",
+  "updated_at": "2026-10-26T01:29:37Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -441,15 +441,16 @@
       ]
     },
     "ssd-crucial-t500-2tb": {
-      "current": {"price": 457.9, "merchant": "reichelt.de", "url": "https://geizhals.de/crucial-t500-ssd-2tb-ct2000t500ssd8-a3053884.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-20T14:06:07Z"},
-      "notified": null,
+      "current": {"price": 390.82, "merchant": "MAGIKA SERVICE", "url": "https://geizhals.de/crucial-t500-ssd-2tb-ct2000t500ssd8-a3053884.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-26T01:29:37Z"},
+      "notified": {"price": 390.82, "at": "2026-10-26T01:29:37Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 429.89, "geizhals"],
         ["2026-10-02T13:34:13Z", 428.99, "geizhals"],
         ["2026-10-08T19:39:40Z", 390.82, "geizhals"],
         ["2026-10-10T23:13:16Z", 428.99, "geizhals"],
         ["2026-10-13T01:49:04Z", 390.82, "geizhals"],
-        ["2026-10-20T14:06:07Z", 457.9, "geizhals"]
+        ["2026-10-20T14:06:07Z", 457.9, "geizhals"],
+        ["2026-10-26T01:29:37Z", 390.82, "geizhals"]
       ]
     },
     "ssd-kingston-kc3000-2tb": {
@@ -478,8 +479,8 @@
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 318.97, "merchant": "Mindfactory", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T11:24:09Z"},
-      "notified": null,
+      "current": {"price": 307.0, "merchant": "neon24.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-26T01:29:37Z"},
+      "notified": {"price": 307.0, "at": "2026-10-26T01:29:37Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
         ["2026-10-07T06:50:42Z", 307.99, "geizhals"],
@@ -487,11 +488,12 @@
         ["2026-10-16T13:25:02Z", 307.99, "geizhals"],
         ["2026-10-18T18:46:11Z", 299.99, "geizhals"],
         ["2026-10-21T11:09:44Z", 299.0, "geizhals"],
-        ["2026-10-24T11:24:09Z", 318.97, "geizhals"]
+        ["2026-10-24T11:24:09Z", 318.97, "geizhals"],
+        ["2026-10-26T01:29:37Z", 307.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-25T21:03:56Z"},
+      "current": {"price": 297.99, "merchant": "Morelenet", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-26T01:29:37Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -558,7 +560,8 @@
         ["2026-10-24T22:37:52Z", 297.99, "geizhals"],
         ["2026-10-25T05:40:35Z", 269.9, "billiger"],
         ["2026-10-25T18:07:05Z", 297.99, "geizhals"],
-        ["2026-10-25T21:03:56Z", 269.9, "billiger"]
+        ["2026-10-25T21:03:56Z", 269.9, "billiger"],
+        ["2026-10-26T01:29:37Z", 297.99, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
