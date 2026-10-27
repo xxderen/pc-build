@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T03:42:27Z",
+  "updated_at": "2026-10-27T09:35:51Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -28,7 +28,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.61, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-26T23:33:46Z"},
+      "current": {"price": 103.58, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T09:35:51Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -57,7 +57,8 @@
         ["2026-10-26T06:51:57Z", 103.69, "geizhals"],
         ["2026-10-26T13:52:56Z", 103.66, "geizhals"],
         ["2026-10-26T19:44:10Z", 103.63, "geizhals"],
-        ["2026-10-26T23:33:46Z", 103.61, "geizhals"]
+        ["2026-10-26T23:33:46Z", 103.61, "geizhals"],
+        ["2026-10-27T09:35:51Z", 103.58, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -111,7 +112,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-26T23:33:46Z"},
+      "current": {"price": 407.25, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T09:35:51Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -140,7 +141,8 @@
         ["2026-10-23T05:43:48Z", 407.25, "geizhals"],
         ["2026-10-24T11:24:09Z", 399.0, "geizhals"],
         ["2026-10-25T14:47:59Z", 407.25, "geizhals"],
-        ["2026-10-26T23:33:46Z", 399.0, "geizhals"]
+        ["2026-10-26T23:33:46Z", 399.0, "geizhals"],
+        ["2026-10-27T09:35:51Z", 407.25, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -430,7 +432,7 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 660.68, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-26T13:52:56Z"},
+      "current": {"price": 653.18, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T09:35:51Z"},
       "notified": {"price": 653.18, "at": "2026-10-25T14:47:59Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
@@ -442,7 +444,8 @@
         ["2026-10-22T08:49:29Z", 704.99, "geizhals"],
         ["2026-10-22T18:42:05Z", 683.9, "geizhals"],
         ["2026-10-25T14:47:59Z", 653.18, "geizhals"],
-        ["2026-10-26T13:52:56Z", 660.68, "geizhals"]
+        ["2026-10-26T13:52:56Z", 660.68, "geizhals"],
+        ["2026-10-27T09:35:51Z", 653.18, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
