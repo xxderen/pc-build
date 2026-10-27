@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-27T15:43:17Z",
+  "updated_at": "2026-10-27T20:25:45Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -28,7 +28,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.55, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T15:43:17Z"},
+      "current": {"price": 103.53, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T20:25:45Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -59,7 +59,8 @@
         ["2026-10-26T19:44:10Z", 103.63, "geizhals"],
         ["2026-10-26T23:33:46Z", 103.61, "geizhals"],
         ["2026-10-27T09:35:51Z", 103.58, "geizhals"],
-        ["2026-10-27T15:43:17Z", 103.55, "geizhals"]
+        ["2026-10-27T15:43:17Z", 103.55, "geizhals"],
+        ["2026-10-27T20:25:45Z", 103.53, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -244,7 +245,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1428.9, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-27T15:43:17Z"},
+      "current": {"price": 1428.99, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-27T20:25:45Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -255,7 +256,8 @@
         ["2026-10-21T11:09:44Z", 1329.0, "geizhals"],
         ["2026-10-22T08:49:29Z", 1328.9, "geizhals"],
         ["2026-10-22T14:20:16Z", 1328.99, "geizhals"],
-        ["2026-10-27T15:43:17Z", 1428.9, "geizhals"]
+        ["2026-10-27T15:43:17Z", 1428.9, "geizhals"],
+        ["2026-10-27T20:25:45Z", 1428.99, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
