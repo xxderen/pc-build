@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T23:33:46Z",
+  "updated_at": "2026-10-27T03:42:27Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -251,13 +251,14 @@
       ]
     },
     "gpu-inno3d-x3-oc-white": {
-      "current": {"price": 1307.35, "merchant": "Caseking", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-26T19:44:10Z"},
-      "notified": {"price": 1307.35, "at": "2026-10-26T19:44:10Z", "kinds": ["drop"]},
+      "current": {"price": 1499.99, "merchant": "pcspezi-kf", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-27T03:42:27Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1279.0, "geizhals"],
         ["2026-10-07T14:12:18Z", 1307.35, "geizhals"],
         ["2026-10-26T13:52:56Z", 1399.99, "geizhals"],
-        ["2026-10-26T19:44:10Z", 1307.35, "geizhals"]
+        ["2026-10-26T19:44:10Z", 1307.35, "geizhals"],
+        ["2026-10-27T03:42:27Z", 1499.99, "geizhals"]
       ]
     },
     "gpu-kfa2-1click-oc-white": {
