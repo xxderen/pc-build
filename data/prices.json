@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T16:48:02Z",
+  "updated_at": "2026-10-28T21:30:03Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -11,7 +11,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 179.3, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T16:48:02Z"},
+      "current": {"price": 186.33, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T21:30:03Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -25,11 +25,12 @@
         ["2026-10-19T01:33:29Z", 179.0, "geizhals"],
         ["2026-10-21T16:02:05Z", 178.98, "geizhals"],
         ["2026-10-23T11:00:13Z", 179.0, "geizhals"],
-        ["2026-10-28T16:48:02Z", 179.3, "geizhals"]
+        ["2026-10-28T16:48:02Z", 179.3, "geizhals"],
+        ["2026-10-28T21:30:03Z", 186.33, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.45, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T16:48:02Z"},
+      "current": {"price": 103.42, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T21:30:03Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -65,7 +66,8 @@
         ["2026-10-27T23:54:46Z", 103.51, "geizhals"],
         ["2026-10-28T03:59:21Z", 103.5, "geizhals"],
         ["2026-10-28T10:29:32Z", 103.48, "geizhals"],
-        ["2026-10-28T16:48:02Z", 103.45, "geizhals"]
+        ["2026-10-28T16:48:02Z", 103.45, "geizhals"],
+        ["2026-10-28T21:30:03Z", 103.42, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -123,7 +125,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T16:48:02Z"},
+      "current": {"price": 407.25, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T21:30:03Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -154,7 +156,8 @@
         ["2026-10-25T14:47:59Z", 407.25, "geizhals"],
         ["2026-10-26T23:33:46Z", 399.0, "geizhals"],
         ["2026-10-27T09:35:51Z", 407.25, "geizhals"],
-        ["2026-10-28T16:48:02Z", 399.0, "geizhals"]
+        ["2026-10-28T16:48:02Z", 399.0, "geizhals"],
+        ["2026-10-28T21:30:03Z", 407.25, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
