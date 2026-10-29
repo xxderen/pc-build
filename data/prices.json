@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T21:30:03Z",
+  "updated_at": "2026-10-29T01:11:25Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -30,7 +30,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.42, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-28T21:30:03Z"},
+      "current": {"price": 103.41, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-29T01:11:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -67,7 +67,8 @@
         ["2026-10-28T03:59:21Z", 103.5, "geizhals"],
         ["2026-10-28T10:29:32Z", 103.48, "geizhals"],
         ["2026-10-28T16:48:02Z", 103.45, "geizhals"],
-        ["2026-10-28T21:30:03Z", 103.42, "geizhals"]
+        ["2026-10-28T21:30:03Z", 103.42, "geizhals"],
+        ["2026-10-29T01:11:25Z", 103.41, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -248,13 +249,14 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1353.0, "merchant": "Alternate", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-24T11:24:09Z"},
+      "current": {"price": 1360.99, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-29T01:11:25Z"},
       "notified": {"price": 1344.0, "at": "2026-10-14T11:11:01Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
         ["2026-10-13T08:56:08Z", 1353.0, "geizhals"],
         ["2026-10-14T11:11:01Z", 1344.0, "geizhals"],
-        ["2026-10-24T11:24:09Z", 1353.0, "geizhals"]
+        ["2026-10-24T11:24:09Z", 1353.0, "geizhals"],
+        ["2026-10-29T01:11:25Z", 1360.99, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
