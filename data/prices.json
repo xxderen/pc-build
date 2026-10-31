@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T02:00:10Z",
+  "updated_at": "2026-10-31T14:39:25Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -137,7 +137,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 407.25, "merchant": "galaxus", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-30T18:43:15Z"},
+      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-31T14:39:25Z"},
       "notified": {"price": 389.86, "at": "2026-10-12T10:13:12Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -173,7 +173,8 @@
         ["2026-10-29T14:36:25Z", 399.0, "geizhals"],
         ["2026-10-29T20:03:35Z", 407.25, "geizhals"],
         ["2026-10-30T13:18:28Z", 399.0, "geizhals"],
-        ["2026-10-30T18:43:15Z", 407.25, "geizhals"]
+        ["2026-10-30T18:43:15Z", 407.25, "geizhals"],
+        ["2026-10-31T14:39:25Z", 399.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -280,7 +281,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1399.99, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-29T20:03:35Z"},
+      "current": {"price": 1399.94, "merchant": "Mindfactory", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T14:39:25Z"},
       "notified": {"price": 1399.99, "at": "2026-10-29T20:03:35Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -293,7 +294,8 @@
         ["2026-10-22T14:20:16Z", 1328.99, "geizhals"],
         ["2026-10-27T15:43:17Z", 1428.9, "geizhals"],
         ["2026-10-27T20:25:45Z", 1428.99, "geizhals"],
-        ["2026-10-29T20:03:35Z", 1399.99, "geizhals"]
+        ["2026-10-29T20:03:35Z", 1399.99, "geizhals"],
+        ["2026-10-31T14:39:25Z", 1399.94, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -324,8 +326,8 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 2050.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-30T13:18:28Z"},
-      "notified": {"price": 2050.0, "at": "2026-10-30T13:18:28Z", "kinds": ["drop"]},
+      "current": {"price": 1999.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T14:39:25Z"},
+      "notified": {"price": 1999.0, "at": "2026-10-31T14:39:25Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
         ["2026-10-10T15:30:32Z", 1970.0, "geizhals"],
@@ -333,7 +335,8 @@
         ["2026-10-17T10:08:47Z", 2200.0, "geizhals"],
         ["2026-10-24T22:37:52Z", 2159.0, "geizhals"],
         ["2026-10-28T16:48:02Z", 2099.0, "geizhals"],
-        ["2026-10-30T13:18:28Z", 2050.0, "geizhals"]
+        ["2026-10-30T13:18:28Z", 2050.0, "geizhals"],
+        ["2026-10-31T14:39:25Z", 1999.0, "geizhals"]
       ]
     },
     "gpu-msi-gaming-trio-white": {
@@ -581,7 +584,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 307.74, "merchant": "Morelenet", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T02:00:10Z"},
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-31T14:39:25Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -662,7 +665,8 @@
         ["2026-10-30T06:12:01Z", 269.9, "billiger"],
         ["2026-10-30T13:18:28Z", 289.99, "geizhals"],
         ["2026-10-30T18:43:15Z", 269.9, "billiger"],
-        ["2026-10-31T02:00:10Z", 307.74, "geizhals"]
+        ["2026-10-31T02:00:10Z", 307.74, "geizhals"],
+        ["2026-10-31T14:39:25Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
