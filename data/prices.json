@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T14:39:25Z",
+  "updated_at": "2026-10-31T19:05:43Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -281,7 +281,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1399.94, "merchant": "Mindfactory", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T14:39:25Z"},
+      "current": {"price": 1399.93, "merchant": "Mindfactory", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T19:05:43Z"},
       "notified": {"price": 1399.99, "at": "2026-10-29T20:03:35Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -295,7 +295,8 @@
         ["2026-10-27T15:43:17Z", 1428.9, "geizhals"],
         ["2026-10-27T20:25:45Z", 1428.99, "geizhals"],
         ["2026-10-29T20:03:35Z", 1399.99, "geizhals"],
-        ["2026-10-31T14:39:25Z", 1399.94, "geizhals"]
+        ["2026-10-31T14:39:25Z", 1399.94, "geizhals"],
+        ["2026-10-31T19:05:43Z", 1399.93, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -419,7 +420,7 @@
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 368.58, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T02:00:10Z"},
+      "current": {"price": 368.46, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T19:05:43Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -440,7 +441,8 @@
         ["2026-10-26T13:52:56Z", 373.9, "geizhals"],
         ["2026-10-30T00:05:22Z", 369.0, "geizhals"],
         ["2026-10-30T13:18:28Z", 375.9, "geizhals"],
-        ["2026-10-31T02:00:10Z", 368.58, "geizhals"]
+        ["2026-10-31T02:00:10Z", 368.58, "geizhals"],
+        ["2026-10-31T19:05:43Z", 368.46, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
@@ -468,7 +470,7 @@
       ]
     },
     "psu-rm1000e-white": {
-      "current": {"price": 142.48, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-31T02:00:10Z"},
+      "current": {"price": 141.69, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-31T19:05:43Z"},
       "notified": {"price": 143.68, "at": "2026-10-30T00:05:22Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 141.39, "geizhals"],
@@ -477,7 +479,8 @@
         ["2026-10-22T18:42:05Z", 144.9, "geizhals"],
         ["2026-10-30T00:05:22Z", 143.68, "geizhals"],
         ["2026-10-30T13:18:28Z", 143.08, "geizhals"],
-        ["2026-10-31T02:00:10Z", 142.48, "geizhals"]
+        ["2026-10-31T02:00:10Z", 142.48, "geizhals"],
+        ["2026-10-31T19:05:43Z", 141.69, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
@@ -584,7 +587,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-10-31T14:39:25Z"},
+      "current": {"price": 307.74, "merchant": "Morelenet", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T19:05:43Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -666,7 +669,8 @@
         ["2026-10-30T13:18:28Z", 289.99, "geizhals"],
         ["2026-10-30T18:43:15Z", 269.9, "billiger"],
         ["2026-10-31T02:00:10Z", 307.74, "geizhals"],
-        ["2026-10-31T14:39:25Z", 269.9, "billiger"]
+        ["2026-10-31T14:39:25Z", 269.9, "billiger"],
+        ["2026-10-31T19:05:43Z", 307.74, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
