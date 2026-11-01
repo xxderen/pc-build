@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T20:09:32Z",
+  "updated_at": "2026-11-01T23:45:11Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -283,7 +283,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1399.82, "merchant": "electronis.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-01T15:45:09Z"},
+      "current": {"price": 1399.81, "merchant": "electronis.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-01T23:45:11Z"},
       "notified": {"price": 1399.99, "at": "2026-10-29T20:03:35Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -302,7 +302,8 @@
         ["2026-10-31T22:40:45Z", 1399.83, "geizhals"],
         ["2026-11-01T01:50:15Z", 1399.78, "geizhals"],
         ["2026-11-01T08:41:22Z", 1399.67, "geizhals"],
-        ["2026-11-01T15:45:09Z", 1399.82, "geizhals"]
+        ["2026-11-01T15:45:09Z", 1399.82, "geizhals"],
+        ["2026-11-01T23:45:11Z", 1399.81, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
