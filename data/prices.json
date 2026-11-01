@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T15:45:09Z",
+  "updated_at": "2026-11-01T20:09:32Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -268,7 +268,7 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1429.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-30T13:18:28Z"},
+      "current": {"price": 1402.99, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-01T20:09:32Z"},
       "notified": {"price": 1360.99, "at": "2026-10-29T20:03:35Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
@@ -278,7 +278,8 @@
         ["2026-10-29T01:11:25Z", 1360.99, "geizhals"],
         ["2026-10-29T14:36:25Z", 1429.0, "geizhals"],
         ["2026-10-29T20:03:35Z", 1360.99, "geizhals"],
-        ["2026-10-30T13:18:28Z", 1429.0, "geizhals"]
+        ["2026-10-30T13:18:28Z", 1429.0, "geizhals"],
+        ["2026-11-01T20:09:32Z", 1402.99, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -592,8 +593,8 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 296.57, "merchant": "computeruniverse", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-11-01T15:45:09Z"},
-      "notified": null,
+      "current": {"price": 269.9, "merchant": "7until7", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-11-01T20:09:32Z"},
+      "notified": {"price": 269.9, "at": "2026-11-01T20:09:32Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
         ["2026-10-01T17:21:30Z", 269.9, "billiger"],
@@ -677,7 +678,8 @@
         ["2026-10-31T14:39:25Z", 269.9, "billiger"],
         ["2026-10-31T19:05:43Z", 307.74, "geizhals"],
         ["2026-10-31T22:40:45Z", 269.9, "billiger"],
-        ["2026-11-01T15:45:09Z", 296.57, "billiger"]
+        ["2026-11-01T15:45:09Z", 296.57, "billiger"],
+        ["2026-11-01T20:09:32Z", 269.9, "billiger"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
