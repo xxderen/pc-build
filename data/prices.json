@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T06:50:14Z",
+  "updated_at": "2026-11-04T15:04:29Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -79,7 +79,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.5, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 41.18, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -106,11 +106,12 @@
         ["2026-10-29T20:03:35Z", 41.69, "shopify"],
         ["2026-10-30T18:43:15Z", 41.53, "shopify"],
         ["2026-11-02T22:08:31Z", 41.37, "shopify"],
-        ["2026-11-03T19:01:58Z", 41.5, "shopify"]
+        ["2026-11-03T19:01:58Z", 41.5, "shopify"],
+        ["2026-11-04T15:04:29Z", 41.18, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.5, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 41.18, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -137,11 +138,12 @@
         ["2026-10-29T20:03:35Z", 41.69, "shopify"],
         ["2026-10-30T18:43:15Z", 41.53, "shopify"],
         ["2026-11-02T22:08:31Z", 41.37, "shopify"],
-        ["2026-11-03T19:01:58Z", 41.5, "shopify"]
+        ["2026-11-03T19:01:58Z", 41.5, "shopify"],
+        ["2026-11-04T15:04:29Z", 41.18, "shopify"]
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 419.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-03T03:35:21Z"},
+      "current": {"price": 418.99, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -181,11 +183,12 @@
         ["2026-10-31T14:39:25Z", 399.0, "geizhals"],
         ["2026-10-31T22:40:45Z", 407.25, "geizhals"],
         ["2026-11-02T22:08:31Z", 399.0, "geizhals"],
-        ["2026-11-03T03:35:21Z", 419.0, "geizhals"]
+        ["2026-11-03T03:35:21Z", 419.0, "geizhals"],
+        ["2026-11-04T15:04:29Z", 418.99, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 20.06, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -208,11 +211,12 @@
         ["2026-10-23T15:49:05Z", 20.19, "shopify"],
         ["2026-10-27T15:43:17Z", 20.27, "shopify"],
         ["2026-11-03T11:36:48Z", 20.15, "shopify"],
-        ["2026-11-03T19:01:58Z", 20.21, "shopify"]
+        ["2026-11-03T19:01:58Z", 20.21, "shopify"],
+        ["2026-11-04T15:04:29Z", 20.06, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 20.06, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -238,7 +242,8 @@
         ["2026-10-28T16:48:02Z", 20.3, "shopify"],
         ["2026-10-30T18:43:15Z", 20.23, "shopify"],
         ["2026-11-02T22:08:31Z", 20.15, "shopify"],
-        ["2026-11-03T19:01:58Z", 20.21, "shopify"]
+        ["2026-11-03T19:01:58Z", 20.21, "shopify"],
+        ["2026-11-04T15:04:29Z", 20.06, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -278,7 +283,7 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1429.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 1445.99, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
@@ -293,7 +298,8 @@
         ["2026-11-02T12:45:59Z", 1353.0, "geizhals"],
         ["2026-11-02T22:08:31Z", 1360.99, "geizhals"],
         ["2026-11-03T11:36:48Z", 1387.27, "geizhals"],
-        ["2026-11-03T19:01:58Z", 1429.0, "geizhals"]
+        ["2026-11-03T19:01:58Z", 1429.0, "geizhals"],
+        ["2026-11-04T15:04:29Z", 1445.99, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -371,7 +377,7 @@
       "history": []
     },
     "gpu-zotac-solid-core-oc-white": {
-      "current": {"price": 1648.3, "merchant": "galaxus", "url": "https://geizhals.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-10-28T03:59:21Z"},
+      "current": {"price": 1459.0, "merchant": "galaxus", "url": "https://geizhals.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-04T15:04:29Z"},
       "notified": null,
       "history": [
         ["2026-10-04T09:20:23Z", 1161.49, "geizhals"]
@@ -525,7 +531,7 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 683.9, "merchant": "25now", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-28T10:29:32Z"},
+      "current": {"price": 680.41, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
       "notified": {"price": 653.18, "at": "2026-10-25T14:47:59Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
@@ -539,7 +545,8 @@
         ["2026-10-25T14:47:59Z", 653.18, "geizhals"],
         ["2026-10-26T13:52:56Z", 660.68, "geizhals"],
         ["2026-10-27T09:35:51Z", 653.18, "geizhals"],
-        ["2026-10-28T10:29:32Z", 683.9, "geizhals"]
+        ["2026-10-28T10:29:32Z", 683.9, "geizhals"],
+        ["2026-11-04T15:04:29Z", 680.41, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
