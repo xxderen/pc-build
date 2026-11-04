@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T15:04:29Z",
+  "updated_at": "2026-11-04T21:23:31Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -143,8 +143,8 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 418.99, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
-      "notified": null,
+      "current": {"price": 399.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
+      "notified": {"price": 399.0, "at": "2026-11-04T21:23:31Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
         ["2026-10-02T13:34:13Z", 383.0, "geizhals"],
@@ -184,7 +184,8 @@
         ["2026-10-31T22:40:45Z", 407.25, "geizhals"],
         ["2026-11-02T22:08:31Z", 399.0, "geizhals"],
         ["2026-11-03T03:35:21Z", 419.0, "geizhals"],
-        ["2026-11-04T15:04:29Z", 418.99, "geizhals"]
+        ["2026-11-04T15:04:29Z", 418.99, "geizhals"],
+        ["2026-11-04T21:23:31Z", 399.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -255,7 +256,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1549.99, "merchant": "ARLT Computer", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-30T18:43:15Z"},
+      "current": {"price": 1595.89, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 1549.0, "at": "2026-10-28T10:29:32Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -283,7 +284,7 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1445.99, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T15:04:29Z"},
+      "current": {"price": 1479.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
@@ -299,7 +300,8 @@
         ["2026-11-02T22:08:31Z", 1360.99, "geizhals"],
         ["2026-11-03T11:36:48Z", 1387.27, "geizhals"],
         ["2026-11-03T19:01:58Z", 1429.0, "geizhals"],
-        ["2026-11-04T15:04:29Z", 1445.99, "geizhals"]
+        ["2026-11-04T15:04:29Z", 1445.99, "geizhals"],
+        ["2026-11-04T21:23:31Z", 1479.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -393,7 +395,7 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 479.0, "merchant": "Son-Video", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T02:00:10Z"},
+      "current": {"price": 493.49, "merchant": "Easynotebooks.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 479.0, "at": "2026-10-31T02:00:10Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
@@ -407,7 +409,8 @@
         ["2026-10-21T11:09:44Z", 485.55, "geizhals"],
         ["2026-10-24T11:24:09Z", 429.9, "geizhals"],
         ["2026-10-25T18:07:05Z", 485.56, "geizhals"],
-        ["2026-10-31T02:00:10Z", 479.0, "geizhals"]
+        ["2026-10-31T02:00:10Z", 479.0, "geizhals"],
+        ["2026-11-04T21:23:31Z", 493.49, "geizhals"]
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
@@ -430,7 +433,7 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 488.1, "merchant": "cyberport", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-30T13:18:28Z"},
+      "current": {"price": 497.53, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 488.65, "at": "2026-10-24T11:24:09Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
@@ -448,11 +451,12 @@
         ["2026-10-26T13:52:56Z", 499.99, "geizhals"],
         ["2026-10-27T15:43:17Z", 488.63, "geizhals"],
         ["2026-10-30T00:05:22Z", 497.44, "geizhals"],
-        ["2026-10-30T13:18:28Z", 488.1, "geizhals"]
+        ["2026-10-30T13:18:28Z", 488.1, "geizhals"],
+        ["2026-11-04T21:23:31Z", 497.53, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 368.19, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-03T11:36:48Z"},
+      "current": {"price": 364.6, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -476,11 +480,12 @@
         ["2026-10-31T02:00:10Z", 368.58, "geizhals"],
         ["2026-10-31T19:05:43Z", 368.46, "geizhals"],
         ["2026-11-02T12:45:59Z", 368.34, "geizhals"],
-        ["2026-11-03T11:36:48Z", 368.19, "geizhals"]
+        ["2026-11-03T11:36:48Z", 368.19, "geizhals"],
+        ["2026-11-04T21:23:31Z", 364.6, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 7.38, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-23T11:00:13Z"},
+      "current": {"price": 7.4, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
@@ -492,7 +497,8 @@
         ["2026-10-13T16:45:09Z", 7.41, "geizhals"],
         ["2026-10-21T20:17:19Z", 7.88, "geizhals"],
         ["2026-10-22T08:49:29Z", 7.41, "geizhals"],
-        ["2026-10-23T11:00:13Z", 7.38, "geizhals"]
+        ["2026-10-23T11:00:13Z", 7.38, "geizhals"],
+        ["2026-11-04T21:23:31Z", 7.4, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
@@ -504,7 +510,7 @@
       ]
     },
     "psu-rm1000e-white": {
-      "current": {"price": 141.69, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-31T19:05:43Z"},
+      "current": {"price": 141.4, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 143.68, "at": "2026-10-30T00:05:22Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 141.39, "geizhals"],
@@ -514,7 +520,8 @@
         ["2026-10-30T00:05:22Z", 143.68, "geizhals"],
         ["2026-10-30T13:18:28Z", 143.08, "geizhals"],
         ["2026-10-31T02:00:10Z", 142.48, "geizhals"],
-        ["2026-10-31T19:05:43Z", 141.69, "geizhals"]
+        ["2026-10-31T19:05:43Z", 141.69, "geizhals"],
+        ["2026-11-04T21:23:31Z", 141.4, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
@@ -587,7 +594,7 @@
       ]
     },
     "ssd-lexar-nm790-2tb": {
-      "current": {"price": 340.0, "merchant": "Joybuy", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-10-31T02:00:10Z"},
+      "current": {"price": 349.0, "merchant": "Mindfactory", "url": "https://geizhals.de/lexar-nm690-2tb-lnm790x002t-rnnn-a2956595.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": {"price": 340.0, "at": "2026-10-31T02:00:10Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 279.99, "geizhals"],
@@ -600,7 +607,8 @@
         ["2026-10-26T13:52:56Z", 338.99, "geizhals"],
         ["2026-10-26T19:44:10Z", 339.0, "geizhals"],
         ["2026-10-30T00:05:22Z", 348.99, "geizhals"],
-        ["2026-10-31T02:00:10Z", 340.0, "geizhals"]
+        ["2026-10-31T02:00:10Z", 340.0, "geizhals"],
+        ["2026-11-04T21:23:31Z", 349.0, "geizhals"]
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
@@ -624,7 +632,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 319.0, "merchant": "Galaxus.de", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-11-03T19:01:58Z"},
+      "current": {"price": 319.0, "merchant": "galaxus", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -714,7 +722,8 @@
         ["2026-11-02T12:45:59Z", 307.71, "geizhals"],
         ["2026-11-02T22:08:31Z", 299.0, "billiger"],
         ["2026-11-03T11:36:48Z", 311.89, "geizhals"],
-        ["2026-11-03T19:01:58Z", 319.0, "billiger"]
+        ["2026-11-03T19:01:58Z", 319.0, "billiger"],
+        ["2026-11-04T21:23:31Z", 319.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
