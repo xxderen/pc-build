@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T18:12:59Z",
+  "updated_at": "2026-11-06T23:22:58Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -375,8 +375,8 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 1899.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-05T22:45:17Z"},
-      "notified": {"price": 1899.0, "at": "2026-11-05T22:45:17Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 1888.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-06T23:22:58Z"},
+      "notified": {"price": 1888.0, "at": "2026-11-06T23:22:58Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
         ["2026-10-10T15:30:32Z", 1970.0, "geizhals"],
@@ -388,7 +388,8 @@
         ["2026-10-31T14:39:25Z", 1999.0, "geizhals"],
         ["2026-11-04T00:04:21Z", 1990.0, "geizhals"],
         ["2026-11-04T06:50:14Z", 1949.99, "geizhals"],
-        ["2026-11-05T22:45:17Z", 1899.0, "geizhals"]
+        ["2026-11-05T22:45:17Z", 1899.0, "geizhals"],
+        ["2026-11-06T23:22:58Z", 1888.0, "geizhals"]
       ]
     },
     "gpu-msi-gaming-trio-white": {
