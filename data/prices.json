@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T16:05:45Z",
+  "updated_at": "2026-11-07T20:24:38Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -148,7 +148,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 389.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-06T18:12:59Z"},
+      "current": {"price": 399.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T20:24:38Z"},
       "notified": {"price": 389.0, "at": "2026-11-06T18:12:59Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -193,7 +193,8 @@
         ["2026-11-04T21:23:31Z", 399.0, "geizhals"],
         ["2026-11-05T01:38:00Z", 401.57, "geizhals"],
         ["2026-11-06T11:18:36Z", 399.0, "geizhals"],
-        ["2026-11-06T18:12:59Z", 389.0, "geizhals"]
+        ["2026-11-06T18:12:59Z", 389.0, "geizhals"],
+        ["2026-11-07T20:24:38Z", 399.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -559,7 +560,7 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 677.3, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T16:05:45Z"},
+      "current": {"price": 673.61, "merchant": "galaxus", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T20:24:38Z"},
       "notified": {"price": 653.18, "at": "2026-10-25T14:47:59Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
@@ -576,7 +577,8 @@
         ["2026-10-28T10:29:32Z", 683.9, "geizhals"],
         ["2026-11-04T15:04:29Z", 680.41, "geizhals"],
         ["2026-11-05T22:45:17Z", 683.9, "geizhals"],
-        ["2026-11-07T16:05:45Z", 677.3, "geizhals"]
+        ["2026-11-07T16:05:45Z", 677.3, "geizhals"],
+        ["2026-11-07T20:24:38Z", 673.61, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
