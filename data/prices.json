@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T20:24:38Z",
+  "updated_at": "2026-11-07T23:48:00Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -148,8 +148,8 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 399.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T20:24:38Z"},
-      "notified": {"price": 389.0, "at": "2026-11-06T18:12:59Z", "kinds": ["drop"]},
+      "current": {"price": 379.0, "merchant": "Alternate", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T23:48:00Z"},
+      "notified": {"price": 379.0, "at": "2026-11-07T23:48:00Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
         ["2026-10-02T13:34:13Z", 383.0, "geizhals"],
@@ -194,7 +194,8 @@
         ["2026-11-05T01:38:00Z", 401.57, "geizhals"],
         ["2026-11-06T11:18:36Z", 399.0, "geizhals"],
         ["2026-11-06T18:12:59Z", 389.0, "geizhals"],
-        ["2026-11-07T20:24:38Z", 399.0, "geizhals"]
+        ["2026-11-07T20:24:38Z", 399.0, "geizhals"],
+        ["2026-11-07T23:48:00Z", 379.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -298,8 +299,8 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1479.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T09:54:40Z"},
-      "notified": null,
+      "current": {"price": 1353.0, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T23:48:00Z"},
+      "notified": {"price": 1353.0, "at": "2026-11-07T23:48:00Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
         ["2026-10-13T08:56:08Z", 1353.0, "geizhals"],
@@ -319,7 +320,8 @@
         ["2026-11-05T22:45:17Z", 1403.99, "geizhals"],
         ["2026-11-06T11:18:36Z", 1479.0, "geizhals"],
         ["2026-11-06T18:12:59Z", 1353.0, "geizhals"],
-        ["2026-11-07T09:54:40Z", 1479.0, "geizhals"]
+        ["2026-11-07T09:54:40Z", 1479.0, "geizhals"],
+        ["2026-11-07T23:48:00Z", 1353.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -455,7 +457,7 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 497.53, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
+      "current": {"price": 497.55, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T23:48:00Z"},
       "notified": {"price": 488.65, "at": "2026-10-24T11:24:09Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
@@ -474,11 +476,12 @@
         ["2026-10-27T15:43:17Z", 488.63, "geizhals"],
         ["2026-10-30T00:05:22Z", 497.44, "geizhals"],
         ["2026-10-30T13:18:28Z", 488.1, "geizhals"],
-        ["2026-11-04T21:23:31Z", 497.53, "geizhals"]
+        ["2026-11-04T21:23:31Z", 497.53, "geizhals"],
+        ["2026-11-07T23:48:00Z", 497.55, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 364.6, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-04T21:23:31Z"},
+      "current": {"price": 366.25, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-07T23:48:00Z"},
       "notified": {"price": 359.0, "at": "2026-10-19T07:18:34Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -503,7 +506,8 @@
         ["2026-10-31T19:05:43Z", 368.46, "geizhals"],
         ["2026-11-02T12:45:59Z", 368.34, "geizhals"],
         ["2026-11-03T11:36:48Z", 368.19, "geizhals"],
-        ["2026-11-04T21:23:31Z", 364.6, "geizhals"]
+        ["2026-11-04T21:23:31Z", 364.6, "geizhals"],
+        ["2026-11-07T23:48:00Z", 366.25, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
@@ -524,15 +528,16 @@
       ]
     },
     "paste-mx6-2g": {
-      "current": {"price": 7.79, "merchant": "powerstun", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-15T06:57:02Z"},
+      "current": {"price": 7.65, "merchant": "neon24.de", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-07T23:48:00Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 3.11, "geizhals"],
-        ["2026-10-15T06:57:02Z", 7.79, "geizhals"]
+        ["2026-10-15T06:57:02Z", 7.79, "geizhals"],
+        ["2026-11-07T23:48:00Z", 7.65, "geizhals"]
       ]
     },
     "psu-rm1000e-white": {
-      "current": {"price": 141.4, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-04T21:23:31Z"},
+      "current": {"price": 141.4, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/corsair-rme-series-2025-rm1000e-white-1000w-atx-3-1-cp-9020294-eu-a3466021.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-07T23:48:00Z"},
       "notified": {"price": 143.68, "at": "2026-10-30T00:05:22Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 141.39, "geizhals"],
@@ -657,7 +662,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 319.0, "merchant": "Galaxus.de", "url": "https://www.billiger.de/products/5154842711-western-digital-wd-black-sn7100-nvme-m-2-2280-ssd-2-tb", "source": "billiger", "availability": "unknown", "since": "2026-11-05T01:38:00Z"},
+      "current": {"price": 318.89, "merchant": "computeruniverse", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T23:48:00Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -749,7 +754,8 @@
         ["2026-11-03T11:36:48Z", 311.89, "geizhals"],
         ["2026-11-03T19:01:58Z", 319.0, "billiger"],
         ["2026-11-04T21:23:31Z", 319.0, "geizhals"],
-        ["2026-11-05T01:38:00Z", 319.0, "billiger"]
+        ["2026-11-05T01:38:00Z", 319.0, "billiger"],
+        ["2026-11-07T23:48:00Z", 318.89, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
