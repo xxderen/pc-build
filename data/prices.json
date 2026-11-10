@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T19:00:10Z",
+  "updated_at": "2026-11-10T01:58:56Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -11,7 +11,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.18, "merchant": "voelkner.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-09T19:00:10Z"},
+      "current": {"price": 186.33, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-10T01:58:56Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -28,7 +28,8 @@
         ["2026-10-28T16:48:02Z", 179.3, "geizhals"],
         ["2026-10-28T21:30:03Z", 186.33, "geizhals"],
         ["2026-11-06T18:12:59Z", 186.0, "geizhals"],
-        ["2026-11-09T19:00:10Z", 186.18, "geizhals"]
+        ["2026-11-09T19:00:10Z", 186.18, "geizhals"],
+        ["2026-11-10T01:58:56Z", 186.33, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
@@ -387,8 +388,8 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 1850.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-07T16:05:45Z"},
-      "notified": {"price": 1850.0, "at": "2026-11-07T16:05:45Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 1820.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-10T01:58:56Z"},
+      "notified": {"price": 1820.0, "at": "2026-11-10T01:58:56Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
         ["2026-10-10T15:30:32Z", 1970.0, "geizhals"],
@@ -402,7 +403,8 @@
         ["2026-11-04T06:50:14Z", 1949.99, "geizhals"],
         ["2026-11-05T22:45:17Z", 1899.0, "geizhals"],
         ["2026-11-06T23:22:58Z", 1888.0, "geizhals"],
-        ["2026-11-07T16:05:45Z", 1850.0, "geizhals"]
+        ["2026-11-07T16:05:45Z", 1850.0, "geizhals"],
+        ["2026-11-10T01:58:56Z", 1820.0, "geizhals"]
       ]
     },
     "gpu-msi-gaming-trio-white": {
@@ -538,12 +540,13 @@
       ]
     },
     "paste-mx6-2g": {
-      "current": {"price": 7.65, "merchant": "neon24.de", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-07T23:48:00Z"},
+      "current": {"price": 6.96, "merchant": "playox.de", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-10T01:58:56Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 3.11, "geizhals"],
         ["2026-10-15T06:57:02Z", 7.79, "geizhals"],
-        ["2026-11-07T23:48:00Z", 7.65, "geizhals"]
+        ["2026-11-07T23:48:00Z", 7.65, "geizhals"],
+        ["2026-11-10T01:58:56Z", 6.96, "geizhals"]
       ]
     },
     "psu-rm1000e-white": {
@@ -674,7 +677,7 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 318.89, "merchant": "computeruniverse", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-07T23:48:00Z"},
+      "current": {"price": 319.0, "merchant": "Eco Unity", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-10T01:58:56Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
@@ -767,7 +770,8 @@
         ["2026-11-03T19:01:58Z", 319.0, "billiger"],
         ["2026-11-04T21:23:31Z", 319.0, "geizhals"],
         ["2026-11-05T01:38:00Z", 319.0, "billiger"],
-        ["2026-11-07T23:48:00Z", 318.89, "geizhals"]
+        ["2026-11-07T23:48:00Z", 318.89, "geizhals"],
+        ["2026-11-10T01:58:56Z", 319.0, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
