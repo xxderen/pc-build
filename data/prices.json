@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T02:10:16Z",
+  "updated_at": "2026-11-11T09:43:23Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -11,7 +11,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.0, "merchant": "PC-KING", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-10T17:29:13Z"},
+      "current": {"price": 186.81, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T09:43:23Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -31,11 +31,12 @@
         ["2026-11-09T19:00:10Z", 186.18, "geizhals"],
         ["2026-11-10T01:58:56Z", 186.33, "geizhals"],
         ["2026-11-10T09:36:41Z", 186.84, "geizhals"],
-        ["2026-11-10T17:29:13Z", 186.0, "geizhals"]
+        ["2026-11-10T17:29:13Z", 186.0, "geizhals"],
+        ["2026-11-11T09:43:23Z", 186.81, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.91, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T02:10:16Z"},
+      "current": {"price": 103.88, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T09:43:23Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -85,7 +86,8 @@
         ["2026-11-10T09:36:41Z", 103.98, "geizhals"],
         ["2026-11-10T17:29:13Z", 103.94, "geizhals"],
         ["2026-11-10T22:30:00Z", 103.92, "geizhals"],
-        ["2026-11-11T02:10:16Z", 103.91, "geizhals"]
+        ["2026-11-11T02:10:16Z", 103.91, "geizhals"],
+        ["2026-11-11T09:43:23Z", 103.88, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -161,7 +163,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 377.99, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-10T22:30:00Z"},
+      "current": {"price": 378.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T09:43:23Z"},
       "notified": {"price": 379.0, "at": "2026-11-07T23:48:00Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -210,7 +212,8 @@
         ["2026-11-07T20:24:38Z", 399.0, "geizhals"],
         ["2026-11-07T23:48:00Z", 379.0, "geizhals"],
         ["2026-11-09T19:00:10Z", 378.0, "geizhals"],
-        ["2026-11-10T22:30:00Z", 377.99, "geizhals"]
+        ["2026-11-10T22:30:00Z", 377.99, "geizhals"],
+        ["2026-11-11T09:43:23Z", 378.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -441,7 +444,7 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmg": {
-      "current": {"price": 488.6, "merchant": "galaxus", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T02:10:16Z"},
+      "current": {"price": 488.6, "merchant": "Easynotebooks.de", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-90lm0ah0-b01a70-a3206268.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T09:43:23Z"},
       "notified": {"price": 479.0, "at": "2026-10-31T02:00:10Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 469.9, "geizhals"],
@@ -480,7 +483,7 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 488.63, "merchant": "computeruniverse", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T02:10:16Z"},
+      "current": {"price": 499.0, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T09:43:23Z"},
       "notified": {"price": 488.65, "at": "2026-10-24T11:24:09Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
@@ -502,7 +505,8 @@
         ["2026-11-04T21:23:31Z", 497.53, "geizhals"],
         ["2026-11-07T23:48:00Z", 497.55, "geizhals"],
         ["2026-11-08T17:12:38Z", 499.0, "geizhals"],
-        ["2026-11-11T02:10:16Z", 488.63, "geizhals"]
+        ["2026-11-11T02:10:16Z", 488.63, "geizhals"],
+        ["2026-11-11T09:43:23Z", 499.0, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
