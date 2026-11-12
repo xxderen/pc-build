@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T07:31:21Z",
+  "updated_at": "2026-11-12T16:34:10Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -11,7 +11,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.79, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T07:31:21Z"},
+      "current": {"price": 186.79, "merchant": "voelkner.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T16:34:10Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -39,8 +39,8 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.8, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T07:31:21Z"},
-      "notified": null,
+      "current": {"price": 89.9, "merchant": "computeruniverse.net", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "notified": {"price": 89.9, "at": "2026-11-12T16:34:10Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
         ["2026-10-06T16:29:33Z", 99.88, "geizhals"],
@@ -93,11 +93,12 @@
         ["2026-11-11T09:43:23Z", 103.88, "geizhals"],
         ["2026-11-11T17:42:08Z", 103.85, "geizhals"],
         ["2026-11-12T00:02:26Z", 103.82, "geizhals"],
-        ["2026-11-12T07:31:21Z", 103.8, "geizhals"]
+        ["2026-11-12T07:31:21Z", 103.8, "geizhals"],
+        ["2026-11-12T16:34:10Z", 89.9, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.7, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
+      "current": {"price": 41.87, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -130,11 +131,12 @@
         ["2026-11-06T18:12:59Z", 41.56, "shopify"],
         ["2026-11-09T19:00:10Z", 41.45, "shopify"],
         ["2026-11-10T17:29:13Z", 41.38, "shopify"],
-        ["2026-11-11T17:42:08Z", 41.7, "shopify"]
+        ["2026-11-11T17:42:08Z", 41.7, "shopify"],
+        ["2026-11-12T16:34:10Z", 41.87, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.7, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
+      "current": {"price": 41.87, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -167,7 +169,8 @@
         ["2026-11-06T18:12:59Z", 41.56, "shopify"],
         ["2026-11-09T19:00:10Z", 41.45, "shopify"],
         ["2026-11-10T17:29:13Z", 41.38, "shopify"],
-        ["2026-11-11T17:42:08Z", 41.7, "shopify"]
+        ["2026-11-11T17:42:08Z", 41.7, "shopify"],
+        ["2026-11-12T16:34:10Z", 41.87, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -225,7 +228,7 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.31, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
+      "current": {"price": 20.39, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -254,11 +257,12 @@
         ["2026-11-06T18:12:59Z", 20.24, "shopify"],
         ["2026-11-09T19:00:10Z", 20.19, "shopify"],
         ["2026-11-10T17:29:13Z", 20.15, "shopify"],
-        ["2026-11-11T17:42:08Z", 20.31, "shopify"]
+        ["2026-11-11T17:42:08Z", 20.31, "shopify"],
+        ["2026-11-12T16:34:10Z", 20.39, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.31, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
+      "current": {"price": 20.39, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -290,7 +294,8 @@
         ["2026-11-06T18:12:59Z", 20.24, "shopify"],
         ["2026-11-09T19:00:10Z", 20.19, "shopify"],
         ["2026-11-10T17:29:13Z", 20.15, "shopify"],
-        ["2026-11-11T17:42:08Z", 20.31, "shopify"]
+        ["2026-11-11T17:42:08Z", 20.31, "shopify"],
+        ["2026-11-12T16:34:10Z", 20.39, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -331,8 +336,8 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1479.0, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-08T17:12:38Z"},
-      "notified": null,
+      "current": {"price": 1349.9, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "notified": {"price": 1349.9, "at": "2026-11-12T16:34:10Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
         ["2026-10-13T08:56:08Z", 1353.0, "geizhals"],
@@ -354,7 +359,8 @@
         ["2026-11-06T18:12:59Z", 1353.0, "geizhals"],
         ["2026-11-07T09:54:40Z", 1479.0, "geizhals"],
         ["2026-11-07T23:48:00Z", 1353.0, "geizhals"],
-        ["2026-11-08T17:12:38Z", 1479.0, "geizhals"]
+        ["2026-11-08T17:12:38Z", 1479.0, "geizhals"],
+        ["2026-11-12T16:34:10Z", 1349.9, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -555,8 +561,8 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 6.88, "merchant": "Mindfactory", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T00:02:26Z"},
-      "notified": {"price": 6.92, "at": "2026-11-09T19:00:10Z", "kinds": ["deal"]},
+      "current": {"price": 7.41, "merchant": "Aquatuning", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
         ["2026-10-06T02:41:07Z", 6.37, "geizhals"],
@@ -570,7 +576,8 @@
         ["2026-10-23T11:00:13Z", 7.38, "geizhals"],
         ["2026-11-04T21:23:31Z", 7.4, "geizhals"],
         ["2026-11-09T19:00:10Z", 6.92, "geizhals"],
-        ["2026-11-10T09:36:41Z", 6.88, "geizhals"]
+        ["2026-11-10T09:36:41Z", 6.88, "geizhals"],
+        ["2026-11-12T16:34:10Z", 7.41, "geizhals"]
       ]
     },
     "paste-mx6-2g": {
