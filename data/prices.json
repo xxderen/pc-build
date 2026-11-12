@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T00:02:26Z",
+  "updated_at": "2026-11-12T07:31:21Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
@@ -11,7 +11,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.78, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T00:02:26Z"},
+      "current": {"price": 186.79, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T07:31:21Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -34,11 +34,12 @@
         ["2026-11-10T17:29:13Z", 186.0, "geizhals"],
         ["2026-11-11T09:43:23Z", 186.81, "geizhals"],
         ["2026-11-11T17:42:08Z", 186.79, "geizhals"],
-        ["2026-11-12T00:02:26Z", 186.78, "geizhals"]
+        ["2026-11-12T00:02:26Z", 186.78, "geizhals"],
+        ["2026-11-12T07:31:21Z", 186.79, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 103.82, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T00:02:26Z"},
+      "current": {"price": 103.8, "merchant": "Mindfactory", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T07:31:21Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -91,7 +92,8 @@
         ["2026-11-11T02:10:16Z", 103.91, "geizhals"],
         ["2026-11-11T09:43:23Z", 103.88, "geizhals"],
         ["2026-11-11T17:42:08Z", 103.85, "geizhals"],
-        ["2026-11-12T00:02:26Z", 103.82, "geizhals"]
+        ["2026-11-12T00:02:26Z", 103.82, "geizhals"],
+        ["2026-11-12T07:31:21Z", 103.8, "geizhals"]
       ]
     },
     "cover-aurora-learn-24pin-white": {
@@ -356,7 +358,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1449.99, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-06T18:12:59Z"},
+      "current": {"price": 1499.99, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T07:31:21Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -379,7 +381,8 @@
         ["2026-11-01T23:45:11Z", 1399.81, "geizhals"],
         ["2026-11-02T12:45:59Z", 1399.99, "geizhals"],
         ["2026-11-02T22:08:31Z", 1378.99, "geizhals"],
-        ["2026-11-06T18:12:59Z", 1449.99, "geizhals"]
+        ["2026-11-06T18:12:59Z", 1449.99, "geizhals"],
+        ["2026-11-12T07:31:21Z", 1499.99, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -410,8 +413,8 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 1810.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-10T09:36:41Z"},
-      "notified": {"price": 1810.0, "at": "2026-11-10T09:36:41Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 1799.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T07:31:21Z"},
+      "notified": {"price": 1799.0, "at": "2026-11-12T07:31:21Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
         ["2026-10-10T15:30:32Z", 1970.0, "geizhals"],
@@ -427,7 +430,8 @@
         ["2026-11-06T23:22:58Z", 1888.0, "geizhals"],
         ["2026-11-07T16:05:45Z", 1850.0, "geizhals"],
         ["2026-11-10T01:58:56Z", 1820.0, "geizhals"],
-        ["2026-11-10T09:36:41Z", 1810.0, "geizhals"]
+        ["2026-11-10T09:36:41Z", 1810.0, "geizhals"],
+        ["2026-11-12T07:31:21Z", 1799.0, "geizhals"]
       ]
     },
     "gpu-msi-gaming-trio-white": {
