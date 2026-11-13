@@ -1,13 +1,14 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T16:34:10Z",
+  "updated_at": "2026-11-13T03:07:57Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
-      "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-16T20:29:58Z"},
-      "notified": null,
+      "current": {"price": 371.35, "merchant": "galaxus", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-13T03:07:57Z"},
+      "notified": {"price": 371.35, "at": "2026-11-13T03:07:57Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 367.65, "geizhals"],
-        ["2026-10-16T20:29:58Z", 378.88, "geizhals"]
+        ["2026-10-16T20:29:58Z", 378.88, "geizhals"],
+        ["2026-11-13T03:07:57Z", 371.35, "geizhals"]
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
@@ -174,7 +175,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 378.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T09:43:23Z"},
+      "current": {"price": 377.99, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T03:07:57Z"},
       "notified": {"price": 379.0, "at": "2026-11-07T23:48:00Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -224,7 +225,8 @@
         ["2026-11-07T23:48:00Z", 379.0, "geizhals"],
         ["2026-11-09T19:00:10Z", 378.0, "geizhals"],
         ["2026-11-10T22:30:00Z", 377.99, "geizhals"],
-        ["2026-11-11T09:43:23Z", 378.0, "geizhals"]
+        ["2026-11-11T09:43:23Z", 378.0, "geizhals"],
+        ["2026-11-13T03:07:57Z", 377.99, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -336,8 +338,8 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1349.9, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
-      "notified": {"price": 1349.9, "at": "2026-11-12T16:34:10Z", "kinds": ["drop"]},
+      "current": {"price": 1479.0, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T03:07:57Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
         ["2026-10-13T08:56:08Z", 1353.0, "geizhals"],
@@ -360,7 +362,8 @@
         ["2026-11-07T09:54:40Z", 1479.0, "geizhals"],
         ["2026-11-07T23:48:00Z", 1353.0, "geizhals"],
         ["2026-11-08T17:12:38Z", 1479.0, "geizhals"],
-        ["2026-11-12T16:34:10Z", 1349.9, "geizhals"]
+        ["2026-11-12T16:34:10Z", 1349.9, "geizhals"],
+        ["2026-11-13T03:07:57Z", 1479.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
