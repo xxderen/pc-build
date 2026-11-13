@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T11:22:40Z",
+  "updated_at": "2026-11-13T18:39:02Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -13,7 +13,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.79, "merchant": "voelkner.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 186.79, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -100,7 +100,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 41.87, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 41.98, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -134,11 +134,12 @@
         ["2026-11-09T19:00:10Z", 41.45, "shopify"],
         ["2026-11-10T17:29:13Z", 41.38, "shopify"],
         ["2026-11-11T17:42:08Z", 41.7, "shopify"],
-        ["2026-11-12T16:34:10Z", 41.87, "shopify"]
+        ["2026-11-12T16:34:10Z", 41.87, "shopify"],
+        ["2026-11-13T18:39:02Z", 41.98, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 41.87, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 41.98, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -172,7 +173,8 @@
         ["2026-11-09T19:00:10Z", 41.45, "shopify"],
         ["2026-11-10T17:29:13Z", 41.38, "shopify"],
         ["2026-11-11T17:42:08Z", 41.7, "shopify"],
-        ["2026-11-12T16:34:10Z", 41.87, "shopify"]
+        ["2026-11-12T16:34:10Z", 41.87, "shopify"],
+        ["2026-11-13T18:39:02Z", 41.98, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -231,7 +233,7 @@
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.39, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 20.45, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -261,11 +263,12 @@
         ["2026-11-09T19:00:10Z", 20.19, "shopify"],
         ["2026-11-10T17:29:13Z", 20.15, "shopify"],
         ["2026-11-11T17:42:08Z", 20.31, "shopify"],
-        ["2026-11-12T16:34:10Z", 20.39, "shopify"]
+        ["2026-11-12T16:34:10Z", 20.39, "shopify"],
+        ["2026-11-13T18:39:02Z", 20.45, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.39, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 20.45, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -298,7 +301,8 @@
         ["2026-11-09T19:00:10Z", 20.19, "shopify"],
         ["2026-11-10T17:29:13Z", 20.15, "shopify"],
         ["2026-11-11T17:42:08Z", 20.31, "shopify"],
-        ["2026-11-12T16:34:10Z", 20.39, "shopify"]
+        ["2026-11-12T16:34:10Z", 20.39, "shopify"],
+        ["2026-11-13T18:39:02Z", 20.45, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -310,8 +314,8 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1595.89, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-08T21:17:46Z"},
-      "notified": {"price": 1549.0, "at": "2026-10-28T10:29:32Z", "kinds": ["drop"]},
+      "current": {"price": 1861.09, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-13T18:39:02Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
         ["2026-10-02T00:59:28Z", 1410.67, "geizhals"],
@@ -335,7 +339,8 @@
         ["2026-10-24T17:49:18Z", 1658.0, "geizhals"],
         ["2026-10-28T10:29:32Z", 1549.0, "geizhals"],
         ["2026-10-30T18:43:15Z", 1549.99, "geizhals"],
-        ["2026-11-05T01:38:00Z", 1595.89, "geizhals"]
+        ["2026-11-05T01:38:00Z", 1595.89, "geizhals"],
+        ["2026-11-13T18:39:02Z", 1861.09, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
@@ -369,7 +374,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1499.99, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T07:31:21Z"},
+      "current": {"price": 1549.0, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -393,7 +398,8 @@
         ["2026-11-02T12:45:59Z", 1399.99, "geizhals"],
         ["2026-11-02T22:08:31Z", 1378.99, "geizhals"],
         ["2026-11-06T18:12:59Z", 1449.99, "geizhals"],
-        ["2026-11-12T07:31:21Z", 1499.99, "geizhals"]
+        ["2026-11-12T07:31:21Z", 1499.99, "geizhals"],
+        ["2026-11-13T18:39:02Z", 1549.0, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
@@ -506,8 +512,8 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 499.0, "merchant": "x-kom", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T09:43:23Z"},
-      "notified": {"price": 488.65, "at": "2026-10-24T11:24:09Z", "kinds": ["drop"]},
+      "current": {"price": 459.0, "merchant": "Alternate", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
+      "notified": {"price": 459.0, "at": "2026-11-13T18:39:02Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
         ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
@@ -529,11 +535,12 @@
         ["2026-11-07T23:48:00Z", 497.55, "geizhals"],
         ["2026-11-08T17:12:38Z", 499.0, "geizhals"],
         ["2026-11-11T02:10:16Z", 488.63, "geizhals"],
-        ["2026-11-11T09:43:23Z", 499.0, "geizhals"]
+        ["2026-11-11T09:43:23Z", 499.0, "geizhals"],
+        ["2026-11-13T18:39:02Z", 459.0, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
-      "current": {"price": 341.43, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T17:42:08Z"},
+      "current": {"price": 343.65, "merchant": "x-kom", "url": "https://geizhals.de/msi-mag-272qp-qd-oled-x24-9s6-3cf89a-001-a3808816.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-13T18:39:02Z"},
       "notified": {"price": 341.43, "at": "2026-11-11T17:42:08Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 375.9, "geizhals"],
@@ -562,7 +569,8 @@
         ["2026-11-07T23:48:00Z", 366.25, "geizhals"],
         ["2026-11-10T09:36:41Z", 328.88, "geizhals"],
         ["2026-11-11T02:10:16Z", 348.63, "geizhals"],
-        ["2026-11-11T17:42:08Z", 341.43, "geizhals"]
+        ["2026-11-11T17:42:08Z", 341.43, "geizhals"],
+        ["2026-11-13T18:39:02Z", 343.65, "geizhals"]
       ]
     },
     "paste-kryonaut-1g": {
@@ -587,15 +595,16 @@
       ]
     },
     "paste-mx6-2g": {
-      "current": {"price": 6.44, "merchant": "playox.de", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
-      "notified": {"price": 6.46, "at": "2026-11-10T22:30:00Z", "kinds": ["deal"]},
+      "current": {"price": 7.79, "merchant": "powerstun", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 3.11, "geizhals"],
         ["2026-10-15T06:57:02Z", 7.79, "geizhals"],
         ["2026-11-07T23:48:00Z", 7.65, "geizhals"],
         ["2026-11-10T01:58:56Z", 6.96, "geizhals"],
         ["2026-11-10T22:30:00Z", 6.46, "geizhals"],
-        ["2026-11-11T17:42:08Z", 6.44, "geizhals"]
+        ["2026-11-11T17:42:08Z", 6.44, "geizhals"],
+        ["2026-11-13T18:39:02Z", 7.79, "geizhals"]
       ]
     },
     "psu-rm1000e-white": {
@@ -730,8 +739,8 @@
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
-      "current": {"price": 358.17, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-11T17:42:08Z"},
-      "notified": null,
+      "current": {"price": 323.87, "merchant": "playox.de", "url": "https://geizhals.de/western-digital-wd-black-sn7100-nvme-ssd-2tb-wds200t4x0e-00cja0-a3372712.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
+      "notified": {"price": 323.87, "at": "2026-11-13T18:39:02Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 271.9, "geizhals"],
         ["2026-10-01T17:21:30Z", 269.9, "billiger"],
@@ -827,12 +836,13 @@
         ["2026-11-10T01:58:56Z", 319.0, "geizhals"],
         ["2026-11-10T09:36:41Z", 311.13, "geizhals"],
         ["2026-11-10T22:30:00Z", 358.16, "geizhals"],
-        ["2026-11-11T17:42:08Z", 358.17, "geizhals"]
+        ["2026-11-11T17:42:08Z", 358.17, "geizhals"],
+        ["2026-11-13T18:39:02Z", 323.87, "geizhals"]
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
-      "current": {"price": 429.0, "merchant": "galaxus", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T02:10:16Z"},
-      "notified": null,
+      "current": {"price": 399.95, "merchant": "braunbox", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-13T18:39:02Z"},
+      "notified": {"price": 399.95, "at": "2026-11-13T18:39:02Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 339.0, "geizhals"],
         ["2026-10-03T13:01:57Z", 339.94, "geizhals"],
@@ -841,7 +851,8 @@
         ["2026-10-19T14:51:00Z", 359.0, "geizhals"],
         ["2026-10-21T20:17:19Z", 369.0, "geizhals"],
         ["2026-11-10T09:36:41Z", 428.95, "geizhals"],
-        ["2026-11-11T02:10:16Z", 429.0, "geizhals"]
+        ["2026-11-11T02:10:16Z", 429.0, "geizhals"],
+        ["2026-11-13T18:39:02Z", 399.95, "geizhals"]
       ]
     }
   }
