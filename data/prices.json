@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T06:51:55Z",
+  "updated_at": "2026-11-14T13:56:34Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -13,7 +13,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 186.79, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
+      "current": {"price": 186.78, "merchant": "voelkner.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-14T13:56:34Z"},
       "notified": {"price": 179.0, "at": "2026-10-19T01:33:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -37,7 +37,8 @@
         ["2026-11-11T09:43:23Z", 186.81, "geizhals"],
         ["2026-11-11T17:42:08Z", 186.79, "geizhals"],
         ["2026-11-12T00:02:26Z", 186.78, "geizhals"],
-        ["2026-11-12T07:31:21Z", 186.79, "geizhals"]
+        ["2026-11-12T07:31:21Z", 186.79, "geizhals"],
+        ["2026-11-14T13:56:34Z", 186.78, "geizhals"]
       ]
     },
     "case-lb600dx-white": {
@@ -178,7 +179,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 377.99, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T03:07:57Z"},
+      "current": {"price": 378.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-14T13:56:34Z"},
       "notified": {"price": 379.0, "at": "2026-11-07T23:48:00Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -229,7 +230,8 @@
         ["2026-11-09T19:00:10Z", 378.0, "geizhals"],
         ["2026-11-10T22:30:00Z", 377.99, "geizhals"],
         ["2026-11-11T09:43:23Z", 378.0, "geizhals"],
-        ["2026-11-13T03:07:57Z", 377.99, "geizhals"]
+        ["2026-11-13T03:07:57Z", 377.99, "geizhals"],
+        ["2026-11-14T13:56:34Z", 378.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
@@ -314,7 +316,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1861.09, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-14T06:51:55Z"},
+      "current": {"price": 1871.0, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-14T13:56:34Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -340,7 +342,8 @@
         ["2026-10-28T10:29:32Z", 1549.0, "geizhals"],
         ["2026-10-30T18:43:15Z", 1549.99, "geizhals"],
         ["2026-11-05T01:38:00Z", 1595.89, "geizhals"],
-        ["2026-11-13T18:39:02Z", 1861.09, "geizhals"]
+        ["2026-11-13T18:39:02Z", 1861.09, "geizhals"],
+        ["2026-11-14T13:56:34Z", 1871.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-aero-oc": {
