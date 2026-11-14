@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T18:39:02Z",
+  "updated_at": "2026-11-14T06:51:55Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -41,7 +41,7 @@
       ]
     },
     "case-lb600dx-white": {
-      "current": {"price": 89.9, "merchant": "computeruniverse.net", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-12T16:34:10Z"},
+      "current": {"price": 89.9, "merchant": "Cyberport Stores Deutschland", "url": "https://geizhals.de/be-quiet-light-base-600-dx-white-bgw66-a3316851.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-14T06:51:55Z"},
       "notified": {"price": 89.9, "at": "2026-11-12T16:34:10Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 99.89, "geizhals"],
@@ -314,7 +314,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1861.09, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-13T18:39:02Z"},
+      "current": {"price": 1861.09, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-14T06:51:55Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -493,8 +493,8 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 419.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-11T17:42:08Z"},
-      "notified": {"price": 419.0, "at": "2026-10-14T19:58:20Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 399.0, "merchant": "Son-Video", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-14T06:51:55Z"},
+      "notified": {"price": 399.0, "at": "2026-11-14T06:51:55Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
@@ -508,7 +508,8 @@
         ["2026-10-19T14:51:00Z", 421.73, "geizhals"],
         ["2026-10-20T14:06:07Z", 429.0, "geizhals"],
         ["2026-10-27T15:43:17Z", 429.99, "geizhals"],
-        ["2026-11-02T12:45:59Z", 419.0, "geizhals"]
+        ["2026-11-02T12:45:59Z", 419.0, "geizhals"],
+        ["2026-11-14T06:51:55Z", 399.0, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
