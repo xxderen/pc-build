@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T09:44:49Z",
+  "updated_at": "2026-11-15T16:47:37Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -378,7 +378,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1549.0, "merchant": "notebooksbilliger.de", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T18:39:02Z"},
+      "current": {"price": 1549.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-15T16:47:37Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -434,8 +434,8 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 1799.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-12T07:31:21Z"},
-      "notified": {"price": 1799.0, "at": "2026-11-12T07:31:21Z", "kinds": ["drop", "deal"]},
+      "current": {"price": 1777.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-15T16:47:37Z"},
+      "notified": {"price": 1777.0, "at": "2026-11-15T16:47:37Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
         ["2026-10-10T15:30:32Z", 1970.0, "geizhals"],
@@ -452,7 +452,8 @@
         ["2026-11-07T16:05:45Z", 1850.0, "geizhals"],
         ["2026-11-10T01:58:56Z", 1820.0, "geizhals"],
         ["2026-11-10T09:36:41Z", 1810.0, "geizhals"],
-        ["2026-11-12T07:31:21Z", 1799.0, "geizhals"]
+        ["2026-11-12T07:31:21Z", 1799.0, "geizhals"],
+        ["2026-11-15T16:47:37Z", 1777.0, "geizhals"]
       ]
     },
     "gpu-msi-gaming-trio-white": {
