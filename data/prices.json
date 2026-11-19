@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T09:07:47Z",
+  "updated_at": "2026-11-19T18:29:10Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -105,7 +105,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 42.3, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 42.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -143,11 +143,12 @@
         ["2026-11-13T18:39:02Z", 41.98, "shopify"],
         ["2026-11-16T18:46:23Z", 42.13, "shopify"],
         ["2026-11-17T19:41:08Z", 42.22, "shopify"],
-        ["2026-11-18T18:59:30Z", 42.3, "shopify"]
+        ["2026-11-18T18:59:30Z", 42.3, "shopify"],
+        ["2026-11-19T18:29:10Z", 42.21, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 42.3, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 42.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -185,11 +186,12 @@
         ["2026-11-13T18:39:02Z", 41.98, "shopify"],
         ["2026-11-16T18:46:23Z", 42.13, "shopify"],
         ["2026-11-17T19:41:08Z", 42.22, "shopify"],
-        ["2026-11-18T18:59:30Z", 42.3, "shopify"]
+        ["2026-11-18T18:59:30Z", 42.3, "shopify"],
+        ["2026-11-19T18:29:10Z", 42.21, "shopify"]
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 366.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 365.0, "merchant": "Mindfactory", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": {"price": 367.0, "at": "2026-11-16T01:19:52Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -244,11 +246,12 @@
         ["2026-11-14T13:56:34Z", 378.0, "geizhals"],
         ["2026-11-15T09:44:49Z", 377.99, "geizhals"],
         ["2026-11-16T01:19:52Z", 367.0, "geizhals"],
-        ["2026-11-18T18:59:30Z", 366.0, "geizhals"]
+        ["2026-11-18T18:59:30Z", 366.0, "geizhals"],
+        ["2026-11-19T18:29:10Z", 365.0, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.6, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 20.56, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -282,11 +285,12 @@
         ["2026-11-13T18:39:02Z", 20.45, "shopify"],
         ["2026-11-16T18:46:23Z", 20.52, "shopify"],
         ["2026-11-17T19:41:08Z", 20.56, "shopify"],
-        ["2026-11-18T18:59:30Z", 20.6, "shopify"]
+        ["2026-11-18T18:59:30Z", 20.6, "shopify"],
+        ["2026-11-19T18:29:10Z", 20.56, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.6, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 20.56, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -323,7 +327,8 @@
         ["2026-11-13T18:39:02Z", 20.45, "shopify"],
         ["2026-11-16T18:46:23Z", 20.52, "shopify"],
         ["2026-11-17T19:41:08Z", 20.56, "shopify"],
-        ["2026-11-18T18:59:30Z", 20.6, "shopify"]
+        ["2026-11-18T18:59:30Z", 20.6, "shopify"],
+        ["2026-11-19T18:29:10Z", 20.56, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -402,7 +407,7 @@
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
-      "current": {"price": 1549.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T01:03:34Z"},
+      "current": {"price": 1513.98, "merchant": "Jacob Elektronik direkt", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-gv-n507teagleoc-ice-16gd-a3381837.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": {"price": 1499.99, "at": "2026-11-18T10:29:20Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1219.0, "geizhals"],
@@ -429,11 +434,12 @@
         ["2026-11-12T07:31:21Z", 1499.99, "geizhals"],
         ["2026-11-13T18:39:02Z", 1549.0, "geizhals"],
         ["2026-11-18T10:29:20Z", 1499.99, "geizhals"],
-        ["2026-11-19T01:03:34Z", 1549.0, "geizhals"]
+        ["2026-11-19T01:03:34Z", 1549.0, "geizhals"],
+        ["2026-11-19T18:29:10Z", 1513.98, "geizhals"]
       ]
     },
     "gpu-inno3d-x3-oc-white": {
-      "current": {"price": 1599.99, "merchant": "pcspezi-kf", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-10-30T18:43:15Z"},
+      "current": {"price": 1659.99, "merchant": "pcspezi-kf", "url": "https://geizhals.de/inno3d-geforce-rtx-5070-ti-x3-oc-white-n507t3-16d7x-176068w-a3394854.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1279.0, "geizhals"],
@@ -441,7 +447,8 @@
         ["2026-10-26T13:52:56Z", 1399.99, "geizhals"],
         ["2026-10-26T19:44:10Z", 1307.35, "geizhals"],
         ["2026-10-27T03:42:27Z", 1499.99, "geizhals"],
-        ["2026-10-30T18:43:15Z", 1599.99, "geizhals"]
+        ["2026-10-30T18:43:15Z", 1599.99, "geizhals"],
+        ["2026-11-19T18:29:10Z", 1659.99, "geizhals"]
       ]
     },
     "gpu-kfa2-1click-oc-white": {
@@ -548,8 +555,8 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 468.37, "merchant": "cyberport", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-18T18:59:30Z"},
-      "notified": {"price": 459.0, "at": "2026-11-13T18:39:02Z", "kinds": ["drop", "target", "deal"]},
+      "current": {"price": 449.0, "merchant": "Cyberport Stores Deutschland", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-19T18:29:10Z"},
+      "notified": {"price": 449.0, "at": "2026-11-19T18:29:10Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
         ["2026-10-02T13:34:13Z", 507.69, "geizhals"],
@@ -574,7 +581,8 @@
         ["2026-11-11T09:43:23Z", 499.0, "geizhals"],
         ["2026-11-13T18:39:02Z", 459.0, "geizhals"],
         ["2026-11-16T18:46:23Z", 479.99, "geizhals"],
-        ["2026-11-18T18:59:30Z", 468.37, "geizhals"]
+        ["2026-11-18T18:59:30Z", 468.37, "geizhals"],
+        ["2026-11-19T18:29:10Z", 449.0, "geizhals"]
       ]
     },
     "mon-msi-mag-272qp-qd-oled-x24": {
