@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T01:03:34Z",
+  "updated_at": "2026-11-19T09:07:47Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -765,7 +765,7 @@
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 346.15, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-18T10:29:20Z"},
+      "current": {"price": 346.89, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T09:07:47Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
@@ -782,7 +782,8 @@
         ["2026-10-28T10:29:32Z", 329.99, "geizhals"],
         ["2026-10-30T00:05:22Z", 330.0, "geizhals"],
         ["2026-11-03T11:36:48Z", 339.89, "geizhals"],
-        ["2026-11-18T10:29:20Z", 346.15, "geizhals"]
+        ["2026-11-18T10:29:20Z", 346.15, "geizhals"],
+        ["2026-11-19T09:07:47Z", 346.89, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
