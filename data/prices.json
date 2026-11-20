@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T18:29:10Z",
+  "updated_at": "2026-11-20T00:51:07Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -555,7 +555,7 @@
       ]
     },
     "mon-gigabyte-mo27q28gr": {
-      "current": {"price": 449.0, "merchant": "Cyberport Stores Deutschland", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-19T18:29:10Z"},
+      "current": {"price": 449.0, "merchant": "computeruniverse.net", "url": "https://geizhals.de/gigabyte-mo27q28gr-a3779801.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-20T00:51:07Z"},
       "notified": {"price": 449.0, "at": "2026-11-19T18:29:10Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 511.13, "geizhals"],
