@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T08:03:58Z",
+  "updated_at": "2026-11-20T17:06:31Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -105,7 +105,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 42.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
+      "current": {"price": 42.22, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-20T17:06:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -144,11 +144,12 @@
         ["2026-11-16T18:46:23Z", 42.13, "shopify"],
         ["2026-11-17T19:41:08Z", 42.22, "shopify"],
         ["2026-11-18T18:59:30Z", 42.3, "shopify"],
-        ["2026-11-19T18:29:10Z", 42.21, "shopify"]
+        ["2026-11-19T18:29:10Z", 42.21, "shopify"],
+        ["2026-11-20T17:06:31Z", 42.22, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 42.21, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-19T18:29:10Z"},
+      "current": {"price": 42.22, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-20T17:06:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -187,7 +188,8 @@
         ["2026-11-16T18:46:23Z", 42.13, "shopify"],
         ["2026-11-17T19:41:08Z", 42.22, "shopify"],
         ["2026-11-18T18:59:30Z", 42.3, "shopify"],
-        ["2026-11-19T18:29:10Z", 42.21, "shopify"]
+        ["2026-11-19T18:29:10Z", 42.21, "shopify"],
+        ["2026-11-20T17:06:31Z", 42.22, "shopify"]
       ]
     },
     "cpu-9800x3d": {
@@ -376,7 +378,7 @@
       ]
     },
     "gpu-gigabyte-aero-oc": {
-      "current": {"price": 1549.0, "merchant": "Caseking", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-18T02:06:30Z"},
+      "current": {"price": 1589.0, "merchant": "galaxus", "url": "https://geizhals.de/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-gv-n507taero-oc-16gd-a3381846.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-20T17:06:31Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 1344.0, "geizhals"],
@@ -403,7 +405,8 @@
         ["2026-11-12T16:34:10Z", 1349.9, "geizhals"],
         ["2026-11-13T03:07:57Z", 1479.0, "geizhals"],
         ["2026-11-13T11:22:40Z", 1359.0, "geizhals"],
-        ["2026-11-18T02:06:30Z", 1549.0, "geizhals"]
+        ["2026-11-18T02:06:30Z", 1549.0, "geizhals"],
+        ["2026-11-20T17:06:31Z", 1589.0, "geizhals"]
       ]
     },
     "gpu-gigabyte-eagle-oc-ice-sff": {
@@ -497,7 +500,7 @@
       "history": []
     },
     "gpu-zotac-solid-core-oc-white": {
-      "current": null,
+      "current": {"price": 1481.0, "merchant": "Alternate", "url": "https://geizhals.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-20T17:06:31Z"},
       "notified": null,
       "history": [
         ["2026-10-04T09:20:23Z", 1161.49, "geizhals"]
@@ -622,7 +625,7 @@
       ]
     },
     "paste-kryonaut-1g": {
-      "current": {"price": 6.5, "merchant": "procooling", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-19T01:03:34Z"},
+      "current": {"price": 6.5, "merchant": "ds-distribution", "url": "https://geizhals.de/thermal-grizzly-kryonaut-waermeleitpaste-tg-k-001-rs-a1297196.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-20T17:06:31Z"},
       "notified": {"price": 6.5, "at": "2026-11-19T01:03:34Z", "kinds": ["deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 6.88, "geizhals"],
@@ -689,8 +692,8 @@
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
-      "current": {"price": 670.9, "merchant": "Amazon.de", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-08T17:12:38Z"},
-      "notified": {"price": 653.18, "at": "2026-10-25T14:47:59Z", "kinds": ["drop"]},
+      "current": {"price": 695.59, "merchant": "galaxus", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000z30w-a3374073.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-20T17:06:31Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 683.88, "geizhals"],
         ["2026-10-01T17:21:30Z", 683.89, "geizhals"],
@@ -709,7 +712,8 @@
         ["2026-11-07T16:05:45Z", 677.3, "geizhals"],
         ["2026-11-07T20:24:38Z", 673.61, "geizhals"],
         ["2026-11-08T11:27:34Z", 677.3, "geizhals"],
-        ["2026-11-08T17:12:38Z", 670.9, "geizhals"]
+        ["2026-11-08T17:12:38Z", 670.9, "geizhals"],
+        ["2026-11-20T17:06:31Z", 695.59, "geizhals"]
       ]
     },
     "ssd-acer-predator-gm7-2tb": {
