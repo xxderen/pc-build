@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T17:06:31Z",
+  "updated_at": "2026-11-21T19:55:39Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -536,7 +536,7 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 419.0, "merchant": "Azerty NL", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-18T10:29:20Z"},
+      "current": {"price": 431.57, "merchant": "Easynotebooks", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-21T19:55:39Z"},
       "notified": {"price": 419.0, "at": "2026-11-18T10:29:20Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
@@ -554,7 +554,8 @@
         ["2026-11-02T12:45:59Z", 419.0, "geizhals"],
         ["2026-11-14T06:51:55Z", 399.0, "geizhals"],
         ["2026-11-16T18:46:23Z", 429.99, "geizhals"],
-        ["2026-11-18T10:29:20Z", 419.0, "geizhals"]
+        ["2026-11-18T10:29:20Z", 419.0, "geizhals"],
+        ["2026-11-21T19:55:39Z", 431.57, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
@@ -777,7 +778,7 @@
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 346.89, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-19T09:07:47Z"},
+      "current": {"price": 346.28, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-21T19:55:39Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
@@ -795,7 +796,8 @@
         ["2026-10-30T00:05:22Z", 330.0, "geizhals"],
         ["2026-11-03T11:36:48Z", 339.89, "geizhals"],
         ["2026-11-18T10:29:20Z", 346.15, "geizhals"],
-        ["2026-11-19T09:07:47Z", 346.89, "geizhals"]
+        ["2026-11-19T09:07:47Z", 346.89, "geizhals"],
+        ["2026-11-21T19:55:39Z", 346.28, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
@@ -902,7 +904,7 @@
       ]
     },
     "ssd-wd-black-sn850x-2tb": {
-      "current": {"price": 399.0, "merchant": "mac-refurbed", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-18T10:29:20Z"},
+      "current": {"price": 399.95, "merchant": "braunbox", "url": "https://geizhals.de/western-digital-wd-black-sn850x-nvme-ssd-2tb-wds200t2x0e-00bca0-a2770177.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-21T19:55:39Z"},
       "notified": {"price": 399.95, "at": "2026-11-13T18:39:02Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 339.0, "geizhals"],
@@ -914,7 +916,8 @@
         ["2026-11-10T09:36:41Z", 428.95, "geizhals"],
         ["2026-11-11T02:10:16Z", 429.0, "geizhals"],
         ["2026-11-13T18:39:02Z", 399.95, "geizhals"],
-        ["2026-11-18T10:29:20Z", 399.0, "geizhals"]
+        ["2026-11-18T10:29:20Z", 399.0, "geizhals"],
+        ["2026-11-21T19:55:39Z", 399.95, "geizhals"]
       ]
     }
   }
