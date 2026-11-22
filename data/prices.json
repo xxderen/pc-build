@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T07:15:18Z",
+  "updated_at": "2026-11-22T15:31:32Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -470,7 +470,7 @@
       "history": []
     },
     "gpu-msi-gaming-trio-oc-white": {
-      "current": {"price": 1699.0, "merchant": "plussafe-trading", "url": "https://geizhals.de/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-white-a3445154.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-18T10:29:20Z"},
+      "current": null,
       "notified": {"price": 1699.0, "at": "2026-11-18T10:29:20Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-08T00:18:30Z", 1999.99, "geizhals"],
@@ -680,7 +680,7 @@
       ]
     },
     "ram-vengeance-rgb-white-c30w": {
-      "current": {"price": 614.99, "merchant": "Mahando", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-18T18:59:30Z"},
+      "current": {"price": 619.0, "merchant": "galaxus", "url": "https://geizhals.de/corsair-vengeance-rgb-weiss-dimm-kit-32gb-cmh32gx5m2b6000c30w-a3000831.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-22T15:31:32Z"},
       "notified": {"price": 599.0, "at": "2026-10-22T08:49:29Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 599.0, "geizhals"],
@@ -691,7 +691,8 @@
         ["2026-10-21T20:17:19Z", 621.2, "geizhals"],
         ["2026-10-22T08:49:29Z", 599.0, "geizhals"],
         ["2026-11-17T10:57:27Z", 619.0, "geizhals"],
-        ["2026-11-18T18:59:30Z", 614.99, "geizhals"]
+        ["2026-11-18T18:59:30Z", 614.99, "geizhals"],
+        ["2026-11-22T15:31:32Z", 619.0, "geizhals"]
       ]
     },
     "ram-vengeance-rgb-white-z30w": {
