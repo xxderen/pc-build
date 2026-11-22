@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T00:05:51Z",
+  "updated_at": "2026-11-22T07:15:18Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -342,7 +342,7 @@
       ]
     },
     "gpu-asus-tuf-5070ti-oc-white": {
-      "current": {"price": 1818.96, "merchant": "computeruniverse.net", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-20T08:03:58Z"},
+      "current": {"price": 1879.0, "merchant": "galaxus", "url": "https://geizhals.de/asus-tuf-gaming-geforce-rtx-5070-ti-oc-white-90yv0md3-m0na00-a3480862.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-22T07:15:18Z"},
       "notified": {"price": 1849.73, "at": "2026-11-18T10:29:20Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 1413.01, "geizhals"],
@@ -536,8 +536,8 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 404.99, "merchant": "mediamarkt-stade", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-22T00:05:51Z"},
-      "notified": {"price": 404.99, "at": "2026-11-22T00:05:51Z", "kinds": ["drop"]},
+      "current": {"price": 447.0, "merchant": "TinTech-Solutions", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-22T07:15:18Z"},
+      "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
@@ -556,7 +556,8 @@
         ["2026-11-16T18:46:23Z", 429.99, "geizhals"],
         ["2026-11-18T10:29:20Z", 419.0, "geizhals"],
         ["2026-11-21T19:55:39Z", 431.57, "geizhals"],
-        ["2026-11-22T00:05:51Z", 404.99, "geizhals"]
+        ["2026-11-22T00:05:51Z", 404.99, "geizhals"],
+        ["2026-11-22T07:15:18Z", 447.0, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
@@ -779,7 +780,7 @@
       ]
     },
     "ssd-samsung-990-evo-plus-2tb": {
-      "current": {"price": 346.28, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-21T19:55:39Z"},
+      "current": {"price": 346.89, "merchant": "bueromarkt-ag.de", "url": "https://geizhals.de/samsung-ssd-990-evo-plus-2tb-mz-v9s2t0bw-mz-v9s2t0b-a3316843.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-22T07:15:18Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 299.0, "geizhals"],
@@ -798,7 +799,8 @@
         ["2026-11-03T11:36:48Z", 339.89, "geizhals"],
         ["2026-11-18T10:29:20Z", 346.15, "geizhals"],
         ["2026-11-19T09:07:47Z", 346.89, "geizhals"],
-        ["2026-11-21T19:55:39Z", 346.28, "geizhals"]
+        ["2026-11-21T19:55:39Z", 346.28, "geizhals"],
+        ["2026-11-22T07:15:18Z", 346.89, "geizhals"]
       ]
     },
     "ssd-wd-black-sn7100-2tb": {
