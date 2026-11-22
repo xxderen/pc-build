@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T19:55:39Z",
+  "updated_at": "2026-11-22T00:05:51Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -536,8 +536,8 @@
       ]
     },
     "mon-asus-rog-strix-xg27aqdmgr-gen2": {
-      "current": {"price": 431.57, "merchant": "Easynotebooks", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-21T19:55:39Z"},
-      "notified": {"price": 419.0, "at": "2026-11-18T10:29:20Z", "kinds": ["drop"]},
+      "current": {"price": 404.99, "merchant": "mediamarkt-stade", "url": "https://geizhals.de/asus-rog-strix-oled-xg27aqdmg-gen2-xg27aqdmgr-90lm0cc0-b01171-a3610427.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-22T00:05:51Z"},
+      "notified": {"price": 404.99, "at": "2026-11-22T00:05:51Z", "kinds": ["drop"]},
       "history": [
         ["2026-10-01T10:26:36Z", 436.99, "geizhals"],
         ["2026-10-07T20:03:38Z", 449.0, "geizhals"],
@@ -555,7 +555,8 @@
         ["2026-11-14T06:51:55Z", 399.0, "geizhals"],
         ["2026-11-16T18:46:23Z", 429.99, "geizhals"],
         ["2026-11-18T10:29:20Z", 419.0, "geizhals"],
-        ["2026-11-21T19:55:39Z", 431.57, "geizhals"]
+        ["2026-11-21T19:55:39Z", 431.57, "geizhals"],
+        ["2026-11-22T00:05:51Z", 404.99, "geizhals"]
       ]
     },
     "mon-gigabyte-mo27q28gr": {
