@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T18:37:34Z",
+  "updated_at": "2026-11-25T02:55:41Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -197,7 +197,7 @@
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 363.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-24T18:37:34Z"},
+      "current": {"price": 366.66, "merchant": "Amazon.de", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-25T02:55:41Z"},
       "notified": {"price": 363.0, "at": "2026-11-24T18:37:34Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -255,7 +255,8 @@
         ["2026-11-18T18:59:30Z", 366.0, "geizhals"],
         ["2026-11-19T18:29:10Z", 365.0, "geizhals"],
         ["2026-11-23T22:49:05Z", 366.66, "geizhals"],
-        ["2026-11-24T18:37:34Z", 363.0, "geizhals"]
+        ["2026-11-24T18:37:34Z", 363.0, "geizhals"],
+        ["2026-11-25T02:55:41Z", 366.66, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
