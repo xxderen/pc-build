@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T14:41:09Z",
+  "updated_at": "2026-11-27T23:12:52Z",
   "parts": {
     "aio-tryx-panorama-360-white": {
       "current": {"price": 378.88, "merchant": "Aquatuning", "url": "https://geizhals.de/tryx-panorama-argb-360-white-l-p360a-as3m-g1w-a3497067.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-13T11:22:40Z"},
@@ -13,7 +13,7 @@
       ]
     },
     "board-b850-aorus-elite-wifi7-ice": {
-      "current": {"price": 153.0, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-16T18:46:23Z"},
+      "current": {"price": 153.0, "merchant": "Amazon.de", "url": "https://geizhals.de/gigabyte-b850-aorus-elite-wifi7-ice-a3380369.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-27T23:12:52Z"},
       "notified": {"price": 153.0, "at": "2026-11-16T08:18:11Z", "kinds": ["drop", "target", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 187.4, "geizhals"],
@@ -105,7 +105,7 @@
       ]
     },
     "cover-aurora-learn-24pin-white": {
-      "current": {"price": 42.28, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-26T22:47:39Z"},
+      "current": {"price": 42.35, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527548729", "source": "shopify", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -149,11 +149,12 @@
         ["2026-11-23T22:49:05Z", 42.42, "shopify"],
         ["2026-11-24T18:37:34Z", 42.32, "shopify"],
         ["2026-11-25T21:54:19Z", 42.43, "shopify"],
-        ["2026-11-26T22:47:39Z", 42.28, "shopify"]
+        ["2026-11-26T22:47:39Z", 42.28, "shopify"],
+        ["2026-11-27T23:12:52Z", 42.35, "shopify"]
       ]
     },
     "cover-aurora-learn-3x8pin-white": {
-      "current": {"price": 42.28, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-26T22:47:39Z"},
+      "current": {"price": 42.35, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/aurora-learn-argb-psu-cover?variant=51360527614265", "source": "shopify", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 40.86, "shopify"],
@@ -197,11 +198,12 @@
         ["2026-11-23T22:49:05Z", 42.42, "shopify"],
         ["2026-11-24T18:37:34Z", 42.32, "shopify"],
         ["2026-11-25T21:54:19Z", 42.43, "shopify"],
-        ["2026-11-26T22:47:39Z", 42.28, "shopify"]
+        ["2026-11-26T22:47:39Z", 42.28, "shopify"],
+        ["2026-11-27T23:12:52Z", 42.35, "shopify"]
       ]
     },
     "cpu-9800x3d": {
-      "current": {"price": 363.0, "merchant": "mediacore24", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-27T14:41:09Z"},
+      "current": {"price": 366.66, "merchant": "Amazon.de", "url": "https://geizhals.de/amd-ryzen-7-9800x3d-100-100001084wof-a3336051.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
       "notified": {"price": 363.0, "at": "2026-11-24T18:37:34Z", "kinds": ["drop", "deal"]},
       "history": [
         ["2026-10-01T10:26:36Z", 389.0, "geizhals"],
@@ -261,11 +263,12 @@
         ["2026-11-23T22:49:05Z", 366.66, "geizhals"],
         ["2026-11-24T18:37:34Z", 363.0, "geizhals"],
         ["2026-11-25T02:55:41Z", 366.66, "geizhals"],
-        ["2026-11-27T14:41:09Z", 363.0, "geizhals"]
+        ["2026-11-27T14:41:09Z", 363.0, "geizhals"],
+        ["2026-11-27T23:12:52Z", 366.66, "geizhals"]
       ]
     },
     "fan-matrix-pro-120-white-forward": {
-      "current": {"price": 20.59, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-26T22:47:39Z"},
+      "current": {"price": 20.62, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644160313", "source": "shopify", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -304,11 +307,12 @@
         ["2026-11-23T22:49:05Z", 20.66, "shopify"],
         ["2026-11-24T18:37:34Z", 20.61, "shopify"],
         ["2026-11-25T21:54:19Z", 20.67, "shopify"],
-        ["2026-11-26T22:47:39Z", 20.59, "shopify"]
+        ["2026-11-26T22:47:39Z", 20.59, "shopify"],
+        ["2026-11-27T23:12:52Z", 20.62, "shopify"]
       ]
     },
     "fan-matrix-pro-120-white-reverse": {
-      "current": {"price": 20.59, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-26T22:47:39Z"},
+      "current": {"price": 20.62, "merchant": "asiahorse.store (USD→EUR, inkl. 19 % MwSt. geschätzt)", "url": "https://asiahorse.store/products/matrix-pro-360mm-argb-fan-all-in-one?variant=54327644193081", "source": "shopify", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 19.9, "shopify"],
@@ -350,7 +354,8 @@
         ["2026-11-23T22:49:05Z", 20.66, "shopify"],
         ["2026-11-24T18:37:34Z", 20.61, "shopify"],
         ["2026-11-25T21:54:19Z", 20.67, "shopify"],
-        ["2026-11-26T22:47:39Z", 20.59, "shopify"]
+        ["2026-11-26T22:47:39Z", 20.59, "shopify"],
+        ["2026-11-27T23:12:52Z", 20.62, "shopify"]
       ]
     },
     "gpu-asus-tuf-5070ti-btf-oc-white": {
@@ -529,13 +534,14 @@
       "history": []
     },
     "gpu-zotac-solid-core-oc-white": {
-      "current": {"price": 1518.99, "merchant": "galaxus", "url": "https://geizhals.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174.html?hloc=de", "source": "geizhals", "availability": "shortly", "since": "2026-11-27T14:41:09Z"},
-      "notified": {"price": 1489.0, "at": "2026-11-27T04:46:32Z", "kinds": ["drop"]},
+      "current": {"price": 1569.99, "merchant": "ARLT Computer", "url": "https://geizhals.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-oc-white-edition-zt-b50710q2-10p-a3489174.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-27T23:12:52Z"},
+      "notified": null,
       "history": [
         ["2026-10-04T09:20:23Z", 1161.49, "geizhals"],
         ["2026-11-26T22:47:39Z", 1670.66, "geizhals"],
         ["2026-11-27T04:46:32Z", 1489.0, "geizhals"],
-        ["2026-11-27T14:41:09Z", 1518.99, "geizhals"]
+        ["2026-11-27T14:41:09Z", 1518.99, "geizhals"],
+        ["2026-11-27T23:12:52Z", 1569.99, "geizhals"]
       ]
     },
     "hub-asiahorse-umbra": {
@@ -685,7 +691,7 @@
       ]
     },
     "paste-mx6-2g": {
-      "current": {"price": 7.89, "merchant": "powerstun", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "in_stock", "since": "2026-11-24T18:37:34Z"},
+      "current": {"price": 9.39, "merchant": "pcwerk-meine", "url": "https://geizhals.de/arctic-mx-6-actcp00079a-a2841235.html?hloc=de", "source": "geizhals", "availability": "unavailable", "since": "2026-11-27T23:12:52Z"},
       "notified": null,
       "history": [
         ["2026-10-01T10:26:36Z", 3.11, "geizhals"],
